@@ -7,7 +7,7 @@
 
 先前整理了[[Blog/Research/測量一般人的同理心量表\|測量一般人的同理心量表]]，但這些量表是屬於reflective model或是formative model當時並沒有很詳細地去進行判斷。
 
-根據Coltman等人（2008）[[zotero note/coltmanFormativeReflectiveMeasurement2008\|coltmanFormativeReflectiveMeasurement2008]] 的整理，這兩種measurement model的差異可以從幾個地方來檢視（見[[Blog/Research/如何區分工具是reflective model或是formative model\|如何區分工具是reflective model或是formative model]]）。因此，我也試著用這六點來檢視先前找到的15個測量工具。這六點可以分做理論上以及實務上考量的要點，而實務上的要點需要測驗的結果，若原始論文沒有提供，我也難以判斷。因此，這裡主要是以理論上考量要點做為判斷依據。
+根據Coltman等人（2008）[[zotero note/coltmanFormativeReflectiveMeasurement2008\|coltmanFormativeReflectiveMeasurement2008]] 的整理，這兩種measurement model的差異可以從幾個地方來檢視（見[[Blog/Research/reflective model or formative model\|reflective model or formative model]]）。因此，我也試著用這六點來檢視先前找到的15個測量工具。這六點可以分做理論上以及實務上考量的要點，而實務上的要點需要測驗的結果，若原始論文沒有提供，我也難以判斷。因此，這裡主要是以理論上考量要點做為判斷依據。
 
 
 1. 要測量的構念的本質是否自然形成或是人為定義出來的
