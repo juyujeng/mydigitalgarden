@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/home/","title":"Home","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/blog/home/","title":"Home","tags":["blog","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -11,17 +11,17 @@
 
 ## Recent post
 
-| File                                                                                                | 上傳日期               | 最後修改              | 類別       |
-| --------------------------------------------------------------------------------------------------- | ------------------ | ----------------- | -------- |
-| [[Blog/Research/OSCE測驗感想\|OSCE測驗感想]]                                                             | August 18, 2022    | February 16, 2023 | \-       |
-| [[Blog/Research/Kirkpatrick model\|Kirkpatrick model]]                                           | August 18, 2022    | February 16, 2023 | \-       |
-| [[Blog/Research/metacognition the clinical definitions\|metacognition the clinical definitions]] | August 18, 2022    | February 16, 2023 | \-       |
-| [[Blog/Research/影響醫病情境同理行為的三大因素\|影響醫病情境同理行為的三大因素]]                                               | August 18, 2022    | February 16, 2023 | \-       |
-| [[Blog/Research/服裝對於同理感受的影響\|服裝對於同理感受的影響]]                                                       | August 18, 2022    | February 16, 2023 | \-       |
-| [[Blog/Document/glmmTMB vs. glmmadaptive\|glmmTMB vs. glmmadaptive]]                             | September 12, 2022 | February 16, 2023 | \-       |
-| [[Blog/Document/zero-inflated vs. hurdle model\|zero-inflated vs. hurdle model]]                 | September 12, 2022 | February 16, 2023 | \-       |
-| [[Blog/Document/認知歷程估計模型 diffusion model\|認知歷程估計模型 diffusion model]]                             | September 12, 2022 | February 16, 2023 | document |
-| [[Blog/Life/英文口說練習迴饋紀錄與心得 0801\|英文口說練習迴饋紀錄與心得 0801]]                                             | September 12, 2022 | February 16, 2023 | life     |
-| [[Blog/Research/OT學生的同理等級：文獻閱讀心得 2\|OT學生的同理等級：文獻閱讀心得 2]]                                         | September 12, 2022 | February 16, 2023 | \-       |
+| File                                                                                        | 上傳日期              | 最後修改              | 類別                                      |
+| ------------------------------------------------------------------------------------------- | ----------------- | ----------------- | --------------------------------------- |
+| [[Blog/Home\|Home]]                                                                      | February 15, 2023 | February 16, 2023 | <ul><li>site</li></ul>                  |
+| [[Blog/Research/empathy steps 20230209\|empathy steps 20230209]]                         | February 09, 2023 | February 16, 2023 | <ul><li>blog</li><li>research</li></ul> |
+| [[Blog/Research/OT empathy response level\|OT empathy response level]]                   | February 03, 2023 | February 16, 2023 | \-                                      |
+| [[Blog/Research/empathy steps 20230131\|empathy steps 20230131]]                         | January 31, 2023  | February 16, 2023 | blog                                    |
+| [[Blog/Research/empathy my point of view\|empathy my point of view]]                     | January 14, 2023  | February 16, 2023 | blog                                    |
+| [[Blog/Research/The empathy steps 20230113\|The empathy steps 20230113]]                 | January 13, 2023  | February 16, 2023 | blog                                    |
+| [[Blog/Research/The empathy steps 20230116\|The empathy steps 20230116]]                 | January 13, 2023  | February 16, 2023 | blog                                    |
+| [[Blog/Research/The Empathy Cycle\|The Empathy Cycle]]                                   | January 11, 2023  | February 16, 2023 | blog                                    |
+| [[Blog/Research/empathy definition for OT training\|empathy definition for OT training]] | January 10, 2023  | February 16, 2023 | blog                                    |
+| [[Blog/Research/potential nonverbal cues\|potential nonverbal cues]]                     | October 25, 2022  | February 16, 2023 | blog                                    |
 
 
