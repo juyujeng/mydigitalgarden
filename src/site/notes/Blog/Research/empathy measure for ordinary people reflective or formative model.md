@@ -47,7 +47,6 @@ formative model
 
 | File                                                                                                                                                               | 模型                           | 目標對象                              | 測量方式 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- | --------------------------------- | ---- |
-| [[tasks and measurements/Toronto Empathy Questionnaire\|Toronto Empathy Questionnaire]]                                                                         | <ul><li>reflective</li></ul> | 一般人                               | 自評   |
 | [[tasks and measurements/empathy measurement/Multidimensional Emotional Empathy Scale\|Multidimensional Emotional Empathy Scale]]                               | reflective                   | <ul><li>一般人</li><li>青少年</li></ul> | 自評   |
 | [[tasks and measurements/empathy measurement/青少年復原力量表\|青少年復原力量表]]                                                                                               | reflective                   | 青少年                               | 自評   |
 | [[tasks and measurements/empathy measurement/short form Empathy Quotient\|short form Empathy Quotient]]                                                         | reflective                   | 一般人                               | 自評   |
@@ -63,4 +62,5 @@ formative model
 | [[tasks and measurements/empathy measurement/Feeling and Thinking Scale\|Feeling and Thinking Scale]]                                                           | reflective                   | 兒童                                | 自評   |
 | [[tasks and measurements/empathy measurement/Basic Empathy Scale (BES)\|Basic Empathy Scale (BES)]]                                                             | reflective                   | <ul><li>青少年</li><li>一般人</li></ul> | 自評   |
 | [[tasks and measurements/empathy measurement/Balanced Emotional Empathy Scale (BEES)\|Balanced Emotional Empathy Scale (BEES)]]                                 | reflective                   | 一般人                               | 自評   |
+| [[tasks and measurements/Toronto Empathy Questionnaire\|Toronto Empathy Questionnaire]]                                                                         | <ul><li>reflective</li></ul> | 一般人                               | 自評   |
 | [[tasks and measurements/Empathy Quotient\|Empathy Quotient]]                                                                                                   | reflective                   | <ul><li>一般人</li></ul>             | 自評   |
