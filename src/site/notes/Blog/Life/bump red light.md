@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/life/bump-red-light/","title":"闖紅燈","tags":["blog"]}
+{"dg-publish":true,"permalink":"/Blog/Life/bump red light/","title":"闖紅燈","tags":["blog"]}
 ---
 
 
