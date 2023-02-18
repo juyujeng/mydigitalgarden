@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research/the-criteria-of-good-project/","title":"一個可以通過的計畫應該要有什麼條件？","tags":["blog"]}
+{"dg-publish":true,"permalink":"/Blog/Research/the criteria of good project/","title":"一個可以通過的計畫應該要有什麼條件？","tags":["blog"]}
 ---
 
 
