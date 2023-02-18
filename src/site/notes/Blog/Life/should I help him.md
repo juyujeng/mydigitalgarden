@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/life/should-i-help-him/","title":"應該要幫助他嗎","tags":["blog","life"]}
+{"dg-publish":true,"permalink":"/Blog/Life/should I help him/","title":"應該要幫助他嗎","tags":["blog","life"]}
 ---
 
 
