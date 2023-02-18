@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research/ot-empathy-response-level/","title":"同理回應等級"}
+{"dg-publish":true,"permalink":"/Blog/Research/OT empathy response level/","title":"同理回應等級"}
 ---
 
 
