@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research/empathy-attitudes-and-skills/","title":"同理是態度與技術的展現","tags":["blog","empathy","ideas"]}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy attitudes and skills/","title":"同理是態度與技術的展現","tags":["blog","empathy","ideas"]}
 ---
 
 
