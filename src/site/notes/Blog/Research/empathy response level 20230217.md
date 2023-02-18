@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research/empathy-response-level-20230217/","title":"同理回應等級 20230217","tags":["blog","empathy/course","manuscript"]}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy response level 20230217/","title":"同理回應等級 20230217","tags":["blog","empathy/course","manuscript"]}
 ---
 
 
