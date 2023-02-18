@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research/definitions-of-empathy/","title":"同理心也是多元","tags":["blog","empathy"]}
+{"dg-publish":true,"permalink":"/Blog/Research/definitions of empathy/","title":"同理心也是多元","tags":["blog","empathy"]}
 ---
 
 
