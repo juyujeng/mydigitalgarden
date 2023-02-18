@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research/metacognitioin-more-details-from-bodily-awareness/","title":"後設認知測量方法的思考","tags":["blog","metacognition"]}
+{"dg-publish":true,"permalink":"/Blog/Research/metacognitioin more details from bodily awareness/","title":"後設認知測量方法的思考","tags":["blog","metacognition"]}
 ---
 
 
