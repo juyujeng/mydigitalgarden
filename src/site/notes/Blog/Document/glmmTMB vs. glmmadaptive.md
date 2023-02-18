@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/document/glmm-tmb-vs-glmmadaptive/","title":"glmmTMB vs. GLMMadaptive","tags":["blog","R/packages"]}
+{"dg-publish":true,"permalink":"/Blog/Document/glmmTMB vs. glmmadaptive/","title":"glmmTMB vs. GLMMadaptive","tags":["blog","R/packages"]}
 ---
 
 
