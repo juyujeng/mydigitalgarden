@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research-post-index/","title":"Research post index","tags":["blog"]}
+{"dg-publish":true,"permalink":"/Blog/Research post index/","title":"Research post index","tags":["blog"]}
 ---
 
 
