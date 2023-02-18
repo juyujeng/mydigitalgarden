@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/document/zero-inflated-vs-hurdle-model/","title":"zero-inflated vs. hurdle model","tags":["blog","count","statistics"]}
+{"dg-publish":true,"permalink":"/Blog/Document/zero-inflated vs. hurdle model/","title":"zero-inflated vs. hurdle model","tags":["blog","count","statistics"]}
 ---
 
 
