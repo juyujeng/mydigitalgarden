@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/document/diffusion-model/","title":"認知歷程估計模型 diffusion model","tags":["blog","psychology","method","guideline"]}
+{"dg-publish":true,"permalink":"/Blog/Document/認知歷程估計模型 diffusion model/","title":"認知歷程估計模型 diffusion model","tags":["blog","psychology","method","guideline"]}
 ---
 
 
