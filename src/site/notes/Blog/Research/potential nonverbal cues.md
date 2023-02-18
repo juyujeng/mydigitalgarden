@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research/potential-nonverbal-cues/","title":"potential nonverbal cues","tags":["blog","empathy/course","nonverbal"]}
+{"dg-publish":true,"permalink":"/Blog/Research/potential nonverbal cues/","title":"potential nonverbal cues","tags":["blog","empathy/course","nonverbal"]}
 ---
 
 
