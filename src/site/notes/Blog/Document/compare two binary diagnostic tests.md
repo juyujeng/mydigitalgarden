@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/document/compare-two-binary-diagnostic-tests/","title":"compare two binary diagnostic tests","tags":["diagnostic,statistic,Rpackage"]}
+{"dg-publish":true,"permalink":"/Blog/Document/compare two binary diagnostic tests/","title":"compare two binary diagnostic tests","tags":["diagnostic,statistic,Rpackage"]}
 ---
 
 
