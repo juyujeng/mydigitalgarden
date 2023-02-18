@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/document/unitization-problem-and-unitizing-reliability/","title":"unitization problem and code reliability","tags":["docs","coding","reliability","agreement","method"]}
+{"dg-publish":true,"permalink":"/Blog/Document/unitization problem and unitizing reliability/","title":"unitization problem and code reliability","tags":["docs","coding","reliability","agreement","method"]}
 ---
 
 
