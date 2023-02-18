@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/life/firefox-concerns-priviate/","title":"firefox真的比較隱密","tags":["blog","life"]}
+{"dg-publish":true,"permalink":"/Blog/Life/firefox concerns priviate/","title":"firefox真的比較隱密","tags":["blog","life"]}
 ---
 
 
