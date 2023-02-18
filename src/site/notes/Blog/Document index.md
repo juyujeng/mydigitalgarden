@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/document-index/","title":"Document index","tags":["blog"]}
+{"dg-publish":true,"permalink":"/Blog/Document index/","title":"Document index","tags":["blog"]}
 ---
 
 
