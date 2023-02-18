@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/work-stuff/empathy-training-course/course-materials/practice/empathic-response-example-life-struggle/","title":"如何有同理的回應生活中面臨的影響或難題","tags":["empathy/course/practice","blog"]}
+{"dg-publish":true,"permalink":"/@work stuff/empathy training course/course materials/practice/empathic response example life struggle/","title":"如何有同理的回應生活中面臨的影響或難題","tags":["empathy/course/practice","blog"]}
 ---
 
 
