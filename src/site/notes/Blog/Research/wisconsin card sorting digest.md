@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research/wisconsin-card-sorting-digest/","title":"wisconsin card sorting研究心得","tags":["blog","cognitive_flexibility","measurement"]}
+{"dg-publish":true,"permalink":"/Blog/Research/wisconsin card sorting digest/","title":"wisconsin card sorting研究心得","tags":["blog","cognitive_flexibility","measurement"]}
 ---
 
 
