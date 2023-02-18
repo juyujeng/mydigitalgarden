@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research/osce-my-point/","title":"OSCE測驗感想","tags":["blog"]}
+{"dg-publish":true,"permalink":"/Blog/Research/OSCE my point/","title":"OSCE測驗感想","tags":["blog"]}
 ---
 
 
