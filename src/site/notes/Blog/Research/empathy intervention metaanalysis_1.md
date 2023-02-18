@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research/empathy-intervention-metaanalysis-1/","title":"empathy intervention meta-analysis文獻紀錄：1","tags":["blog","empathy","references"]}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy intervention metaanalysis_1/","title":"empathy intervention meta-analysis文獻紀錄：1","tags":["blog","empathy","references"]}
 ---
 
 
