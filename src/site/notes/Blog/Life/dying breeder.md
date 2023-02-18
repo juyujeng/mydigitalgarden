@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/life/dying-breeder/","title":"快要中風的養育者","tags":["blog","life"]}
+{"dg-publish":true,"permalink":"/Blog/Life/dying breeder/","title":"快要中風的養育者","tags":["blog","life"]}
 ---
 
 
