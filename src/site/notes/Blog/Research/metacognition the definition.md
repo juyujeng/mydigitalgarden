@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research/metacognition-the-definition/","title":"metacognition: the definitions","tags":["blog","metacognition","ideas","terms"]}
+{"dg-publish":true,"permalink":"/Blog/Research/metacognition the definition/","title":"metacognition: the definitions","tags":["blog","metacognition","ideas","terms"]}
 ---
 
 
