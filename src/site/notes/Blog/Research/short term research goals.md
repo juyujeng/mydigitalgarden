@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/research/short-term-research-goals/","title":"近期研究目標與方向","tags":["blog","ideas"]}
+{"dg-publish":true,"permalink":"/Blog/Research/short term research goals/","title":"近期研究目標與方向","tags":["blog","ideas"]}
 ---
 
 
