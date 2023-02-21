@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Home","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Home","tags":["blog","gardenEntry"]}
 ---
 
 
 紀錄研究生活中的心得與筆記
 也分享思考過程的演變
 如果有興趣想要追求身心的平衡
-可以參考 [臺灣身心中軸覺察發展中心](https:bmaa.tw)
+可以參考 [臺灣身心中軸覺察發展中心](https://bmaa.tw)
 
 
 ## [[Blog/About\|著作列表與簡歷]]
