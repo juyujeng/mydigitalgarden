@@ -13,7 +13,7 @@
 
 ```
 I am submitting an article to american journal of occupational therapy.
-please check my introduction for grammar. and revise sentences to be more concsice if possiple. make sure the coherence of logic between paragraphes.
+please check my introduction for grammar. and revise sentences to be more concise if possible. make sure the coherence of logic between paragraphs.
 do not change the format of inline citation
 ```
 
