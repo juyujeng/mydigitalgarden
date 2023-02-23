@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Home","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Home","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -22,10 +22,10 @@
 
 | File                                                                        | 標題                         | 上傳日期       | 最後修改       | 類別                                                   |
 | --------------------------------------------------------------------------- | -------------------------- | ---------- | ---------- | ---------------------------------------------------- |
+| [[Blog/Research/生活中面臨的影響或難題20230222\|生活中面臨的影響或難題20230222]]               | 如何有同理的回應生活中面臨的影響或難題        | 2023/02/22 | 2023/02/23 | <ul><li>blog</li><li>note</li><li>research</li></ul> |
 | [[Blog/Research/機器人寫同理課程訓練劇本_20220222\|機器人寫同理課程訓練劇本_20220222]]           | 機器人寫同理課程訓練劇本               | 2023/02/22 | 2023/02/22 | <ul><li>blog</li><li>research</li></ul>              |
 | [[Blog/Research/同理的步驟20230222\|同理的步驟20230222]]                           | 同理的步驟                      | 2023/02/22 | 2023/02/22 | <ul><li>blog</li><li>research</li></ul>              |
 | [[Blog/Research/同理回應等級20230222\|同理回應等級20230222]]                         | 同理回應等級                     | 2023/02/22 | 2023/02/22 | <ul><li>blog</li><li>reseaerch</li></ul>             |
-| [[Blog/Research/生活中面臨的影響或難題20230222\|生活中面臨的影響或難題20230222]]               | 如何有同理的回應生活中面臨的影響或難題        | 2023/02/22 | 2023/02/22 | <ul><li>blog</li><li>note</li><li>research</li></ul> |
 | [[Blog/Research/再戰ChatGPT 草稿的修改\|再戰ChatGPT 草稿的修改]]                       | 再戰ChatGPT：草稿的修改            | 2023/02/21 | \-         | <ul><li>blog</li><li>research</li></ul>              |
 | [[Blog/Life/ChatGPT在搞我\|ChatGPT在搞我]]                                     | ChatGPT在搞我                 | 2023/02/18 | \-         | <ul><li>blog</li><li>research</li><li>life</li></ul> |
 | [[Blog/Research/empathy steps 20230209\|empathy steps 20230209]]         | 同理的層次、步驟與範例 20230209       | 2023/02/09 | 2023/02/09 | <ul><li>blog</li><li>research</li></ul>              |
