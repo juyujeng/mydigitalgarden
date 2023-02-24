@@ -7,6 +7,7 @@
 
 | File                                                                  | 標題                 | 上傳日期       | 最後修改       | 類別                                                   |
 | --------------------------------------------------------------------- | ------------------ | ---------- | ---------- | ---------------------------------------------------- |
+| [[Blog/Life/ChatGPT幫我改code\|ChatGPT幫我改code]]                       | ChatGPT幫我改code     | 2023/02/24 | \-         | <ul><li>blog</li><li>life</li></ul>                  |
 | [[Blog/Life/ChatGPT在搞我\|ChatGPT在搞我]]                               | ChatGPT在搞我         | 2023/02/18 | \-         | <ul><li>blog</li><li>research</li><li>life</li></ul> |
 | [[Blog/Life/bump red light\|bump red light]]                       | 闖紅燈                | 2022/10/19 | \-         | <ul><li>blog</li><li>life</li></ul>                  |
 | [[Blog/Life/smoothly pass\|smoothly pass]]                         | 順順的就過去了            | 2022/09/28 | 2022/09/30 | life                                                 |
