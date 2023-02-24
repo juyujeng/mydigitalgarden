@@ -89,6 +89,18 @@ module.exports = function (eleventyConfig) {
           }">${title}\n<div class="callout-content">${md.render(
             code
           )}</div></div>`;
+        } if (token.info === "multi-column") {
+              const code = token.content.trim();
+              const columns = code.split("|").map((c) => c.trim());
+              const columnCount = columns.length;
+              const columnClasses = `cols-${columnCount}`;
+              const columnWidth = Math.floor(100 / columnCount);
+              const columnStyle = `style="width:${columnWidth}%"`;
+              const columnHTML = columns
+                .map((c) => `<div class="col">${md.render(c)}</div>`)
+                .join("");
+              const html = `<div class="multi-column ${columnClasses}">${columnHTML}</div>`;
+              return html;
         }
 
         // Other languages
