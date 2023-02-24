@@ -272,10 +272,6 @@ body{
 /*	--background-mcl-card: hsl(300, 5%, 90%); */
 }
 
-/* the site generator identify > [!multi-column] as a blockquote rather than a callout, thus create a new callout named multi-column here */
-.callout[data-callout="multi-column"] {
-    --callout-color: 0, 0, 0;
-}
 
 /* === Multi Column "DIV"'s Using Callout === */
 /* 	some issues still persists
