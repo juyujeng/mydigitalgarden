@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Home","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Home","tags":["blog","gardenEntry"]}
 ---
 
+
+![老梅石槽.jpg](/img/user/Blog/images/%E8%80%81%E6%A2%85%E7%9F%B3%E6%A7%BD.jpg)
 
 紀錄研究生活中的心得與筆記
 也分享思考過程的演變
