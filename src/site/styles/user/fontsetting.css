@@ -1,7 +1,15 @@
-body{
+h1, h2, h3 {
+    font-family: 'Noto Serif TC', serif; 
+}
+
+.theme-dark {
+    background: var(--background-primary);
+    color: var(--text-normal);
     font-family: 'Noto Sans TC', sans-serif;
 }
 
-h1, h2, h3 {
-    font-family: 'Noto Serif TC', serif; 
+.theme-light {
+    background: white;
+    color: black;
+    font-family: 'Noto Sans TC', sans-serif;
 }
