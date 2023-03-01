@@ -1,4 +1,4 @@
-<p>Created on {{ page.date }}</p>
+<p>Created on {{ page.date | date("YYYY-MM-DD") }}</p>
 {% if page.lastmod %}
-  <p>Last updated on {{ page.lastmod }}</p>
+  <p>Last updated on {{ page.lastmod | date("YYYY-MM-DD") }}</p>
 {% endif %}
