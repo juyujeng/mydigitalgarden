@@ -1,9 +1,9 @@
 
 <p>
-Publish on {{ page.date | date("YYYY-MM-DD") }}   
+Publish on {{ page.date }}   
 </p>
 
 <p>
-Last updated on {% if page.frontmatter.lastmod %} {{ page.frontmatter.lastmod | date("YYYY-MM-DD") }} {% endif %}
+Last updated on {% if page.frontmatter.lastmod %} {{ page.frontmatter.lastmod }} {% endif %}
 </p>
 
