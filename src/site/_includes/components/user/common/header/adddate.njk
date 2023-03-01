@@ -1,4 +1,6 @@
-<p>Created on {{ page.frontmatter.date | date("YYYY-MM-DD") }}</p>
-{% if page.lastmod %}
+{% if page.frontmatter.date %}
+<p>Publish on {{ page.frontmatter.date | date("YYYY-MM-DD") }}</p>
+{% endif %}
+{% if page.frontmatter.lastmod %}
   <p>Last updated on {{ page.frontmatter.lastmod | date("YYYY-MM-DD") }}</p>
 {% endif %}
