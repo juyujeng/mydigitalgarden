@@ -1,11 +1,4 @@
-{% if page.frontmatter.date %}
-<div>
-  <p>Date: {{ page.frontmatter.date }}</p>
-</div>
-{% endif %}
-
-{% if page.frontmatter.lastmod %}
-<div>
-  <p>UpDate: {{ page.frontmatter.lastmod }}</p>
-</div>
+<p>Created on {{ page.date }}</p>
+{% if page.lastmod %}
+  <p>Last updated on {{ page.lastmod }}</p>
 {% endif %}
