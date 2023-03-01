@@ -62,3 +62,19 @@ h1, h2, h3 {
     font-family: 'Noto Sans TC', sans-serif;
 }
 ```
+
+### 新增日期到文章標題之後
+
+- create a  new njk file to `src/site/_includes/components/user/common/header/adddate.njk`
+
+- use `page.frontmatter.VARNAME` to extract information in frontmatter
+    - `page.VARNAME`會捉檔名上面的日期
+
+```
+{% if page.frontmatter.date %}
+<p>Publish on {{ page.frontmatter.date | date("YYYY-MM-DD") }}</p>
+{% endif %}
+{% if page.frontmatter.lastmod %}
+  <p>Last updated on {{ page.frontmatter.lastmod | date("YYYY-MM-DD") }}</p>
+{% endif %}
+```
