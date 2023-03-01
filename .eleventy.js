@@ -12,13 +12,10 @@ const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 const { format } = require('date-fns');
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('date', function(date, formatStr) {
     return format(date, formatStr);
   });
-};
-
-module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
