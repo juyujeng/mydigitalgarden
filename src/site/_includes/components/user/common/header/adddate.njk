@@ -4,6 +4,6 @@ Publish on {{ page.date | date("yyyy-MM-dd")}}
 </p>
 
 <p>
-Last updated on {% if page.lastmod %} {{ page.lastmod }} {% endif %}
+Last updated on {% if page.frontmatter.lastmod %} {{ page.frontmatter.lastmod }} {% endif %}
 </p>
 
