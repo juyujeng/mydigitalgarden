@@ -1,4 +1,5 @@
-{% set pagematter = matter(page.inputContent) %}
+{% set grayMatter = require("gray-matter") %}
+{% set pagematter = grayMatter(page.inputContent) %}
 
 <p>
 Publish on {{ pagematter.data.date }}   
@@ -8,4 +9,3 @@ Publish on {{ pagematter.data.date }}
 Last updated on {% if pagematter.data.lastmod %} {{ pagematter.data.lastmod }} {% endif %}
 </p>
 
-DEBUG: {{ page.data }}
