@@ -1,10 +1,11 @@
+{% set pagematter = matter(page.inputContent) %}
 
 <p>
-Publish on {{ page.data.date }}   
+Publish on {{ pagematter.data.date }}   
 </p>
 
 <p>
-Last updated on {% if page.data.lastmod %} {{ page.data.lastmod }} {% endif %}
+Last updated on {% if pagematter.data.lastmod %} {{ pagematter.data.lastmod }} {% endif %}
 </p>
 
 DEBUG: {{ page.data }}
