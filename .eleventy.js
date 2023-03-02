@@ -13,9 +13,7 @@ const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 const { format } = require('date-fns');
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addFilter("matter", function(value) {
-    return matter(value);
-  });
+
   eleventyConfig.addFilter('date', function(date, formatStr) {
     return format(date, formatStr);
   });
