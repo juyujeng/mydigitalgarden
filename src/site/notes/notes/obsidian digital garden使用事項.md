@@ -71,10 +71,24 @@ h1, h2, h3 {
     - `page.VARNAME`會捉檔名上面的日期
 
 ```
-{% if page.frontmatter.date %}
-<p>Publish on {{ page.frontmatter.date | date("YYYY-MM-DD") }}</p>
-{% endif %}
+
+<p>Publish on {{ page.date | date("YYYY-MM-DD") }}</p>
+
 {% if page.frontmatter.lastmod %}
   <p>Last updated on {{ page.frontmatter.lastmod | date("YYYY-MM-DD") }}</p>
 {% endif %}
 ```
+
+但由於沒有內建的`date` filter，這裡會出錯，需要新增`date-fns`到`eleventy.js`裡面。要注意，由於本來`eleventy.js`已經有`module.exports = function (eleventyConfig) {}`了，所以要把`addFilter`那一段加到裡面去
+
+```
+const { format } = require('date-fns');
+
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addFilter('date', function(date, formatStr) {
+    return format(date, formatStr);
+  });
+};
+```
+
+然後到`package.json`裡面新增`"date-fns": "^2.24.0"`到`"dependencies": {}`裡面。記得前一行的最末要加上`,`
