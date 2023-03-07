@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -30,6 +30,7 @@
 
 | File                                                                | 標題                             | 上傳日期       | 最後修改       | 類別                                                   |
 | ------------------------------------------------------------------- | ------------------------------ | ---------- | ---------- | ---------------------------------------------------- |
+| [[Blog/Research/openAI API的初步瞭解\|openAI API的初步瞭解]]               | openAI API的初步瞭解                | 2023/03/07 | \-         | blog                                                 |
 | [[Blog/Research/使用AI進行會議紀錄\|使用AI進行會議紀錄]]                         | 使用AI進行會議紀錄                     | 2023/03/06 | 2023/03/07 | <ul><li>blog</li><li>research</li></ul>              |
 | [[Blog/Life/ChatGPT可以幫我改code\|ChatGPT可以幫我改code]]                 | ChatGPT可以幫我改code，但是我得先發現問題出在哪裡 | 2023/02/24 | \-         | <ul><li>blog</li><li>life</li></ul>                  |
 | [[Blog/Research/同理回應等級20230222\|同理回應等級20230222]]                 | 同理回應等級                         | 2023/02/22 | 2023/03/01 | <ul><li>blog</li><li>reseaerch</li></ul>             |
@@ -39,7 +40,6 @@
 | [[Blog/Research/再戰ChatGPT 草稿的修改\|再戰ChatGPT 草稿的修改]]               | 再戰ChatGPT：草稿的修改                | 2023/02/21 | \-         | <ul><li>blog</li><li>research</li></ul>              |
 | [[Blog/Life/ChatGPT在搞我\|ChatGPT在搞我]]                             | ChatGPT在搞我                     | 2023/02/18 | \-         | <ul><li>blog</li><li>research</li><li>life</li></ul> |
 | [[Blog/Research/empathy steps 20230209\|empathy steps 20230209]] | 同理的層次、步驟與範例 20230209           | 2023/02/09 | 2023/02/09 | <ul><li>blog</li><li>research</li></ul>              |
-| [[Blog/Research/empathy steps 20230131\|empathy steps 20230131]] | 同理的層次與步驟 20230124              | 2023/01/24 | 2023/01/31 | blog                                                 |
 
 
 </div></div>
