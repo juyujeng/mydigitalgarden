@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/empathy definition for OT training/","title":"empathy definition for OT training","tags":["blog","empathy/course"]}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy definition for OT training/","title":"empathy definition for OT training","tags":["blog","empathy/course"],"created":"2023-01-10","updated":""}
 ---
 
 
