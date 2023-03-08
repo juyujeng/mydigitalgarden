@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/The Empathy Cycle/","title":"The Empathy Cycle","tags":["blog","empathy"]}
+{"dg-publish":true,"permalink":"/Blog/Research/The Empathy Cycle/","title":"The Empathy Cycle","tags":["blog","empathy"],"created":"2023-01-11","updated":""}
 ---
 
 
