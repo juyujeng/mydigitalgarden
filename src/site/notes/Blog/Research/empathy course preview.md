@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/empathy course preview/","title":"同理課程雛型","tags":["blog","empathy","training","intervention","ideas"]}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy course preview/","title":"同理課程雛型","tags":["blog","empathy","training","intervention","ideas"],"created":"2022-02-24","updated":""}
 ---
 
 
