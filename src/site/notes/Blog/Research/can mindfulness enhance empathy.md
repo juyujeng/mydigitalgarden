@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/can mindfulness enhance empathy/","title":"正念可以增加同理心嗎？","tags":["blog","empathy","mindfulness","intervention"]}
+{"dg-publish":true,"permalink":"/Blog/Research/can mindfulness enhance empathy/","title":"正念可以增加同理心嗎？","tags":["blog","empathy","mindfulness","intervention"],"created":"2022-03-07","updated":""}
 ---
 
 
