@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Life/smoothly pass/","title":"順順的就過去了","tags":["blog","empathy","writing","talk","psychology","dualsystem"]}
+{"dg-publish":true,"permalink":"/Blog/Life/smoothly pass/","title":"順順的就過去了","tags":["blog","empathy","writing","talk","psychology","dualsystem"],"created":"2022-09-28T00:00:00.000Z","updated":"2022-09-30"}
 ---
 
 
