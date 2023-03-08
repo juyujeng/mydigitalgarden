@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/The empathy steps 20230116/","title":"The empathy steps 20230116","tags":["blog","empathy/course"]}
+{"dg-publish":true,"permalink":"/Blog/Research/The empathy steps 20230116/","title":"The empathy steps 20230116","tags":["blog","empathy/course"],"created":"2023-01-16","updated":""}
 ---
 
 
