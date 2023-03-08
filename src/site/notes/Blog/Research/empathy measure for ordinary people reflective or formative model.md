@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/empathy measure for ordinary people reflective or formative model/","title":"測量一般人的同理心量表是reflective or formative model","tags":["blog","empathy","measurement","inventory","reflective","formative","manuscript"]}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy measure for ordinary people reflective or formative model/","title":"測量一般人的同理心量表是reflective or formative model","tags":["blog","empathy","measurement","inventory","reflective","formative","manuscript"],"created":"2022-07-20","updated":""}
 ---
 
 
