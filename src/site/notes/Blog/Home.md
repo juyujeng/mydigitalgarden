@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
 ---
 
 
@@ -30,6 +30,7 @@
 
 | File                                                              | 標題                             | 上傳日期       | 最後修改       | 類別                                                   |
 | ----------------------------------------------------------------- | ------------------------------ | ---------- | ---------- | ---------------------------------------------------- |
+| [[Kanban notes/同理課程相關用詞定義\|同理課程相關用詞定義]]                        | 同理課程相關用詞定義                     | 2023/03/17 | 2023/03/17 | <ul><li>note</li><li>research</li></ul>              |
 | [[Blog/Research/同理心訓練課程紀錄\|同理心訓練課程紀錄]]                         | 同理心訓練課程紀錄                      | 2023/03/16 | 2023/03/17 | <ul><li>blog</li><li>research</li></ul>              |
 | [[Blog/Research/openAI API的初步瞭解\|openAI API的初步瞭解]]             | openAI API的初步瞭解                | 2023/03/07 | \-         | blog                                                 |
 | [[Blog/Research/使用AI進行會議紀錄\|使用AI進行會議紀錄]]                       | 使用AI進行會議紀錄                     | 2023/03/06 | 2023/03/07 | <ul><li>blog</li><li>research</li></ul>              |
@@ -39,7 +40,6 @@
 | [[Blog/Research/生活中面臨的影響或難題20230222\|生活中面臨的影響或難題20230222]]     | 如何有同理的回應生活中面臨的影響或難題            | 2023/02/22 | 2023/03/08 | <ul><li>blog</li><li>note</li><li>research</li></ul> |
 | [[Blog/Research/同理的步驟20230222\|同理的步驟20230222]]                 | 同理的步驟                          | 2023/02/22 | 2023/02/24 | <ul><li>blog</li><li>research</li></ul>              |
 | [[Blog/Research/機器人寫同理課程訓練劇本_20220222\|機器人寫同理課程訓練劇本_20220222]] | 機器人寫同理課程訓練劇本                   | 2023/02/22 | 2023/02/22 | <ul><li>blog</li><li>research</li></ul>              |
-| [[Blog/Research/再戰ChatGPT 草稿的修改\|再戰ChatGPT 草稿的修改]]             | 再戰ChatGPT：草稿的修改                | 2023/02/21 | \-         | <ul><li>blog</li><li>research</li></ul>              |
 
 
 </div></div>
