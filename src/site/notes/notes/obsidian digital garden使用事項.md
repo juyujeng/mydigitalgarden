@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/obsidian digital garden使用事項/","title":"digital garden使用注意事項","tags":["plugin","webpage"],"created":"2023-02-17","updated":"2023-03-08"}
+{"dg-publish":true,"permalink":"/notes/obsidian digital garden使用事項/","title":"digital garden使用注意事項","tags":["plugin","webpage"],"created":"2023-02-17T00:00:00.000Z","updated":"2023-03-20T00:00:00.000Z"}
 ---
 
 
@@ -11,6 +11,8 @@
   - turn off note setting當中的slugify note url。使用這個方法就不會自動產生去掉非英文字母的連結了。
 
 ### 使用[Modular CSS Layout for Obsidian](https://github.com/efemkay/obsidian-modular-css-layout)
+
+※ [更新至 1.47.0 時已支援modular css layout](https://github.com/oleeskild/obsidian-digital-garden/issues/222#issuecomment-1474030860)，不需要再修改了
 
 若要使用[Modular CSS Layout for Obsidian](https://github.com/efemkay/obsidian-modular-css-layout)，因為`[!multi-column]`不會被成功辨識為是callout，而會被轉為blockquote。原因是「-」不是word characters。這時要去修改github當中根目錄底下的.eleventy.js
 
