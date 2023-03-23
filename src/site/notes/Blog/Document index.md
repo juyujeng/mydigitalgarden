@@ -13,3 +13,4 @@
 | [[Blog/Document/compare two binary diagnostic tests\|compare two binary diagnostic tests]]                     | compare two binary diagnostic tests      | 2022/10/18 | \-         | document                                |
 | [[Blog/Document/unitization problem and unitizing reliability\|unitization problem and unitizing reliability]] | unitization problem and code reliability | 2022/09/29 | 2022/09/29 | document                                |
 | [[Blog/Document/認知歷程估計模型 diffusion model\|認知歷程估計模型 diffusion model]]                                           | 認知歷程估計模型 diffusion model                 | 2021/12/03 | \-         | document                                |
+| [[R package/data/data.table/install data.table\|install data.table]]                                           | 如何在Mac M1上使用data.table多核運算               | 2023/03/23 | 2023/03/23 | document,blog                           |
