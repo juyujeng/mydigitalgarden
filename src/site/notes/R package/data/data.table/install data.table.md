@@ -1,12 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/R package/data/data.table/install data.table/","title":"如何在Mac M1上使用data.table多核運算","tags":["Rpackage/data,data.table,blog"],"created":"2023-03-23","updated":"2023-03-23T00:00:00.000Z"}
+{"dg-publish":true,"permalink":"/R package/data/data.table/install data.table/","title":"如何在Mac M1上使用data.table多核運算","tags":["Rpackage/data","data.table","blog"],"created":"2023-03-23T00:00:00.000Z","updated":"2023-03-24T00:00:00.000Z"}
 ---
 
 
-
-\ 在mac M1上使用R的`data.table`，這個資料處理套件時先前都會發生偵測不到openMP的錯誤，導致無法多核運算。先前雖然根據`data.table`的[wiki](https://github.com/Rdatatable/data.table/wiki/Installation)安裝步驟試了幾次卻總是失敗。事隔多月，今天突然成功了。紀錄一下成功的安裝過程。
-
-
+在mac M1上使用R的`data.table`，這個資料處理套件時先前都會發生偵測不到openMP的錯誤，導致無法多核運算。先前雖然根據`data.table`的[wiki](https://github.com/Rdatatable/data.table/wiki/Installation)安裝步驟試了幾次卻總是失敗。事隔多月，今天突然成功了。紀錄一下成功的安裝過程。
 
 ## 1. 安裝xcode
 
@@ -39,6 +36,5 @@ CPPFLAGS += -I/opt/homebrew/opt/libomp/include -Xclang -fopenmp
 ## 4. 在R當中安裝data.table
 
 執行`install.packages("data.table", type = "source")`
-
 
 也許使用source安裝會是這次可以成功的關鍵？
