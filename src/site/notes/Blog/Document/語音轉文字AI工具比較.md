@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/語音轉文字AI工具比較/","title":"語音轉文字AI工具比較","tags":["blog","ai","text"],"created":"2023-03-28T00:00:00.000Z","updated":"2023-03-28T00:00:00.000Z"}
+{"dg-publish":true,"permalink":"/Blog/Document/語音轉文字AI工具比較/","title":"雅婷逐字稿 vs. Whisper.cpp","tags":["blog","ai","text"],"created":"2023-03-28T00:00:00.000Z","updated":"2023-03-28T00:00:00.000Z"}
 ---
 
 
-# 語音轉文字AI工具比較
+# 雅婷逐字稿 vs. Whisper.cpp
 
 近來因為要做會議紀錄的關係開始有了需要進行語音轉文字的需求。我試了兩種AI工具，[雅婷逐字稿](https://asr.yating.tw/)以及[Whisper](https://github.com/openai/whisper)。雅婷逐字稿是臺灣的公司開發的線上工具，需要將影音檔上傳；而[Whisper](https://github.com/openai/whisper)則是openAI公司開發的開源程式，可以單機執行。只是Whisper轉譯的速度實在太慢了，我使用的是它的延伸程式[Whisper.cpp](https://github.com/ggerganov/whisper.cpp)。[Whisper.cpp](https://github.com/ggerganov/whisper.cpp)是用C/C++來運作，比起原來用`python`的[Whisper](https://github.com/openai/whisper)速度快了不少。使用上兩種工具適合的目的不太一樣，雅婷如其名，適合進行逐字稿的繕打，而[Whisper](https://github.com/openai/whisper)較適合用來產生字幕。以下就我的使用情況進行比較
 
