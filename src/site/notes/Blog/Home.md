@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
 ---
 
 
@@ -41,6 +41,7 @@
 | [[Blog/Research/openAI API的初步瞭解\|openAI API的初步瞭解]]                   | openAI API的初步瞭解            | 2023/03/07 | \-         | blog                                                      |
 | [[Blog/Research/使用AI進行會議紀錄\|使用AI進行會議紀錄]]                             | 使用AI進行會議紀錄                 | 2023/03/06 | 2023/03/07 | <ul><li>blog</li><li>research</li></ul>                   |
 
+{ .block-language-dataview}
 
 </div></div>
 
