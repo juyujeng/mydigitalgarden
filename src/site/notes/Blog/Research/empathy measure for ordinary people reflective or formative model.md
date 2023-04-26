@@ -64,3 +64,5 @@ formative model
 | [[tasks and measurements/empathy measurement/Basic Empathy Scale (BES)\|Basic Empathy Scale (BES)]]                                                             | reflective                   | <ul><li>青少年</li><li>一般人</li></ul> | 自評   |
 | [[tasks and measurements/empathy measurement/Balanced Emotional Empathy Scale (BEES)\|Balanced Emotional Empathy Scale (BEES)]]                                 | reflective                   | 一般人                               | 自評   |
 | [[tasks and measurements/Empathy Quotient\|Empathy Quotient]]                                                                                                   | reflective                   | <ul><li>一般人</li></ul>             | 自評   |
+
+{ .block-language-dataview}
