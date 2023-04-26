@@ -78,3 +78,5 @@
 | [[Blog/Research/factors affecting empathic behaviors in clinical\|factors affecting empathic behaviors in clinical]]                                   | 影響醫病情境同理行為的三大因素                           | \-         | \-         | \-                                                        |
 | [[Blog/Research/metacognition the clinical definitions\|metacognition the clinical definitions]]                                                       | Metacognition: the clinical definitions   | \-         | \-         | \-                                                        |
 | [[R package/data/data.table/install data.table\|install data.table]]                                                                                   | 如何在Mac M1上使用data.table多核運算                | 2023/03/23 | 2023/03/24 | <ul><li>document</li><li>blog</li></ul>                   |
+
+{ .block-language-dataview}
