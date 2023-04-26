@@ -42,6 +42,7 @@
 | [[tasks and measurements/empathy measurement/The cognitive, affective and somatic empathy scales\|The cognitive, affective and somatic empathy scales]]         | reflective                   | 一般人                               | \-   |
 | [[tasks and measurements/empathy measurement/empathy scale for teachers (EST)\|empathy scale for teachers (EST)]]                                               | reflective                   | teacher                           | 自評   |
 
+{ .block-language-dataview}
 
 # 參考文獻
 
