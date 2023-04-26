@@ -59,3 +59,5 @@
 | [[Blog/Research/OSCE my point\|OSCE my point]]                                                                                                         | OSCE測驗感想                                  | \-         | \-         | \-                                                        |
 | [[Blog/Research/factors affecting empathic behaviors in clinical\|factors affecting empathic behaviors in clinical]]                                   | 影響醫病情境同理行為的三大因素                           | \-         | \-         | \-                                                        |
 | [[Blog/Research/metacognition the clinical definitions\|metacognition the clinical definitions]]                                                       | Metacognition: the clinical definitions   | \-         | \-         | \-                                                        |
+
+{ .block-language-dataview}
