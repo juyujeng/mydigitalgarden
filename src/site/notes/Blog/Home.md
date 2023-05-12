@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
 ---
 
 
@@ -30,6 +30,7 @@
 
 | File                                                                    | 標題                         | 上傳日期       | 最後修改       | 類別                                                        |
 | ----------------------------------------------------------------------- | -------------------------- | ---------- | ---------- | --------------------------------------------------------- |
+| [[notes/問卷發展步驟\|問卷發展步驟]]                                             | 問卷發展與驗證的步驟                 | 2023/05/11 | 2023/05/11 | <ul><li>research</li><li>blog</li></ul>                   |
 | [[Blog/Research/嘗試找AI代筆了\|嘗試找AI代筆了]]                                 | 嘗試找AI代筆了                   | 2023/04/25 | 2023/04/25 | <ul><li>blog</li><li>research</li></ul>                   |
 | [[Blog/Research/ChatGPT in education\|ChatGPT in education]]         | ChatGPT in education       | 2023/04/21 | 2023/04/21 | <ul><li>reference</li><li>research</li><li>blog</li></ul> |
 | [[Blog/Research/手冊撰寫的困難\|手冊撰寫的困難]]                                   | 同理手冊撰寫的困難                  | 2023/04/17 | 2023/04/17 | <ul><li>blog</li><li>research</li></ul>                   |
@@ -39,7 +40,6 @@
 | [[Blog/Research/使用ChatGPT幫助英文稿件修改心得 0320\|使用ChatGPT幫助英文稿件修改心得 0320]] | 使用ChatGPT幫助英文稿件修改心得 0320   | 2023/03/20 | 2023/03/20 | <ul><li>blog</li><li>research</li></ul>                   |
 | [[Kanban notes/同理課程相關用詞定義\|同理課程相關用詞定義]]                              | 同理課程相關用詞定義                 | 2023/03/17 | 2023/03/17 | <ul><li>note</li><li>research</li></ul>                   |
 | [[Blog/Research/openAI API的初步瞭解\|openAI API的初步瞭解]]                   | openAI API的初步瞭解            | 2023/03/07 | \-         | blog                                                      |
-| [[Blog/Research/使用AI進行會議紀錄\|使用AI進行會議紀錄]]                             | 使用AI進行會議紀錄                 | 2023/03/06 | 2023/03/07 | <ul><li>blog</li><li>research</li></ul>                   |
 
 { .block-language-dataview}
 
