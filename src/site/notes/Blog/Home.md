@@ -14,10 +14,10 @@
 
 ## 文章分類列表
 
-- [[Blog/Research post index\|研究]]
-- [[Blog/Life post index\|生活]]
-- [[Blog/Digest index\|閱讀]]
-- [[Blog/Document index\|文件]]
+- [[Blog/Research_index\|研究]]
+- [[Blog/Life_index\|生活]]
+- [[Blog/Digest_index\|閱讀]]
+- [[Blog/Document_index\|文件]]
 
 ## 最近更新
 
@@ -46,4 +46,4 @@
 </div></div>
 
 
-## [[Blog/All Post\|所有文章]]
+## [[Blog/AllPost\|所有文章]]
