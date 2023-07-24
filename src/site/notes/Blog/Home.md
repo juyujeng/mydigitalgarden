@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
 ---
 
 
@@ -30,7 +30,7 @@
 
 | File                                                                        | 標題                              | 上傳日期       | 最後修改       | 類別                                                        |
 | --------------------------------------------------------------------------- | ------------------------------- | ---------- | ---------- | --------------------------------------------------------- |
-| [[Blog/Research/該如何給予評論\|該如何給予評論]]                                       | 該如何給予評論                         | 2023/07/22 | 2023/07/22 | <ul><li>blog</li><li>research</li></ul>                   |
+| [[Blog/Research/該如何給予評論\|該如何給予評論]]                                       | 該如何給予評論                         | 2023/07/22 | 2023/07/24 | <ul><li>blog</li><li>research</li></ul>                   |
 | [[Blog/Research/漢字的序順不一定影閱響讀\|漢字的序順不一定影閱響讀]]                             | 漢字的序順不一定影閱響讀                    | 2023/07/11 | 2023/07/11 | <ul><li>blog</li><li>research</li></ul>                   |
 | [[Blog/Research/Google form vs. SurveyCake\|Google form vs. SurveyCake]] | Google form vs. SurveyCake 使用心得 | 2023/06/19 | 2023/06/19 | <ul><li>blog</li><li>research</li></ul>                   |
 | [[notes/問卷發展步驟\|問卷發展步驟]]                                                 | 問卷發展與驗證的步驟                      | 2023/05/11 | 2023/05/31 | <ul><li>research</li><li>blog</li></ul>                   |
