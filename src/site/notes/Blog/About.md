@@ -9,9 +9,13 @@
 
 ## working on
 
-Chen, Kuan-Wei; Lee, Shih-Chieh; Chou, Frank; Chiang, Hsin-Yu ; Hsueh, I-Ping ; Chen, Po-Hsi ; Wang, San-Ping ; **Ju, Yu-Jeng** ; Hsieh, Ching-Lin. (under review) Development of a Rasch-calibrated emotion recognition video test for patients with schizophrenia
+**Yu-Jeng Ju**, Yunn-Wen Lien, Shan-Chuan Teng. (under revision) Mind wandering: Definition, measurement, and predictive factors. _Chinese Journal of Psychology_.
 
-Hsieh, T.-L., Yang, H.-L., **Ju, Y.-J.**, Lee, M.-L., Hsueh, I.-P. (under review) Consistency between the Definition, Intervention, and Assessment of Empathy in Nursing Empathy Intervention Studies
+**Yu-Jeng Ju**, Meng-Lin Lee, Ching-Lin Hsieh, Han-En Tsai, Jou-Chieh Chen, Tzu-Yi Wu, Yi-Ching Wang, Chih-Ping Chen. (under review) Intra-rater and inter-rater reliability of the Empathic Communication Coding System. _Australian Occupational Therapy Journal_. June 2023 submitted.
+
+Hsieh, T.-L., Yang, H.-L., **Ju, Y.-J**., Lee, M.-L., & Hsueh, I-P. (under review) Consistency between the Definition, Intervention, and Assessment of Empathy in Nursing Empathy Intervention Studies. _Journal of Clinical Nursing_. July 2023 submitted.
+
+Chen, K.-W., Lee, S.-C., Chou, Frank H.-C., Chiang, H.-Y., Hsueh, I-P., Chen, P.-H., Wang, S.-P., & **Ju, Y.-J**. (under review) Development of a Rasch-calibrated emotion recognition video test for patients with schizophrenia. _Archives of Clinical Neuropsychology._ 2023 June submitted.
 
 **Ju, Y.-J.**, & Lien, Y.-W. (in preparation). Focusing in a mindful way: Differentiating neural correlates of receptive attention from object-oriented attention
 
