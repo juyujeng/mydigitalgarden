@@ -30,6 +30,7 @@
 
 | File                                                                                    | 標題                              | 上傳日期       | 最後修改       | 類別                                                        |
 | --------------------------------------------------------------------------------------- | ------------------------------- | ---------- | ---------- | --------------------------------------------------------- |
+| [[Blog/Research/ChatGPT feature functions\|ChatGPT feature functions]]               | ChatGPT 之特色功能                   | 2023/08/14 | 2023/08/14 | <ul><li>blog</li></ul>                                    |
 | [[Blog/Research/notes for preparing a discussion\|notes for preparing a discussion]] | 如何準備與團隊討論研究結果的會議資料              | 2023/08/04 | 2023/08/04 | <ul><li>blog</li><li>research</li><li>notes</li></ul>     |
 | [[Blog/Research/該如何給予評論\|該如何給予評論]]                                                   | 該如何給予評論                         | 2023/07/22 | 2023/07/24 | <ul><li>blog</li><li>research</li></ul>                   |
 | [[Blog/Research/漢字的序順不一定影閱響讀\|漢字的序順不一定影閱響讀]]                                         | 漢字的序順不一定影閱響讀                    | 2023/07/11 | 2023/07/11 | <ul><li>blog</li><li>research</li></ul>                   |
@@ -39,7 +40,6 @@
 | [[Blog/Research/ChatGPT in education\|ChatGPT in education]]                         | ChatGPT in education            | 2023/04/21 | 2023/04/21 | <ul><li>reference</li><li>research</li><li>blog</li></ul> |
 | [[Blog/Research/手冊撰寫的困難\|手冊撰寫的困難]]                                                   | 同理手冊撰寫的困難                       | 2023/04/17 | 2023/04/17 | <ul><li>blog</li><li>research</li></ul>                   |
 | [[Blog/Research/同理心訓練課程紀錄\|同理心訓練課程紀錄]]                                               | 同理心訓練課程紀錄                       | 2023/04/09 | 2023/04/14 | <ul><li>blog</li><li>research</li></ul>                   |
-| [[Blog/Document/語音轉文字AI工具比較\|語音轉文字AI工具比較]]                                           | 雅婷逐字稿 vs. Whisper.cpp           | 2023/03/28 | 2023/03/28 | <ul><li>blog</li><li>document</li></ul>                   |
 
 { .block-language-dataview}
 
