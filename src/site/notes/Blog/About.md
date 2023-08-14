@@ -23,15 +23,15 @@ Chen, K.-W., Lee, S.-C., Chou, Frank H.-C., Chiang, H.-Y., Hsueh, I-P., Chen, P.
 
 Wu, L.-C., Lien, Y.-W., & **Ju, Y.-J.** (2022). Escaping from worries: Comparing the effectiveness of focusing on one’s breath, a neutral and a positive distractor in worry control. Current Psychology. <https://doi.org/10.1007/s12144-022-03744-1> [📄](https://rdcu.be/cVUIh)
 
-**Ju, Y.-J.**, & Lien, Y.-W. (2018). Who is prone to wander and when? Examining an integrative effect of working memory capacity and mindfulness trait on mind wandering under different task loads. Consciousness and Cognition, 63(1), 1–10. <https://doi.org/10.1016/j.concog.2018.06.006>
-
-**Ju, Y.-J.**, & Lien, Y.-W. (2016). Better control with less effort: The advantage of using focused-breathing strategy over focused-distraction strategy on thought suppression. Consciousness and Cognition, 40, 9–16. <https://doi.org/10.1016/j.concog.2015.12.002>
-
 Lee, M.-L., Hsieh, T.-L., Yang, C.-W., Chen, J.-C., **Ju, Y.-J.**, & Hsueh, I.-P. (2022). Consistency Analysis in Medical Empathy Intervention Research. International Journal of Environmental Research and Public Health, 19(17). <https://doi.org/10.3390/ijerph191710904>
 
 Huang, E., Lin, H., Chen, Y., Mar, G., Yen, C., Huang, Y., Tsao, S., **Ju, Y.**, & Wu, M. (2021). CT Radiomics Of Coronary Artery Calcification Distinguish Vulnerable Plaques In Acute Coronary Syndrome: A Propensity-matched Study With Asymptomatic Subjects With Same Calcified Plaque Burden. Journal of Cardiovascular Computed Tomography, 15(4), S36. <https://doi.org/10.1016/j.jcct.2021.06.238>
 
 Wang, C. C., Lin, H. S., Huang, Y. L., Wu, F. Z., Chuo, C. C., **Ju, Y. J.**, ... & Wu, M. T. (2018). Renal artery involvement in acute aortic dissection: prevalence and impact on renal atrophy in non-interventional treatment patients. Journal of cardiovascular computed tomography, 12(5), 404-410.
+
+**Ju, Y.-J.**, & Lien, Y.-W. (2018). Who is prone to wander and when? Examining an integrative effect of working memory capacity and mindfulness trait on mind wandering under different task loads. Consciousness and Cognition, 63(1), 1–10. <https://doi.org/10.1016/j.concog.2018.06.006>
+
+**Ju, Y.-J.**, & Lien, Y.-W. (2016). Better control with less effort: The advantage of using focused-breathing strategy over focused-distraction strategy on thought suppression. Consciousness and Cognition, 40, 9–16. <https://doi.org/10.1016/j.concog.2015.12.002>
 
 Huang, Y.-L., Wu, F.-Z., Wang, Y.-C., **Ju, Y.-J.**, Mar, G.-Y., Chuo, C.-C., … Wu, M.-T. (2013). Reliable categorisation of visual scoring of coronary artery calcification on low-dose CT for lung cancer screening: validation with the standard Agatston score. European Radiology, 23(5), 1226–1233. <https://doi.org/10.1007/s00330-012-2726-5>
 
