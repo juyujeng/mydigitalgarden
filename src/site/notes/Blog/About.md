@@ -9,7 +9,7 @@
 
 ## working on
 
-**Yu-Jeng Ju**, Yunn-Wen Lien, Shan-Chuan Teng. (under revision) Mind wandering: Definition, measurement, and predictive factors. _Chinese Journal of Psychology_.
+**Yu-Jeng Ju**, Yunn-Wen Lien, Shan-Chuan Teng. (In press) Mind wandering: Definition, measurement, and predictive factors. _Chinese Journal of Psychology_.
 
 **Yu-Jeng Ju**, Meng-Lin Lee, Ching-Lin Hsieh, Han-En Tsai, Jou-Chieh Chen, Tzu-Yi Wu, Yi-Ching Wang, Chih-Ping Chen. (under review) Intra-rater and inter-rater reliability of the Empathic Communication Coding System. _Australian Occupational Therapy Journal_. June 2023 submitted.
 
