@@ -9,6 +9,7 @@
 
 | File                                                                                                              | 標題                                       | 上傳日期       | 最後修改       | 類別                                      |
 | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------- | ---------- | --------------------------------------- |
+| [[Blog/Document/Adaptive testing_0\|Adaptive testing_0]]                                                       | 三類測驗型式                                   | 2023/08/17 | 2023/08/17 | <ul><li>blog</li><li>document</li></ul> |
 | [[Blog/Document/語音轉文字AI工具比較\|語音轉文字AI工具比較]]                                                                     | 雅婷逐字稿 vs. Whisper.cpp                    | 2023/03/28 | 2023/03/28 | <ul><li>blog</li><li>document</li></ul> |
 | [[notes/obsidian digital garden使用事項\|obsidian digital garden使用事項]]                                             | digital garden使用注意事項                     | 2023/02/17 | 2023/03/20 | <ul><li>note</li><li>document</li></ul> |
 | [[Blog/Document/compare two binary diagnostic tests\|compare two binary diagnostic tests]]                     | compare two binary diagnostic tests      | 2022/10/18 | \-         | document                                |
