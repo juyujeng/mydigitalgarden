@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
 ---
 
 
@@ -31,6 +31,7 @@
 | File                                                                                    | 標題                              | 上傳日期       | 最後修改       | 類別                                                        |
 | --------------------------------------------------------------------------------------- | ------------------------------- | ---------- | ---------- | --------------------------------------------------------- |
 | [[Blog/Document/Adaptive testing_0\|Adaptive testing_0]]                             | 三類測驗型式                          | 2023/08/17 | 2023/08/17 | <ul><li>blog</li><li>document</li></ul>                   |
+| [[Blog/Document/Overview of CAT\|Overview of CAT]]                                   | 電腦適性測驗概述                        | 2023/08/17 | 2023/08/17 | <ul><li>blog</li><li>document</li></ul>                   |
 | [[Blog/Research/ChatGPT feature functions\|ChatGPT feature functions]]               | ChatGPT 之特色功能                   | 2023/08/14 | 2023/08/14 | <ul><li>blog</li></ul>                                    |
 | [[Blog/Research/notes for preparing a discussion\|notes for preparing a discussion]] | 如何準備與團隊討論研究結果的會議資料              | 2023/08/04 | 2023/08/04 | <ul><li>blog</li><li>research</li><li>notes</li></ul>     |
 | [[Blog/Research/該如何給予評論\|該如何給予評論]]                                                   | 該如何給予評論                         | 2023/07/22 | 2023/07/24 | <ul><li>blog</li><li>research</li></ul>                   |
@@ -39,7 +40,6 @@
 | [[notes/問卷發展步驟\|問卷發展步驟]]                                                             | 問卷發展與驗證的步驟                      | 2023/05/11 | 2023/05/31 | <ul><li>research</li><li>blog</li></ul>                   |
 | [[Blog/Research/嘗試找AI代筆了\|嘗試找AI代筆了]]                                                 | 嘗試找AI代筆了                        | 2023/04/25 | 2023/04/25 | <ul><li>blog</li><li>research</li></ul>                   |
 | [[Blog/Research/ChatGPT in education\|ChatGPT in education]]                         | ChatGPT in education            | 2023/04/21 | 2023/04/21 | <ul><li>reference</li><li>research</li><li>blog</li></ul> |
-| [[Blog/Research/手冊撰寫的困難\|手冊撰寫的困難]]                                                   | 同理手冊撰寫的困難                       | 2023/04/17 | 2023/04/17 | <ul><li>blog</li><li>research</li></ul>                   |
 
 { .block-language-dataview}
 
