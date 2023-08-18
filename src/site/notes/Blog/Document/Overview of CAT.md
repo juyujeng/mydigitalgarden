@@ -116,7 +116,7 @@ Final step ^bmiKkEKU
 - The length criterion：設定施測題目數量的上限，當施測的題目數到達上限時即終止測驗 
 - The precision criterion：當對受測者的能力估計的誤差低於某個設定的標準時即終止施測（或是信度高於某個標準時）
 - The classification criterion：用在測量受測者的能力是否達到某個程度的測驗。實際使用時會先設定某個能力標準，當受測者的能力估計值之信賴區間與設定的能力標準不重疊時終止施測（也就是能力顯著地高於或是低於標準）
-- The information criterion： focuses on the amount of information that is carried by each item at the provisional ability estimate. A necessary condition for the CAT to continue is that the remaining eligible items share enough information to make the total information increase significantly. For this rule, the threshold is the minimum information carried by at least one of the eligible items. If, at the provisional ability estimate, all eligible items have information values smaller than the predefined threshold, the CAT stops. This criterion can be used to avoid administering items that do not carry enough information to the ability estimation and related precision.
+- The information criterion： focuses on the amount of information that is carried by each item at the provisional ability estimate. A necessary condition for the CAT to continue is that the remaining eligible items share enough information to make the total information increase significantly. For this rule, the threshold is the minimum information carried by at least one of the eligible items. If, at the provisional ability estimate, all eligible items have information values smaller than the predefined threshold, the CAT stops. This criterion can be used to avoid administering items that do not carry enough information to the ability estimation and related precision. （關於information還未參透，參透後再回來修改）
 
 ### final step
 
