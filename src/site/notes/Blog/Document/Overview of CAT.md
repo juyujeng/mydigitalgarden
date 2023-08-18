@@ -8,7 +8,7 @@
 電腦適性測驗（computerized adaptive test，CAT）為了提供比傳統測驗更準確以及更有效率的測量
 
 - 更準確的測量：
-    - 藉由增加測量題目可以獲得的訊息量（information）減少對受測者能力估計的誤差（見[[Test information function\|Test information function]]）
+    - 藉由增加測量題目可以獲得的訊息量（information）減少對受測者能力估計的誤差（見[[Blog/Document/Test information function\|Test information function]]）
     - 理想狀態下，每一題的選擇都是當前步驟能夠提供最多訊息的題目
 
 ## 題庫發展
