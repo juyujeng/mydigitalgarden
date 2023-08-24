@@ -9,6 +9,7 @@
 
 | File                                                                                                              | 標題                                       | 上傳日期       | 最後修改       | 類別                                      |
 | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------- | ---------- | --------------------------------------- |
+| [[Blog/Document/Content Validity Index\|Content Validity Index]]                                               | Content Validity Index                   | 2023/08/24 | 2023/08/24 | <ul><li>blog</li><li>document</li></ul> |
 | [[Blog/Document/Test information function\|Test information function]]                                         | Test information function                | 2023/08/18 | 2023/08/18 | <ul><li>blog</li><li>document</li></ul> |
 | [[Blog/Document/Overview of CAT\|Overview of CAT]]                                                             | 電腦適性測驗概述                                 | 2023/08/17 | 2023/08/17 | <ul><li>blog</li><li>document</li></ul> |
 | [[Blog/Document/Adaptive testing_0\|Adaptive testing_0]]                                                       | 三類測驗型式                                   | 2023/08/17 | 2023/08/17 | <ul><li>blog</li><li>document</li></ul> |
