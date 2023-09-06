@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/cohort study/","title":"cohort study","tags":["terms,guideline"],"created":"2023-03-22","updated":"2023-03-22"}
+{"dg-publish":true,"permalink":"/notes/cohort study/","title":"cohort study","tags":["terms","guideline"],"created":"2023-03-22","updated":"2023-03-22"}
 ---
 
 
