@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
 ---
 
 
@@ -31,6 +31,7 @@
 | File                                                                                                                  | 標題                        | 上傳日期       | 最後修改       | 類別                                                    |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------- | ---------- | ----------------------------------------------------- |
 | [[Blog/Research/chatgpt teaching program preparation\|chatgpt teaching program preparation]]                       | ChatGPT 核心功能操作教學準備分工      | 2023/09/07 | 2023/09/07 | <ul><li>blog</li><li>research</li></ul>               |
+| [[Projects/QUIC/現況與發展規劃\|現況與發展規劃]]                                                                                 | 現況與發展規劃                   | 2023/09/05 | 2023/09/27 | <ul><li>project</li><li>note</li></ul>                |
 | [[目前任務與交接規劃_0901\|目前任務與交接規劃_0901]]                                                                                 | 目前任務與交接規劃                 | 2023/09/01 | 2023/09/01 | <ul><li>blog</li></ul>                                |
 | [[Blog/Document/Content Validity Index\|Content Validity Index]]                                                   | Content Validity Index    | 2023/08/24 | 2023/08/24 | <ul><li>blog</li><li>document</li></ul>               |
 | [[Blog/Research/ChatGPT operational competence test_preparation\|ChatGPT operational competence test_preparation]] | ChatGPT操作能力測驗規畫           | 2023/08/22 | 2023/08/22 | <ul><li>blog</li><li>research</li></ul>               |
@@ -39,7 +40,6 @@
 | [[Blog/Document/Overview of CAT\|Overview of CAT]]                                                                 | 電腦適性測驗概述                  | 2023/08/17 | 2023/08/17 | <ul><li>blog</li><li>document</li></ul>               |
 | [[Blog/Research/ChatGPT feature functions\|ChatGPT feature functions]]                                             | ChatGPT 之特色功能             | 2023/08/14 | 2023/08/14 | <ul><li>blog</li></ul>                                |
 | [[Blog/Research/notes for preparing a discussion\|notes for preparing a discussion]]                               | 如何準備與團隊討論研究結果的會議資料        | 2023/08/04 | 2023/08/04 | <ul><li>blog</li><li>research</li><li>notes</li></ul> |
-| [[Blog/Research/該如何給予評論\|該如何給予評論]]                                                                                 | 該如何給予評論                   | 2023/07/22 | 2023/07/24 | <ul><li>blog</li><li>research</li></ul>               |
 
 { .block-language-dataview}
 
