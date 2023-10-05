@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/summary of how to measure metacognition/","title":"如何測量後設認知（metacognition）","tags":["ideas","metacognition","measurement","blog"],"created":"2021-11-23","updated":""}
+{"dg-publish":true,"permalink":"/Blog/Research/summary of how to measure metacognition/","title":"如何測量後設認知（metacognition）","tags":["ideas","metacognition","measurement","blog"],"created":"2021-11-23"}
 ---
 
 # 如何測量後設認知（metacognition）
