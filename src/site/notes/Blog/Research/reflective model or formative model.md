@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/reflective model or formative model/","title":"如何區分工具是reflective model或是formative model","tags":["measurement","guideline","reflective","formative","blog"],"created":"2022-08-03","updated":""}
+{"dg-publish":true,"permalink":"/Blog/Research/reflective model or formative model/","title":"如何區分工具是reflective model或是formative model","tags":["measurement","guideline","reflective","formative","blog"],"created":"2022-08-03"}
 ---
 
 
