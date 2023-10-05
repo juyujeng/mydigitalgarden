@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research_index/","title":"Research post index","tags":["blog"],"created":"2023-02-17","updated":""}
+{"dg-publish":true,"permalink":"/Blog/Research_index/","title":"Research post index","tags":["blog"],"created":"2023-02-17"}
 ---
 
 
