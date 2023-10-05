@@ -16,6 +16,7 @@ Chain of density (COD)是使用生成式AI摘要文章的提示工程技術。�
 
 ## prompts
 
+```
 Article: {{ ARTICLE }}
 You will generate increasingly concise, entity-dense summaries of the above article.
 Repeat the following 2 steps 5 times.
@@ -35,7 +36,7 @@ Guidelines:
 - Never drop entities from the previous summary. If space cannot be made, add fewer new entities.
 Remember, use the exact same number of words for each summary.
 Answer in JSON. The JSON should be a list (length 5) of dictionaries whose keys are "Missing_Entities" and "Denser_Summary".
-
+```
 
 
 
