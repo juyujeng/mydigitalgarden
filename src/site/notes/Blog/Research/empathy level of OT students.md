@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/empathy level of OT students/","title":"OT學生的同理等級：文獻閱讀心得","tags":["blog","empathy","measurement"],"created":"2022-08-31","updated":""}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy level of OT students/","title":"OT學生的同理等級：文獻閱讀心得","tags":["blog","empathy","measurement"],"created":"2022-08-31"}
 ---
 
 
