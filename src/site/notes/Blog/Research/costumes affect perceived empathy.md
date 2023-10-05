@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/costumes affect perceived empathy/","title":"服裝對於同理感受的影響","tags":["blog","empathy/perceived","references"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/Blog/Research/costumes affect perceived empathy/","title":"服裝對於同理感受的影響","tags":["blog","empathy/perceived","references"]}
 ---
 
 
