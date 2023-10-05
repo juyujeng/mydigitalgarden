@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Digest_index/","title":"Digest index","tags":["blog"],"created":"2023-02-17","updated":""}
+{"dg-publish":true,"permalink":"/Blog/Digest_index/","title":"Digest index","tags":["blog"],"created":"2023-02-17"}
 ---
 
 
