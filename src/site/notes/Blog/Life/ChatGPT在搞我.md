@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Life/ChatGPT在搞我/","title":"ChatGPT在搞我","tags":["blog","ai","chatgpt"],"created":"2023-02-18","updated":""}
+{"dg-publish":true,"permalink":"/Blog/Life/ChatGPT在搞我/","title":"ChatGPT在搞我","tags":["blog","ai","chatgpt"],"created":"2023-02-18"}
 ---
 
 
