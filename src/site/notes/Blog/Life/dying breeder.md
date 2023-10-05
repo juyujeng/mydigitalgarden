@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Life/dying breeder/","title":"快要中風的養育者","tags":["blog","life"],"created":"2022-09-19","updated":""}
+{"dg-publish":true,"permalink":"/Blog/Life/dying breeder/","title":"快要中風的養育者","tags":["blog","life"],"created":"2022-09-19"}
 ---
 
 
