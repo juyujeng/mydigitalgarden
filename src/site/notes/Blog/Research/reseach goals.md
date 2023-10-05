@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/reseach goals/","title":"尋找研究核心","tags":["ideas","blog"],"created":"2021-12-27","updated":""}
+{"dg-publish":true,"permalink":"/Blog/Research/reseach goals/","title":"尋找研究核心","tags":["ideas","blog"],"created":"2021-12-27"}
 ---
 
 
