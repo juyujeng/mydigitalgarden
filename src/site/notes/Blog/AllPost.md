@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/AllPost/","title":"All Post","tags":["blog"],"created":"2023-02-17","updated":""}
+{"dg-publish":true,"permalink":"/Blog/AllPost/","title":"All Post","tags":["blog"],"created":"2023-02-17"}
 ---
 
 
