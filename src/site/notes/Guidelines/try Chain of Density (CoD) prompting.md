@@ -7,7 +7,26 @@
 
 > [!FAQ]- Chain of Density (CoD) prompting (點開觀看)
 > Article: {文章內容…} 
-> You will generate increasingly concise, entity-dense summaries of the above article in traditional Chinese. Repeat the following 2 steps 5 times. Step 1. Identify 1-3 informative entities (";" delimited) from the article which are missing from the previously generated summary. Step 2. Write a new, denser summary of identical length which covers every entity and detail from the previous summary plus the missing entities. A missing entity is: - relevant to the main story, - specific yet concise (5 words or fewer), - novel (not in the previous summary), - faithful (present in the article), - anywhere (can be located anywhere in the article). Guidelines: - The first summary should be long (4-5 sentences, ~80 words) yet highly non-specific, containing little information beyond the entities marked as missing. Use overly verbose language and fillers (e.g., "this article discusses") to reach ~80 words. - Make every word count: rewrite the previous summary to improve flow and make space for additional entities. - Make space with fusion, compression, and removal of uninformative phrases like "the article discusses". - The summaries should become highly dense and concise yet self-contained, i.e., easily understood without the article. - Missing entities can appear anywhere in the new summary. - Never drop entities from the previous summary. If space cannot be made, add fewer new entities. Remember, use the exact same number of words for each summary. Answer in JSON. The JSON should be a list (length 5) of dictionaries whose keys are "Missing_Entities" and "Denser_Summary". the content should be in traditional Chinese
+> You will generate increasingly concise, entity-dense summaries of the above article in traditional Chinese. Repeat the following 2 steps 5 times. 
+> Step 1. Identify 1-3 informative entities (";" delimited) from the article which are missing from the previously generated summary. 
+> Step 2. Write a new, denser summary of identical length which covers every entity and detail from the previous summary plus the missing entities. 
+> A missing entity is: 
+> - relevant to the main story, 
+> - specific yet concise (5 words or fewer), 
+> - novel (not in the previous summary), 
+> - faithful (present in the article), 
+> - anywhere (can be located anywhere in the article). 
+> 
+> Guidelines: 
+> - The first summary should be long (4-5 sentences, ~80 words) yet highly non-specific, containing little information beyond the entities marked as missing. Use overly verbose language and fillers (e.g., "this article discusses") to reach ~80 words. 
+> - Make every word count: rewrite the previous summary to improve flow and make space for additional entities. 
+> - Make space with fusion, compression, and removal of uninformative phrases like "the article discusses". 
+> - The summaries should become highly dense and concise yet self-contained, i.e., easily understood without the article. 
+> - Missing entities can appear anywhere in the new summary. 
+> - Never drop entities from the previous summary. If space cannot be made, add fewer new entities. 
+> 
+> Remember, use the exact same number of words for each summary. 
+> Answer in JSON. The JSON should be a list (length 5) of dictionaries whose keys are "Missing_Entities" and "Denser_Summary". the content should be in traditional Chinese
 
 這裡使用兩篇中文文章進行分析，分別是[今夏登革熱來勢洶洶，該怎麼防治？有疫苗嗎？](https://pansci.asia/archives/369781)以及[哈瑪斯突襲以色列，全局一次看：兩種美國中東戰略途徑](https://voicettank.org/%E5%93%88%E7%91%AA%E6%96%AF%E7%AA%81%E8%A5%B2%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%A8%E5%B1%80%E4%B8%80%E6%AC%A1%E7%9C%8B%E5%85%A9%E7%A8%AE%E7%BE%8E%E5%9C%8B%E4%B8%AD%E6%9D%B1%E6%88%B0/)。這兩篇文章的字數都超過兩千字，且都有一定的專業性，若有好的摘要可以幫助文章理解。
 
