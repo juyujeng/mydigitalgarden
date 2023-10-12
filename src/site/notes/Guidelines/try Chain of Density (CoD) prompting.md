@@ -5,6 +5,8 @@
 
 本文紀錄使用 [[Guidelines/Chain of Density (CoD) prompting\|Chain of Density (CoD) prompting]] 摘要文章重點的使用心得，並比較用CoD prompting以及簡單地一句「請以200字摘要以下文章」所得到的結果。
 
+使用的CoD prompt取自[[zotero note/adamsSparseDenseGPT42023\|Adams et al., 2023]]的研究，我加入了兩處修改：字數由80改為200、以正體中文產生回應。詳細prompt如下所述
+
 > [!FAQ]- Chain of Density (CoD) prompting (點開觀看)
 > Article: {文章內容…} 
 > You will generate increasingly concise, entity-dense summaries of the above article in traditional Chinese. Repeat the following 2 steps 5 times. 
