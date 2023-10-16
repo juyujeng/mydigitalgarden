@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
 ---
 
 
@@ -30,6 +30,7 @@
 
 | File                                                                                                                  | 標題                                  | 上傳日期       | 最後修改       | 類別                                      |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ---------- | ---------- | --------------------------------------- |
+| [[Projects/QUIC/potential journals for QUIC submission\|potential journals for QUIC submission]]                   | target journals of QUIC             | 2023/10/16 | 2023/10/16 | <ul><li>project</li><li>note</li></ul>  |
 | [[Guidelines/try Chain of Density (CoD) prompting\|try Chain of Density (CoD) prompting]]                          | 試用 Chain of Density (CoD) prompting | 2023/10/12 | 2023/10/12 | <ul><li>blog</li><li>research</li></ul> |
 | [[Guidelines/Chain of Density (CoD) prompting\|Chain of Density (CoD) prompting]]                                  | Chain of Density (CoD) prompting    | 2023/10/02 | 2023/10/02 | <ul><li>blog</li><li>note</li></ul>     |
 | [[Guidelines/reversal curse\|reversal curse]]                                                                      | reversal curse                      | 2023/10/02 | 2023/10/02 | <ul><li>blog</li><li>note</li></ul>     |
@@ -39,7 +40,6 @@
 | [[目前任務與交接規劃_0901\|目前任務與交接規劃_0901]]                                                                                 | 目前任務與交接規劃                           | 2023/09/01 | 2023/09/01 | <ul><li>blog</li></ul>                  |
 | [[Blog/Document/Content Validity Index\|Content Validity Index]]                                                   | Content Validity Index              | 2023/08/24 | 2023/08/24 | <ul><li>blog</li><li>document</li></ul> |
 | [[Blog/Research/ChatGPT operational competence test_preparation\|ChatGPT operational competence test_preparation]] | ChatGPT操作能力測驗規畫                     | 2023/08/22 | 2023/08/22 | <ul><li>blog</li><li>research</li></ul> |
-| [[Blog/Document/Test information function\|Test information function]]                                             | Test information function           | 2023/08/18 | 2023/08/18 | <ul><li>blog</li><li>document</li></ul> |
 
 { .block-language-dataview}
 
