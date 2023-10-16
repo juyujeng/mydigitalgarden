@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/QUIC/potential journals for QUIC submission/","title":"target journals of QUIC","tags":["blog","chatgpt","ai","manuscript"],"created":"2023-10-16","updated":"2023-10-16"}
+{"dg-publish":true,"permalink":"/Projects/QUIC/potential journals for QUIC submission/","title":"potential journals of QUIC","tags":["blog","chatgpt","ai","manuscript"],"created":"2023-10-16","updated":"2023-10-16"}
 ---
 
 
