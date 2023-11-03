@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture note_20231101/","title":"人工智慧時代的英語學習力","tags":["blog","ai","chatgpt","learning","reflective","english"],"created":"2023-11-02","updated":"2023-11-02"}
+{"dg-publish":true,"permalink":"/lecture note_20231101/","title":"人工智慧時代的英語學習力","tags":["blog","ai","chatgpt","learning","reflective","english"],"created":"2023-11-02T00:00:00.000Z","updated":"2023-11-03T00:00:00.000Z"}
 ---
 
 
@@ -16,15 +16,15 @@
 - 英文是能更有效使用大型語言模型AI的關鍵。目前語言模型的訓練仍然以英文語料最多最完整，因此用英文與大型語言模型AI溝通所得到的成果也是最好的。
 - 雖然大型語言模型AI有很強的語言處理能力且支援多種語言，但目前它還辦不到即時的輔助人們溝通。就算有的服務可以，也需要相當大的網路或是硬體資源。
 - 若不想學英文，想要等中文的大型語言工具可能會失望
-    - 正體中文相關的使用者以及訓練語料較少，發展速度不會太快
-    - 簡體中文的語料受限於中國的言論審查，訓練出來的模型會有其「特色」
+  - 正體中文相關的使用者以及訓練語料較少，發展速度不會太快
+  - 簡體中文的語料受限於中國的言論審查，訓練出來的模型會有其「特色」
 
 ## 在AI時代要怎麼學英文？
 
 - 學習的原則和過去是一樣的，但在新的學習工具的協助之下，一切會變得更有效率，更簡單（學習曲線改變）
- ![Pasted image 20231102104043.png](/img/user/Pasted%20image%2020231102104043.png)
- *以前的學習曲線在AI出現之後，開頭的緩慢成長可望加速*（圖片來源：演講投影片）
 
+![Pasted image 20231102104043.png](/img/user/Pasted%20image%2020231102104043.png)
+*以前的學習曲線在AI出現之後，開頭的緩慢成長可望加速*（圖片來源：演講投影片）
 
 - 李校長介紹的語言學習相關工具會列在[[lecture note_20231101#相關的網路資源\|#相關的網路資源]]中
 
@@ -41,28 +41,29 @@
 ### 語言學習
 
 - [Jutor](https://www.junyiacademy.org/event/jutor_chat/)
-    - 均一基金會發展的學習工具。可以練習說、寫，由AI立即給迴饋。2023年底前免費。
+  - 均一基金會發展的學習工具。可以練習說、寫，由AI立即給迴饋。2023年底前免費。
 - [TalkPal](https://talkpal.ai/)
-    - 可以練習多種語言的聽說讀寫，由AI立即給迴饋。免費版每天有15分鐘可以使用。若要練習口說的話，每天都花15分鐘也不會太有壓力！
+  - 可以練習多種語言的聽說讀寫，由AI立即給迴饋。免費版每天有15分鐘可以使用。若要練習口說的話，每天都花15分鐘也不會太有壓力！
 - [Monica](https://monica.im/)
-    - 是以ChatGPT為基底的Chrome外掛。在語言學習上，Monica能夠幫忙快速地產生影片內容的重點摘要，提升學習的效率。目前只有付費版本。
+  - 是以ChatGPT為基底的Chrome外掛。在語言學習上，Monica能夠幫忙快速地產生影片內容的重點摘要，提升學習的效率。目前只有付費版本。
 
 ### 教育
 
 - [Eduaide](https://www.eduaide.ai/)
-    - 教學輔助AI工具，能協助產生教案、課程大綱、改作文、出考題…等。學生也可以使用，請AI幫忙迴饋作文的內容。
+  - 教學輔助AI工具，能協助產生教案、課程大綱、改作文、出考題…等。學生也可以使用，請AI幫忙迴饋作文的內容。
 
 ### 寫論文
 
 - [Claude](https://claude.ai/)
-    - 是ChatGPT的強力競爭對手，其特點是可以一次處理較多的token，能夠一次輸入給較長的訊息。另外，Claude的訓練資料到2023年，比ChatGPT還要新。
+  - 是ChatGPT的強力競爭對手，其特點是可以一次處理較多的token，能夠一次輸入給較長的訊息。另外，Claude的訓練資料到2023年，比ChatGPT還要新。
 - [SciSpace](https://typeset.io/)
-    - SciSpace有兩個功能，文獻搜尋以及文獻閱讀。
-    - 文獻搜尋：向SciSpace提問，它會從open access database的論文文獻當中產生回應。這個功能在寫論文的導論時很方便，等於是它不只幫你寫段落，同時也找文獻。缺點是它只從open access database當中找，付費期刊的內容不會被它找到。另外也可以上傳自己的文件資料庫，讓SciSpace根據自己的文件資料庫產生回應。
-    - 文獻閱讀：上傳論文檔案請它協助閱讀，這個功能現在有不少服務有。
+  - SciSpace有兩個功能，文獻搜尋以及文獻閱讀。
+  - 文獻搜尋：向SciSpace提問，它會從open access database的論文文獻當中產生回應。這個功能在寫論文的導論時很方便，等於是它不只幫你寫段落，同時也找文獻。缺點是它只從open access database當中找，付費期刊的內容不會被它找到。另外也可以上傳自己的文件資料庫，讓SciSpace根據自己的文件資料庫產生回應。
+  - 文獻閱讀：上傳論文檔案請它協助閱讀，這個功能現在有不少服務有。
 
 ### 相關線上資源
 
 - [本次演講投影片](https://docs.google.com/presentation/d/1Sz5nzSU3NZyTzTPrNkAIC0wwwuRi8Goxn03MIB_hdzs/edit?usp=sharing)
 - [生成式AI創新學院](https://www.technice.com.tw/1111gpt/)
 - [生成式AI衝擊工作坊： 全面升級 Prompt 心法 - 提升 10x 生產力](https://kc-chien.notion.site/2023-06-03-AIA-AI-Prompt-10x-e746f86127994404bf6595363990d9cc)
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/LWiM-LuRe6w?si=AM9PYRZvSBp19EPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
