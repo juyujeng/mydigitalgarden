@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture note_20231101/","title":"人工智慧時代的英語學習力","tags":["blog","ai","chatgpt","learning","reflective","english"],"created":"2023-11-02T00:00:00.000Z","updated":"2023-11-03T00:00:00.000Z"}
+{"dg-publish":true,"permalink":"/lecture note_20231101/","title":"人工智慧時代的英語學習力","tags":["blog","ai","chatgpt","learning","reflective","english"],"created":"2023-11-02T00:00:00.000Z","updated":"2023-11-07T00:00:00.000Z"}
 ---
 
 
@@ -55,7 +55,24 @@
 ### 寫論文
 
 - [Claude](https://claude.ai/)
-  - 是ChatGPT的強力競爭對手，其特點是可以一次處理較多的token，能夠一次輸入給較長的訊息。另外，Claude的訓練資料到2023年，比ChatGPT還要新。
+  - 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- 是ChatGPT的強力競爭對手，其特點是可以一次處理較多的token，能夠一次輸入給較長的訊息。另外，Claude的訓練資料到2023年，比ChatGPT還要新 
+
+</div></div>
+
+  - 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- ※20231106 ChatGPT發佈重大更新，增加了token的處理數量以及將訓練資料更新到2023年4月 
+
+</div></div>
+
 - [SciSpace](https://typeset.io/)
   - SciSpace有兩個功能，文獻搜尋以及文獻閱讀。
   - 文獻搜尋：向SciSpace提問，它會從open access database的論文文獻當中產生回應。這個功能在寫論文的導論時很方便，等於是它不只幫你寫段落，同時也找文獻。缺點是它只從open access database當中找，付費期刊的內容不會被它找到。另外也可以上傳自己的文件資料庫，讓SciSpace根據自己的文件資料庫產生回應。
