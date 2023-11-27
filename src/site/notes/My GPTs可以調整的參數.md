@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/My GPTs可以調整的參數/","title":"My GPTs可以調整的參數","tags":["blog"],"created":"2023-11-27","updated":"2023-11-27"}
+{"dg-publish":true,"permalink":"/My GPTs可以調整的參數/","title":"My GPTs可以調整的參數","tags":["blog","ai","chatgpt"],"created":"2023-11-27","updated":"2023-11-27"}
 ---
 
 
