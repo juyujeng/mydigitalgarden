@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
 ---
 
 
@@ -30,6 +30,7 @@
 
 | File                                                                                                | 標題                                  | 上傳日期       | 最後修改       | 類別                                      |
 | --------------------------------------------------------------------------------------------------- | ----------------------------------- | ---------- | ---------- | --------------------------------------- |
+| [[My GPTs可以調整的參數\|My GPTs可以調整的參數]]                                                               | My GPTs可以調整的參數                      | 2023/11/27 | 2023/11/27 | <ul><li>blog</li></ul>                  |
 | [[Blog/Research/My GPTs for communication training_1\|My GPTs for communication training_1]]     | 利用ChatGPT作溝通訓練 初步設定                 | 2023/11/21 | 2023/11/21 | <ul><li>blog</li><li>research</li></ul> |
 | [[lecture note_20231101\|lecture note_20231101]]                                                 | 人工智慧時代的英語學習力                        | 2023/11/02 | 2023/11/07 | <ul><li>blog</li><li>note</li></ul>     |
 | [[Projects/QUIC/potential journals for QUIC submission\|potential journals for QUIC submission]] | potential journals of QUIC          | 2023/10/16 | 2023/10/16 | <ul><li>project</li><li>note</li></ul>  |
@@ -39,7 +40,6 @@
 | [[Blog/Research/chatgpt teaching program preparation\|chatgpt teaching program preparation]]     | ChatGPT 核心功能操作教學準備分工                | 2023/09/07 | 2023/09/07 | <ul><li>blog</li><li>research</li></ul> |
 | [[Blog/Document/zero-inflated vs. hurdle model\|zero-inflated vs. hurdle model]]                 | zero-inflated vs. hurdle model      | 2022/01/04 | 2023/09/06 | \-                                      |
 | [[目前任務與交接規劃_0901\|目前任務與交接規劃_0901]]                                                               | 目前任務與交接規劃                           | 2023/09/01 | 2023/09/01 | <ul><li>blog</li></ul>                  |
-| [[Blog/Document/Content Validity Index\|Content Validity Index]]                                 | Content Validity Index              | 2023/08/24 | 2023/08/24 | <ul><li>blog</li><li>document</li></ul> |
 
 { .block-language-dataview}
 
