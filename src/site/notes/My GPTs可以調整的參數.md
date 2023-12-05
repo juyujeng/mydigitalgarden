@@ -3,9 +3,9 @@
 ---
 
 
-### 可調整的參數包括：
+這些參數在API中可以設定，但在MyGPTs當中不能設定。
 
-20231205: 這些參數在API中可以設定，但似乎在MyGPTs當中不能設定…
+### 使用API可調整的參數包括：
 
 1. **溫度（Temperature）**:
    - 控制生成文本的隨機性。
@@ -18,6 +18,9 @@
 3. **頻率懲罰（Frequency Penalty）**:
    - 降低重複使用已出現單詞的傾向。
    - API的說明文件寫 -2 ~ 2 。若是正值，則會降低已出現在文本中的字詞的產生機率；若是負值則會增加。
+   - > Number between -2.0 and 2.0. Positive values penalize new tokens based on their existing frequency in the text so far, decreasing the model's likelihood to repeat the same line verbatim.
 4. **存在懲罰（Presence Penalty）**:
    - 鼓勵模型生成新主題內容。
    - API的說明文件寫 -2 ~ 2 ，數字越高越不會出現已經存在的內容主題。
+     - 例如：要GPT產生某款汽車的優點。若設為-2，可能只圍繞著外觀提優點；但若設為2，則會提到各種不同面向的優點。
+   - > Number between -2.0 and 2.0. Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics.
