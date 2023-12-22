@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
 ---
 
 
@@ -30,6 +30,7 @@
 
 | File                                                                                                | 標題                                  | 上傳日期       | 最後修改       | 類別                                      |
 | --------------------------------------------------------------------------------------------------- | ----------------------------------- | ---------- | ---------- | --------------------------------------- |
+| [[minimal detectable change\|minimal detectable change]]                                         | minimal detectable change           | 2023/12/15 | 2023/12/15 | <ul><li>blog</li><li>note</li></ul>     |
 | [[Projects/QUIC/資料篩選條件\|資料篩選條件]]                                                                 | 資料篩選條件                              | 2023/12/14 | 2023/12/14 | <ul><li>blog</li><li>research</li></ul> |
 | [[standard error of measurement\|standard error of measurement]]                                 | standard error of measurement       | 2023/12/13 | 2023/12/13 | <ul><li>note</li></ul>                  |
 | [[GPTs可以調整的參數\|GPTs可以調整的參數]]                                                                     | GPTs可以調整的參數                         | 2023/11/27 | 2023/12/05 | <ul><li>blog</li><li>research</li></ul> |
@@ -39,7 +40,6 @@
 | [[Guidelines/try Chain of Density (CoD) prompting\|try Chain of Density (CoD) prompting]]        | 試用 Chain of Density (CoD) prompting | 2023/10/12 | 2023/10/12 | <ul><li>blog</li><li>research</li></ul> |
 | [[Guidelines/Chain of Density (CoD) prompting\|Chain of Density (CoD) prompting]]                | Chain of Density (CoD) prompting    | 2023/10/02 | 2023/10/02 | <ul><li>blog</li><li>note</li></ul>     |
 | [[Guidelines/reversal curse\|reversal curse]]                                                    | reversal curse                      | 2023/10/02 | 2023/10/02 | <ul><li>blog</li><li>note</li></ul>     |
-| [[Blog/Research/chatgpt teaching program preparation\|chatgpt teaching program preparation]]     | ChatGPT 核心功能操作教學準備分工                | 2023/09/07 | 2023/09/07 | <ul><li>blog</li><li>research</li></ul> |
 
 { .block-language-dataview}
 
