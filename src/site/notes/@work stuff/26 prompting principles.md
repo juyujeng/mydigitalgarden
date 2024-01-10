@@ -3,14 +3,27 @@
 ---
 
 
-26 prompting principles from Bsharat et al. (2023)
 
-Bsharat等人（2023）將這些原則分為5大類
+Bsharat等人（2023）歸納出26項prompting原則，並將將這些原則分為5大類
 - Prompt Structure and Clarity
+    - 將prompt的內容結構化，例如區分「instruction」、「question」、「example」
+    - 設定AI思考的過程。如： `think step by step`
+    - 輸出的結果結構化。如： `<prompt> Explanaiton: `
 - Specificity and Information
+    - 進一步要求回應必須符合某些條件。如： `Ensure that your answer is unbiased and does not rely on stereotypes`、`must including <A>, <B>`
+    - 跟前一個clarity以及後面的language style感覺不是很好分
 - User interaction and Engagement
+    - 要求互動。如： `ask me questions until you have enough information`
+    - 要求使用多項資訊的累積。如： `Write a detailed paragraph for me on the evolution of smartphones in detail by adding all the information necessary`
 - Content and language style
+    - 進一步讓回應的內容或是用詞更符合需求，例如
+        - 給小費 `I'm going to tip $xxx for a better solution`
+        - 命令 `Your task is` and `You MUST`
+        - 角色扮演 `If you were an expert economist`
 - Complex Tasks and Coding Prompts
+    - coding prompts有點像是湊進來的。因為在coding的過程可能用到許多其他前面提及的原則。但這裡只剩下一個更複雜的coding prompt。主要是在如何處理複雜任務
+        - 拆解為子任務
+        - 結合COT
 
 # Overview of 26 prompt principles
 
