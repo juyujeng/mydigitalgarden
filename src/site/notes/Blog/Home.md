@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
 ---
 
 
@@ -28,18 +28,18 @@
 
 
 
-| File                                                                                                | 標題                                            | 上傳日期              | 最後修改              | 類別                                                         |
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
-| [[@work stuff/Chain-of-Thought Prompting\|Chain-of-Thought Prompting]]                           | What is Chain-of-Thought Prompting?           | 2024/01/15  14:17 | 2024/01/15  14:18 | \-                                                         |
-| [[@work stuff/26 prompting principles\|26 prompting principles]]                                 | 26 prompting principles                       | 2024/01/09        | 2024/01/09        | <ul><li>research</li><li>references</li><li>note</li></ul> |
-| [[Hsu method\|Hsu method]]                                                                       | Hsu's multiple comparison for the best method | 2024/01/08        | 2024/01/08        | <ul><li>research</li><li>note</li></ul>                    |
-| [[minimal detectable change\|minimal detectable change]]                                         | minimal detectable change                     | 2023/12/15        | 2023/12/15        | <ul><li>blog</li><li>note</li></ul>                        |
-| [[Projects/QUIC/資料篩選條件\|資料篩選條件]]                                                                 | 資料篩選條件                                        | 2023/12/14        | 2023/12/14        | <ul><li>blog</li><li>research</li></ul>                    |
-| [[standard error of measurement\|standard error of measurement]]                                 | standard error of measurement                 | 2023/12/13        | 2023/12/13        | <ul><li>note</li></ul>                                     |
-| [[GPTs可以調整的參數\|GPTs可以調整的參數]]                                                                     | GPTs可以調整的參數                                   | 2023/11/27        | 2023/12/05        | <ul><li>blog</li><li>research</li></ul>                    |
-| [[Blog/Research/My GPTs for communication training_1\|My GPTs for communication training_1]]     | 利用ChatGPT作溝通訓練 初步設定                           | 2023/11/21        | 2023/11/21        | <ul><li>blog</li><li>research</li></ul>                    |
-| [[lecture note_20231101\|lecture note_20231101]]                                                 | 人工智慧時代的英語學習力                                  | 2023/11/02        | 2023/11/07        | <ul><li>blog</li><li>note</li></ul>                        |
-| [[Projects/QUIC/potential journals for QUIC submission\|potential journals for QUIC submission]] | potential journals of QUIC                    | 2023/10/16        | 2023/10/16        | <ul><li>project</li><li>note</li></ul>                     |
+| File                                                                                            | 標題                                            | 上傳日期              | 最後修改              | 類別                                                         |
+| ----------------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
+| [[@work stuff/least-to-most prompting\|least-to-most prompting]]                             | Least-to-most prompting                       | 2024/01/15  14:42 | 2024/01/15  15:12 | \-                                                         |
+| [[@work stuff/Chain-of-Thought Prompting\|Chain-of-Thought Prompting]]                       | What is Chain-of-Thought Prompting?           | 2024/01/15  14:17 | 2024/01/15  14:18 | \-                                                         |
+| [[@work stuff/26 prompting principles\|26 prompting principles]]                             | 26 prompting principles                       | 2024/01/09        | 2024/01/09        | <ul><li>research</li><li>references</li><li>note</li></ul> |
+| [[Hsu method\|Hsu method]]                                                                   | Hsu's multiple comparison for the best method | 2024/01/08        | 2024/01/08        | <ul><li>research</li><li>note</li></ul>                    |
+| [[minimal detectable change\|minimal detectable change]]                                     | minimal detectable change                     | 2023/12/15        | 2023/12/15        | <ul><li>blog</li><li>note</li></ul>                        |
+| [[Projects/QUIC/資料篩選條件\|資料篩選條件]]                                                             | 資料篩選條件                                        | 2023/12/14        | 2023/12/14        | <ul><li>blog</li><li>research</li></ul>                    |
+| [[standard error of measurement\|standard error of measurement]]                             | standard error of measurement                 | 2023/12/13        | 2023/12/13        | <ul><li>note</li></ul>                                     |
+| [[GPTs可以調整的參數\|GPTs可以調整的參數]]                                                                 | GPTs可以調整的參數                                   | 2023/11/27        | 2023/12/05        | <ul><li>blog</li><li>research</li></ul>                    |
+| [[Blog/Research/My GPTs for communication training_1\|My GPTs for communication training_1]] | 利用ChatGPT作溝通訓練 初步設定                           | 2023/11/21        | 2023/11/21        | <ul><li>blog</li><li>research</li></ul>                    |
+| [[lecture note_20231101\|lecture note_20231101]]                                             | 人工智慧時代的英語學習力                                  | 2023/11/02        | 2023/11/07        | <ul><li>blog</li><li>note</li></ul>                        |
 
 { .block-language-dataview}
 
