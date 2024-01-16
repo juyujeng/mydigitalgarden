@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/@work stuff/26 prompting principles/","title":"26 prompting principles","tags":["blog","ai","chatgpt","prompt","guideline"],"created":"2024-01-09","updated":"2024-01-09"}
+{"dg-publish":true,"permalink":"/@work stuff/26 prompting principles/","title":"26 prompting principles","tags":["blog","ai","chatgpt","prompt","guideline"],"created":"2024-01-09","updated":"2024-01-16T14:40"}
 ---
 
 
 
-Bsharat等人（2023）歸納出26項prompting原則，並將將這些原則分為5大類
+Bsharat等人（2023）歸納出26項prompting原則，並將這些原則分為5大類
 - Prompt Structure and Clarity
     - 將prompt的內容結構化，例如區分「instruction」、「question」、「example」
     - 設定AI思考的過程。如： `think step by step`
