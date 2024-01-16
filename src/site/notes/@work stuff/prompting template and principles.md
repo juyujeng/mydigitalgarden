@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/@work stuff/prompting template and principles/","title":"prompting template and principles","tags":["ai","chatgpt","prompt"],"created":"2024-01-15T22:44","updated":"2024-01-16T16:09"}
+{"dg-publish":true,"permalink":"/@work stuff/prompting template and principles/","title":"prompting 模板與原則","tags":["ai","chatgpt","prompt"],"created":"2024-01-15T22:44","updated":"2024-01-16T16:09"}
 ---
 
 
@@ -10,18 +10,18 @@
 
 在撰寫prompts有模板可以粗略套用到各個情境，再按照使用者的實際情況酌以增減。這四個部份包含
 
-- 「目標任務或問題」
+1. **「目標任務或問題」**
     - 需要[[Guidelines/Large language model\|大型語言模型]]協助完成的任務，或是想要獲得回應的問題
     - 這個部份是必要的
     - 例如： `什麼是信度？`
-- 「定義[[Guidelines/Large language model\|大型語言模型]]要扮演的角色」
+2. **「定義[[Guidelines/Large language model\|大型語言模型]]要扮演的角色」**
     - 定義[[Guidelines/Large language model\|大型語言模型]]所扮演的角色，可以獲得基於不同的背景或角色特色的回應內容
     - 這一部份非是必要的，但若能正確地使用，能有效地提升回應內容的品質或是讓回應內容更接近使用者的期望。
     - 例如：`扮演一個教授研究方法的老師`
-- 「回應格式或風格」
+3. **「回應格式或風格」**
     - 指定回應需符合的特定格式（如：表格、html）、限制（如：字數）或是文字風格（如：正式有禮貌）。
     - 這一部份按任務需要，可能是必要的
-- 「BUFF咒語」
+4. **「BUFF咒語」**
     - 這個部份為附加的句子或是關鍵詞，能夠提升回應內容的品質。但附加文字與目標任務在表面上不一定有相關。
     - 非必要
     - 例如：`let's go step by step`
@@ -29,15 +29,15 @@
 ## 26 prompting principles
 
 Bsharat等人（2023）歸納出[[@work stuff/26 prompting principles\|26項prompting原則]]，並將這些原則分為5大類。結合前述的[[@work stuff/prompting template and principles#prompting 模板\|模板]]，我重新組織如下
-- 如何設定或說明任務、目標
+1. 如何設定或說明任務、目標
     - [[@work stuff/prompting template and principles#清楚說明任務或是目標\|#清楚說明任務或是目標]]
     - [[@work stuff/prompting template and principles#互動以釐清任務或目標\|#互動以釐清任務或目標]]
     - [[@work stuff/prompting template and principles#簡化或拆解任務\|#簡化或拆解任務]]
-- [[@work stuff/prompting template and principles#如何定義 Large language model 大型語言模型 要扮演的角色\|如何定義大型語言模型要扮演的角色]]
-- [[@work stuff/prompting template and principles#如何設定回應格式或風格\|#如何設定回應格式或風格]]
-- [[@work stuff/prompting template and principles#如何上BUFF\|#如何上BUFF]]
-- [[@work stuff/prompting template and principles#如何結構化prompts\|#如何結構化prompts]]
-- [[@work stuff/prompting template and principles#特定任務模板\|#特定任務模板]]
+2. [[@work stuff/prompting template and principles#如何定義 Large language model 大型語言模型 要扮演的角色\|如何定義大型語言模型要扮演的角色]]
+3. [[@work stuff/prompting template and principles#如何設定回應格式或風格\|#如何設定回應格式或風格]]
+4. [[@work stuff/prompting template and principles#如何上BUFF\|#如何上BUFF]]
+5. [[@work stuff/prompting template and principles#如何結構化prompts\|#如何結構化prompts]]
+6. [[@work stuff/prompting template and principles#特定任務模板\|#特定任務模板]]
 
 ### 清楚說明任務或是目標
 
