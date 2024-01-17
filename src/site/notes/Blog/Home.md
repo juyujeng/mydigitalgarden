@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
 ---
 
 
@@ -30,7 +30,7 @@
 
 | File                                                                                            | 標題                                            | 上傳日期              | 最後修改              | 類別                                                         |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
-| [[@work stuff/prompting template and principles\|prompting template and principles]]         | prompting 模板與原則                               | 2024/01/15  22:44 | 2024/01/16  16:09 | <ul><li>note</li><li>research</li></ul>                    |
+| [[@work stuff/prompting template and principles\|prompting template and principles]]         | prompting 模板與原則                               | 2024/01/15  22:44 | 2024/01/17  14:31 | <ul><li>note</li><li>research</li></ul>                    |
 | [[@work stuff/26 prompting principles\|26 prompting principles]]                             | 26 prompting principles                       | 2024/01/09        | 2024/01/16  14:40 | <ul><li>research</li><li>references</li><li>note</li></ul> |
 | [[@work stuff/least-to-most prompting\|least-to-most prompting]]                             | Least-to-most prompting                       | 2024/01/15  14:42 | 2024/01/15  15:12 | \-                                                         |
 | [[@work stuff/Chain-of-Thought Prompting\|Chain-of-Thought Prompting]]                       | What is Chain-of-Thought Prompting?           | 2024/01/15  14:17 | 2024/01/15  14:18 | \-                                                         |
