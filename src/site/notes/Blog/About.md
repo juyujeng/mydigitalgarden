@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/About/","title":"About","created":"2022-09-13T12:59:08.000Z","updated":"2023-02-16"}
+{"dg-publish":true,"permalink":"/Blog/About/","title":"About","created":"2022-09-13T12:59:08.000Z","updated":"2024-01-17T14:14"}
 ---
 
 
@@ -9,23 +9,24 @@
 
 ## working on
 
-**Yu-Jeng Ju**, Yunn-Wen Lien, Shan-Chuan Teng. (In press) Mind wandering: Definition, measurement, and predictive factors. _Chinese Journal of Psychology_.
 
 **Yu-Jeng Ju**, Meng-Lin Lee, Ching-Lin Hsieh, Han-En Tsai, Jou-Chieh Chen, Tzu-Yi Wu, Yi-Ching Wang, Chih-Ping Chen. (under review) Intra-rater and inter-rater reliability of the Empathic Communication Coding System. _Australian Occupational Therapy Journal_. June 2023 submitted.
 
 Hsieh, T.-L., Yang, H.-L., **Ju, Y.-J**., Lee, M.-L., & Hsueh, I-P. (under review) Consistency between the Definition, Intervention, and Assessment of Empathy in Nursing Empathy Intervention Studies. _Journal of Clinical Nursing_. July 2023 submitted.
 
-Chen, K.-W., Lee, S.-C., Chou, Frank H.-C., Chiang, H.-Y., Hsueh, I-P., Chen, P.-H., Wang, S.-P., & **Ju, Y.-J**. (under review) Development of a Rasch-calibrated emotion recognition video test for patients with schizophrenia. _Archives of Clinical Neuropsychology._ 2023 June submitted.
-
 **Ju, Y.-J.**, & Lien, Y.-W. (in preparation). Focusing in a mindful way: Differentiating neural correlates of receptive attention from object-oriented attention
 
 ## journal article
+
+**Yu-Jeng Ju**, Yunn-Wen Lien, Shan-Chuan Teng. (In press) Mind wandering: Definition, measurement, and predictive factors. _Chinese Journal of Psychology_.
 
 Wu, L.-C., Lien, Y.-W., & **Ju, Y.-J.** (2022). Escaping from worries: Comparing the effectiveness of focusing on one’s breath, a neutral and a positive distractor in worry control. Current Psychology. <https://doi.org/10.1007/s12144-022-03744-1> [📄](https://rdcu.be/cVUIh)
 
 **Ju, Y.-J.**, & Lien, Y.-W. (2018). Who is prone to wander and when? Examining an integrative effect of working memory capacity and mindfulness trait on mind wandering under different task loads. Consciousness and Cognition, 63(1), 1–10. <https://doi.org/10.1016/j.concog.2018.06.006>
 
 **Ju, Y.-J.**, & Lien, Y.-W. (2016). Better control with less effort: The advantage of using focused-breathing strategy over focused-distraction strategy on thought suppression. Consciousness and Cognition, 40, 9–16. <https://doi.org/10.1016/j.concog.2015.12.002>
+
+Chen, K.-W., Lee, S.-C., Chou, F. H.-C., Chiang, H.-Y., Hsueh, I.-P., Chen, P.-H., Wang, S.-P., Ju, Y.-J., & Hsieh, C.-L. (2023). Development of a Rasch-calibrated emotion recognition video test for patients with schizophrenia. _Archives of Clinical Neuropsychology_, acad098. [https://doi.org/10.1093/arclin/acad098](https://doi.org/10.1093/arclin/acad098)
 
 Huang, E. P.-Y., Lin, H.-S., Chen, Y.-C., Li, Y.-H., Huang, Y.-L., **Ju, Y.-J.**, Yu, H.-C., Kicska, G. A., & Wu, M.-T. (2023). Lower attenuation and higher kurtosis of coronary artery calcification associated with vulnerable plaque – an agatston score propensity-matched CT radiomics study. _BMC Cardiovascular Disorders_, _23_(1), 158. [https://doi.org/10.1186/s12872-023-03162-6](https://doi.org/10.1186/s12872-023-03162-6)
 
