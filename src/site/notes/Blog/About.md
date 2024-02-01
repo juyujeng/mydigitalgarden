@@ -9,12 +9,11 @@
 
 ## working on
 
-
-**Yu-Jeng Ju**, Meng-Lin Lee, Ching-Lin Hsieh, Han-En Tsai, Jou-Chieh Chen, Tzu-Yi Wu, Yi-Ching Wang, Chih-Ping Chen. (under review) Intra-rater and inter-rater reliability of the Empathic Communication Coding System. _Australian Occupational Therapy Journal_. June 2023 submitted.
-
-Hsieh, T.-L., Yang, H.-L., **Ju, Y.-J**., Lee, M.-L., & Hsueh, I-P. (under review) Consistency between the Definition, Intervention, and Assessment of Empathy in Nursing Empathy Intervention Studies. _Journal of Clinical Nursing_. July 2023 submitted.
-
 **Ju, Y.-J.**, & Lien, Y.-W. (in preparation). Focusing in a mindful way: Differentiating neural correlates of receptive attention from object-oriented attention
+
+**Yu-Jeng Ju**, Meng-Lin Lee, Ching-Lin Hsieh, Han-En Tsai, Jou-Chieh Chen, Tzu-Yi Wu, Yi-Ching Wang, Chih-Ping Chen. (under review) Intra-rater and inter-rater reliability of the Empathic Communication Coding System. _Patient Education and Counseling_. December 2023 submitted.
+
+Hsieh, T.-L., Yang, H.-L., **Ju, Y.-J**., Lee, M.-L., & Hsueh, I-P. (under review) Consistency between the Definition, Intervention, and Assessment of Empathy in Nursing Empathy Intervention Studies. _Japan Journal of Nursing Science_. January 2024 submitted.
 
 ## journal article
 
