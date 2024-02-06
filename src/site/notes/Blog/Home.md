@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
 ---
 
 
@@ -30,6 +30,7 @@
 
 | File                                                                                    | 標題                                            | 上傳日期              | 最後修改              | 類別                                                         |
 | --------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
+| [[determining sample size\|determining sample size]]                                 | 如何決定樣本數？                                      | 2024/02/05  16:18 | 2024/02/06  16:24 | <ul><li>note</li><li>research</li></ul>                    |
 | [[@work stuff/self-consistency prompting\|self-consistency prompting]]               | self-consistency prompting                    | 2024/02/01  10:52 | 2024/02/01  14:47 | \-                                                         |
 | [[@work stuff/Chain-of-Thought Prompting\|Chain-of-Thought Prompting]]               | What is Chain-of-Thought Prompting?           | 2024/01/15  14:17 | 2024/02/01  10:52 | \-                                                         |
 | [[@work stuff/prompting template and principles\|prompting template and principles]] | prompting 模板與原則                               | 2024/01/15  22:44 | 2024/01/18  00:23 | <ul><li>note</li><li>research</li></ul>                    |
@@ -39,7 +40,6 @@
 | [[minimal detectable change\|minimal detectable change]]                             | minimal detectable change                     | 2023/12/15        | 2023/12/15        | <ul><li>blog</li><li>note</li></ul>                        |
 | [[Projects/QUIC/資料篩選條件\|資料篩選條件]]                                                     | 資料篩選條件                                        | 2023/12/14        | 2023/12/14        | <ul><li>blog</li><li>research</li></ul>                    |
 | [[standard error of measurement\|standard error of measurement]]                     | standard error of measurement                 | 2023/12/13        | 2023/12/13        | <ul><li>note</li></ul>                                     |
-| [[GPTs可以調整的參數\|GPTs可以調整的參數]]                                                         | GPTs可以調整的參數                                   | 2023/11/27        | 2023/12/05        | <ul><li>blog</li><li>research</li></ul>                    |
 
 { .block-language-dataview}
 
