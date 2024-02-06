@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry"],"created":"2023-02-16","updated":"2023-03-01"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-02-06T23:10"}
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-| File                                                                                    | 標題                                            | 上傳日期              | 最後修改              | 類別                                                         |
+| File                                                                                    | 標題                                            | 創建日期              | 最後修改              | 類別                                                         |
 | --------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
 | [[determining sample size\|determining sample size]]                                 | 如何決定樣本數？                                      | 2024/02/05  16:18 | 2024/02/06  16:24 | <ul><li>note</li><li>research</li></ul>                    |
 | [[@work stuff/self-consistency prompting\|self-consistency prompting]]               | self-consistency prompting                    | 2024/02/01  10:52 | 2024/02/01  14:47 | \-                                                         |
