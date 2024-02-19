@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-02-06T23:10"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-02-06T23:10"}
 ---
 
 
@@ -30,6 +30,8 @@
 
 | File                                                                                    | 標題                                            | 創建日期              | 最後修改              | 類別                                                         |
 | --------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
+| [[重新驗證ATAI可能的賣點\|重新驗證ATAI可能的賣點]]                                                     | 重新驗證ATAI可能的賣點                                 | 2024/02/19  17:00 | 2024/02/19  17:42 | <ul><li>research</li><li>note</li></ul>                    |
+| [[tasks and measurements/AI信任問卷\|AI信任問卷]]                                            | Attitude Towards Artificial Intelligence      | 2023/09/14  15:06 | 2024/02/19  17:02 | <ul><li>research</li><li>note</li></ul>                    |
 | [[determining sample size\|determining sample size]]                                 | 如何決定樣本數？                                      | 2024/02/05  16:18 | 2024/02/06  16:24 | <ul><li>note</li><li>research</li></ul>                    |
 | [[@work stuff/self-consistency prompting\|self-consistency prompting]]               | self-consistency prompting                    | 2024/02/01  10:52 | 2024/02/01  14:47 | \-                                                         |
 | [[@work stuff/Chain-of-Thought Prompting\|Chain-of-Thought Prompting]]               | What is Chain-of-Thought Prompting?           | 2024/01/15  14:17 | 2024/02/01  10:52 | \-                                                         |
@@ -38,8 +40,6 @@
 | [[@work stuff/least-to-most prompting\|least-to-most prompting]]                     | Least-to-most prompting                       | 2024/01/15  14:42 | 2024/01/15  15:12 | \-                                                         |
 | [[Hsu method\|Hsu method]]                                                           | Hsu's multiple comparison for the best method | 2024/01/08        | 2024/01/08        | <ul><li>research</li><li>note</li></ul>                    |
 | [[minimal detectable change\|minimal detectable change]]                             | minimal detectable change                     | 2023/12/15        | 2023/12/15        | <ul><li>blog</li><li>note</li></ul>                        |
-| [[Projects/QUIC/資料篩選條件\|資料篩選條件]]                                                     | 資料篩選條件                                        | 2023/12/14        | 2023/12/14        | <ul><li>blog</li><li>research</li></ul>                    |
-| [[standard error of measurement\|standard error of measurement]]                     | standard error of measurement                 | 2023/12/13        | 2023/12/13        | <ul><li>note</li></ul>                                     |
 
 { .block-language-dataview}
 
