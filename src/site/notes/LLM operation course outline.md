@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/LLM operation course outline/","title":"LLMAI訓練課程大綱","tags":["prompt","#training","chatgpt","ai"],"created":"2024-02-20T11:26","updated":"2024-02-20T17:06"}
+{"dg-publish":true,"permalink":"/LLM operation course outline/","title":"LLMAI訓練課程大綱","tags":["prompt","#training","chatgpt","ai"],"created":"2024-02-20T11:26","updated":"2024-02-20T17:15"}
 ---
 
 
@@ -14,17 +14,19 @@
 - 目標對象
   - 學生
   - 一般行政、文字工作者
+- 時間長度
+  - 初估4堂，每堂1至1.5小時，共5小時
 
 ## 課程大綱
 
-- 什麼是大型語言模型AI（1小時～1.5小時）
+- 什麼是大型語言模型AI（1.5小時）
   - 運作的原理
   - 核心功能
   - 限制
   - 常見的AI服務（ChatGPT、Gemini、Claude、Perplexity、SciSpace）與其特性
   - ChatGPT、Gemini使用介面與帳號設定
     - （都只需要Gmail帳號就好）
-- 如何與大型語言模型溝通（1小時～1.5小時）
+- 如何與大型語言模型溝通（1.5小時）
   - 什麼是prompt？
   - 好的[[@work stuff/prompting template and principles\|Prompting原則與模板]]
     - 撰寫清晰的指示
