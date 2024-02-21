@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-02-06T23:10"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-02-06T23:10"}
 ---
 
 
@@ -30,10 +30,10 @@
 
 | File                                                                                    | 標題                                            | 創建日期              | 最後修改              | 類別                                                         |
 | --------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
-| [[LLM operation course outline\|LLM operation course outline]]                       | LLMAI訓練課程大綱                                   | 2024/02/20  11:26 | 2024/02/20  17:06 | \-                                                         |
+| [[determining sample size\|determining sample size]]                                 | 如何決定樣本數？                                      | 2024/02/05  16:18 | 2024/02/21  15:15 | <ul><li>note</li><li>research</li></ul>                    |
+| [[LLM operation course outline\|LLM operation course outline]]                       | LLMAI訓練課程大綱                                   | 2024/02/20  11:26 | 2024/02/20  17:15 | \-                                                         |
 | [[重新驗證ATAI可能的賣點\|重新驗證ATAI可能的賣點]]                                                     | 重新驗證ATAI可能的賣點                                 | 2024/02/19  17:00 | 2024/02/19  23:56 | <ul><li>research</li><li>note</li></ul>                    |
 | [[tasks and measurements/AI信任問卷\|AI信任問卷]]                                            | Attitude Towards Artificial Intelligence      | 2023/09/14  15:06 | 2024/02/19  17:02 | <ul><li>research</li><li>note</li></ul>                    |
-| [[determining sample size\|determining sample size]]                                 | 如何決定樣本數？                                      | 2024/02/05  16:18 | 2024/02/06  16:24 | <ul><li>note</li><li>research</li></ul>                    |
 | [[@work stuff/self-consistency prompting\|self-consistency prompting]]               | self-consistency prompting                    | 2024/02/01  10:52 | 2024/02/01  14:47 | \-                                                         |
 | [[@work stuff/Chain-of-Thought Prompting\|Chain-of-Thought Prompting]]               | What is Chain-of-Thought Prompting?           | 2024/01/15  14:17 | 2024/02/01  10:52 | \-                                                         |
 | [[@work stuff/prompting template and principles\|prompting template and principles]] | prompting 模板與原則                               | 2024/01/15  22:44 | 2024/01/18  14:31 | <ul><li>note</li><li>research</li></ul>                    |
