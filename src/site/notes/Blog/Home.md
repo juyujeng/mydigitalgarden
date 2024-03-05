@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-02-06T23:10"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-02-06T23:10"}
 ---
 
 
@@ -30,7 +30,6 @@
 
 | File                                                                                                                     | 標題                                       | 創建日期              | 最後修改              | 類別                                                         |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
-| [[LLMAI sharing 0308\|LLMAI sharing 0308]]                                                                            | ChatGPT在學習與研究的使用經驗分享                     | 2024/03/04  10:37 | 2024/03/04  13:04 | \-                                                         |
 | [[Projects/Q-SNELL/potential journals for QUIC submission\|potential journals for QUIC submission]]                   | potential journals of QUIC               | 2023/10/16        | 2024/03/04  09:36 | <ul><li>project</li><li>note</li></ul>                     |
 | [[Projects/ATAI validation/validation of ATAI purpose and contribution\|validation of ATAI purpose and contribution]] | 重新驗證ATAI：研究目的與可能的賣點                      | 2024/02/19  17:00 | 2024/02/23  15:36 | <ul><li>research</li><li>note</li></ul>                    |
 | [[LLM operation course outline\|LLM operation course outline]]                                                        | LLMAI訓練課程大綱                              | 2024/02/20  11:26 | 2024/02/22  16:03 | \-                                                         |
@@ -40,6 +39,7 @@
 | [[@work stuff/Chain-of-Thought Prompting\|Chain-of-Thought Prompting]]                                                | What is Chain-of-Thought Prompting?      | 2024/01/15  14:17 | 2024/02/01  10:52 | \-                                                         |
 | [[@work stuff/prompting template and principles\|prompting template and principles]]                                  | prompting 模板與原則                          | 2024/01/15  22:44 | 2024/01/18  14:31 | <ul><li>note</li><li>research</li></ul>                    |
 | [[@work stuff/26 prompting principles\|26 prompting principles]]                                                      | 26 prompting principles                  | 2024/01/09        | 2024/01/16  14:40 | <ul><li>research</li><li>references</li><li>note</li></ul> |
+| [[@work stuff/least-to-most prompting\|least-to-most prompting]]                                                      | Least-to-most prompting                  | 2024/01/15  14:42 | 2024/01/15  15:12 | \-                                                         |
 
 { .block-language-dataview}
 
