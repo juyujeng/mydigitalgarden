@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/Test information function/","title":"Test information function","tags":["blog","IRT"],"created":"2023-08-18","updated":"2023-08-18"}
+{"dg-publish":true,"permalink":"/Blog/Document/Test information function/","title":"Test information function","tags":["blog","IRT"],"created":"2023-08-18","updated":"2024-03-11T11:54"}
 ---
 
 
-在羅序模型當中，訊息（information）是一種統計概念，訊息量越高，代表辨識能力以及準確度越高。
+
+在羅序模型（Rasch model）當中，訊息（information）是一種統計概念，訊息量越高，代表辨識能力以及準確度越高。
 
 在進一步說明之前要先提到項目反應特徵曲線，它描述了各個題目的通過率以及受測者的能力之間的關係。如下圖所示，面對3個不同難度的題，受測者的能力（θ）能力越高，答對率也越高。這三題50%通過率分別對應不同的θ值。
 
