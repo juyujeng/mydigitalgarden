@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/Overview of CAT/","title":"電腦適性測驗概述","tags":["blog","CAT","adaptive_testing"],"created":"2023-08-17T00:00:00.000Z","updated":"2024-03-19T22:50"}
+{"dg-publish":true,"permalink":"/Blog/Document/Overview of CAT/","title":"電腦適性測驗概述","tags":["blog","CAT","adaptive_testing"],"created":"2023-08-17T00:00:00.000Z","updated":"2024-03-19T22:52"}
 ---
 
 
@@ -78,6 +78,4 @@
 - 計算最終對受測者能力的估計值
 - 可以用與test step中一樣的估計方式，也可以在這一階段合併使用其他的估計方式
 
-:::hidden
-test text, these should be hidden
-:::
+ 
