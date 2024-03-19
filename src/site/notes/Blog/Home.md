@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-02-06T23:10"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-02-06T23:10"}
 ---
 
 
@@ -30,7 +30,7 @@
 
 | File                                                                                                                     | 標題                                       | 創建日期              | 最後修改              | 類別                                      |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- | ----------------- | ----------------- | --------------------------------------- |
-| [[Blog/Document/Overview of CAT\|Overview of CAT]]                                                                    | 電腦適性測驗概述                                 | 2023/08/17        | 2024/03/19  22:50 | <ul><li>blog</li><li>document</li></ul> |
+| [[Blog/Document/Overview of CAT\|Overview of CAT]]                                                                    | 電腦適性測驗概述                                 | 2023/08/17        | 2024/03/19  22:52 | <ul><li>blog</li><li>document</li></ul> |
 | [[Blog/Research/test information function\|test information function]]                                                | Test information function                | 2023/08/18        | 2024/03/11  14:09 | <ul><li>blog</li><li>document</li></ul> |
 | [[Projects/Q-SNELL/potential journals for QUIC submission\|potential journals for QUIC submission]]                   | potential journals of QUIC               | 2023/10/16        | 2024/03/04  09:36 | <ul><li>project</li><li>note</li></ul>  |
 | [[Projects/ATAI validation/validation of ATAI purpose and contribution\|validation of ATAI purpose and contribution]] | 重新驗證ATAI：研究目的與可能的賣點                      | 2024/02/19  17:00 | 2024/02/23  15:36 | <ul><li>research</li><li>note</li></ul> |
