@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-02-06T23:10"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-02-06T23:10"}
 ---
 
 
@@ -30,6 +30,7 @@
 
 | File                                                                                                                     | 標題                                       | 創建日期              | 最後修改              | 類別                                      |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- | ----------------- | ----------------- | --------------------------------------- |
+| [[Projects/CommGPT/my gpt sp template new\|my gpt sp template new]]                                                   | 最新版標準病人設定模板                              | 2024/02/29  09:56 | 2024/03/21  15:52 | \-                                      |
 | [[20240306 ChatGPT研究會議\|20240306 ChatGPT研究會議]]                                                                        | ChatGPT研究會議                              | 2024/03/06  22:08 | 2024/03/19  22:59 | <ul><li>research</li></ul>              |
 | [[Blog/Document/Overview of CAT\|Overview of CAT]]                                                                    | 電腦適性測驗概述                                 | 2023/08/17        | 2024/03/19  22:52 | <ul><li>blog</li><li>document</li></ul> |
 | [[Blog/Research/test information function\|test information function]]                                                | Test information function                | 2023/08/18        | 2024/03/11  14:09 | <ul><li>blog</li><li>document</li></ul> |
@@ -39,7 +40,6 @@
 | [[determining sample size\|determining sample size]]                                                                  | 如何決定樣本數？                                 | 2024/02/05  16:18 | 2024/02/21  15:15 | <ul><li>note</li><li>research</li></ul> |
 | [[tasks and measurements/AI信任問卷\|AI信任問卷]]                                                                             | Attitude Towards Artificial Intelligence | 2023/09/14  15:06 | 2024/02/19  17:02 | <ul><li>research</li><li>note</li></ul> |
 | [[@work stuff/self-consistency prompting\|self-consistency prompting]]                                                | self-consistency prompting               | 2024/02/01  10:52 | 2024/02/01  14:47 | \-                                      |
-| [[@work stuff/Chain-of-Thought Prompting\|Chain-of-Thought Prompting]]                                                | What is Chain-of-Thought Prompting?      | 2024/01/15  14:17 | 2024/02/01  10:52 | \-                                      |
 
 { .block-language-dataview}
 
