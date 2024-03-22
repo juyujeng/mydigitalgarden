@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/CommGPT/my gpt sp template new/","title":"最新版標準病人設定模板","tags":["chatgpt","ai","communication","prompt"],"created":"2024-02-29T09:56","updated":"2024-03-21T15:52"}
+{"dg-publish":true,"permalink":"/Projects/CommGPT/my gpt sp template new/","title":"最新版標準病人設定模板","tags":["chatgpt","ai","communication","prompt"],"created":"2024-02-29T09:56","updated":"2024-03-22T11:27"}
 ---
 
 
-
-
 # 模板
+
+模板使用[markdown](https://www.markdownguide.org/)語法撰寫，這是熱門的快速筆記語法，網路上有眾多文章使用該語法撰寫，所以能被 ChatGPT 所理解。
+
+在模板中，`#`標示「標題層級」，`#`為第一層，`##`為第二層…以此類推。藉由標題層級做出有階層的提示架構。而`-`以及`1.`為無序以及有序清單列表，使用清單列表來說明要求以及流程。
+
+直接複製以下模板內容貼進instruction，並在對應的位置填入訓練相關的資訊以及劇本即可
 
 ```
 # 說明
