@@ -33,6 +33,25 @@
       2. 其他與訓練目的相關的資訊，例如職能表現、生活習慣
       3. （對話範例）：若對特定的問題有特殊的回答時可以附上對話範例，讓GPT模仿
 
+# 模板
+
+
+根據前述的原則，以下提供共同的扮演指引之模板。模板選擇使用[markdown](https://www.markdownguide.org/)語法撰寫，理由有二
+1. MyGPT的instruction僅能填入純文字，沒辦法使用html標籤來標示標題、清單等格式來建立看起來有結構的instruction。而markdown能在純文字下建立各層級標題、條列清單以及縮排階層，同時讓GPT以及使用者都可以看得懂文字的架構
+2. markdown是熱門的快速筆記語法，網路上有眾多公開之文字材料使用該語法撰寫，能被 ChatGPT 所理解。
+
+## markdown 使用簡述
+
+- **標題**：以`#`標示，`#`為第一層，`##`為第二層，`###`為第三層…以此類推。藉由標題層級做出有階層的提示架構。
+- **清單**：
+    - 無序清單，使用`-`條列清單內容。清單內容無先後順序。
+    - 有序清單，使用阿拉伯數字（如`1.`）標示。清單內容有先後順序，例如流程。
+
+
+## 模板內容
+
+直接複製以下模板內容貼進instruction，並在對應的位置填入訓練相關的資訊以及劇本即可
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/comm-gpt/my-gpt-sp-template-new/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -40,13 +59,7 @@
 
 
 
-# 模板
 
-模板使用[markdown](https://www.markdownguide.org/)語法撰寫，這是熱門的快速筆記語法，網路上有眾多文章使用該語法撰寫，所以能被 ChatGPT 所理解。
-
-在模板中，`#`標示「標題層級」，`#`為第一層，`##`為第二層…以此類推。藉由標題層級做出有階層的提示架構。而`-`以及`1.`為無序以及有序清單列表，使用清單列表來說明要求以及流程。
-
-直接複製以下模板內容貼進instruction，並在對應的位置填入訓練相關的資訊以及劇本即可
 
 ```
 # 說明
