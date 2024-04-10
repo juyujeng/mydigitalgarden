@@ -13,7 +13,7 @@
 | [[20240306 ChatGPT研究會議\|ChatGPT研究會議]]                                                         | 2024/03/19  22:59 |
 | [[Blog/Document/Overview of CAT\|電腦適性測驗概述]]                                                   | 2024/03/19  22:52 |
 | [[Blog/Research/test information function\|Test information function]]                        | 2024/03/11  14:09 |
-| [[Projects/Q-SNELL/potential journals for QUIC submission\|potential journals of QUIC]]       | 2024/03/04  10:16 |
 | [[Projects/ATAI validation/validation of ATAI purpose and contribution\|重新驗證ATAI：研究目的與可能的賣點]] | 2024/02/23  15:36 |
+| [[LLM operation course outline\|LLMAI訓練課程大綱]]                                                 | 2024/02/22  16:03 |
 
 { .block-language-dataview}
