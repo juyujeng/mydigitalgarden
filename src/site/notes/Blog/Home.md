@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T14:21"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards list-cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T14:21"}
 ---
 
 
@@ -30,9 +30,12 @@
 ## 文章分類列表
 
 - [[Blog/Research_index\|研究]]
-- [[Blog/Life_index\|生活]]
+    - 研究過程中的紀錄與心得
 - [[Blog/Digest_index\|閱讀]]
+    - 文獻閱讀摘要
 - [[Blog/Document_index\|文件]]
+    - 統計、寫作、實驗設計等技術性筆記
+- [[Blog/Life_index\|生活]]
 
 ## [[Blog/AllPost\|所有文章]]
 
