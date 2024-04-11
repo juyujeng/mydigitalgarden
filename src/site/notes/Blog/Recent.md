@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Recent/","title":"最近更新","tags":["blog","webpage"],"created":"2023-02-26","updated":"2024-04-10T14:22"}
+{"dg-publish":true,"permalink":"/Blog/Recent/","title":"最近更新","contentClasses":"cards","tags":["blog","webpage"],"created":"2023-02-26","updated":"2024-04-11T14:21"}
 ---
 
 
