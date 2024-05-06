@@ -7,7 +7,7 @@
 
 | 標題                                                                                                                                | 上傳日期              | 最後修改              | 類別                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
-| [[Projects/GKCSAF rater/prompting_01\|GKCSAF考官指示]]                                                                             | 2024/05/02  14:54 | 2024/05/06  14:10 | \-                                                         |
+| [[Projects/GKCSAF rater/prompting_01\|GKCSAF考官指示]]                                                                             | 2024/05/02  14:54 | 2024/05/06  14:17 | \-                                                         |
 | [[DNR\|不施予心肺復甦術（do not resuscitation，DNR）]]                                                                                    | 2024/04/02  15:44 | 2024/04/02  15:44 | <ul><li>research</li></ul>                                 |
 | [[Kanban notes/How to request NIH data\|NIMH資料申請步驟]]                                                                           | 2024/03/22  15:26 | 2024/05/01  15:07 | <ul><li>research</li><li>note</li></ul>                    |
 | [[Projects/CommGPT/MyGPT Instruction writing principle\|MyGPTs SP instruction撰寫原則與模板]]                                         | 2024/03/20  23:35 | 2024/03/23  00:05 | <ul><li>project</li><li>research</li></ul>                 |
