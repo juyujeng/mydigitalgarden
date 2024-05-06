@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards list-cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T15:13"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards list-cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T15:13"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 | 標題                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------ | ----------------- |
-| [[Projects/GKCSAF rater/prompting_01\|GKCSAF考官指示]]                                            | 2024/05/06  14:10 |
+| [[Projects/GKCSAF rater/prompting_01\|GKCSAF考官指示]]                                            | 2024/05/06  14:17 |
 | [[Kanban notes/How to request NIH data\|NIMH資料申請步驟]]                                          | 2024/05/01  15:07 |
 | [[DNR\|不施予心肺復甦術（do not resuscitation，DNR）]]                                                   | 2024/04/02  15:44 |
 | [[Projects/Q-SNELL/資料篩選條件\|資料篩選條件]]                                                           | 2024/03/25  21:30 |
