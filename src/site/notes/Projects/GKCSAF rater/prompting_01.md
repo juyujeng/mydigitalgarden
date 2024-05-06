@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/GKCSAF rater/prompting_01/","title":"GKCSAF考官指示","tags":["prompt","ai","chatgpt","guideline"],"created":"2024-05-02T14:54","updated":"2024-05-06T14:10"}
+{"dg-publish":true,"permalink":"/Projects/GKCSAF rater/prompting_01/","title":"GKCSAF考官指示","tags":["prompt","ai","chatgpt","guideline"],"created":"2024-05-02T14:54","updated":"2024-05-06T14:17"}
 ---
 
 
@@ -20,7 +20,7 @@
     (3). 總結治療師或實習生表現得最好的三個項目與理由。
     (4). 總結治療師或實習生表現可以加強的三個項目與理由。
     (5). 再次檢查評分結果是否符合評分表。確認符合之後再進到下一步。
-5. 分4個部份輸出評分結果：
+1. 分4個部份輸出評分結果：
     (1). 9項評分項目評分結果。以表格輸出，包含9個row對應9個評分項目，5個column對應5個評分等級，並在得分處✔
     (2). 將前一個表格的結果轉為分數（差：1 ～ 極好：5）。輸出為9個元素的向量，並計算總分。輸出格式如下：
 		- 評分結果 = [n, n, n, ...]
