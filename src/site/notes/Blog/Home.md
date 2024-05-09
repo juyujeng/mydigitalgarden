@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards list-cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T15:13"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards list-cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T15:13"}
 ---
 
 
@@ -12,18 +12,18 @@
 
 ## 最近更新
 
-| 標題                                                                                               | 最後修改              |
-| ------------------------------------------------------------------------------------------------ | ----------------- |
-| [[Projects/GKCSAF rater/prompting_01\|GKCSAF考官指示]]                                            | 2024/05/06  14:17 |
-| [[Kanban notes/How to request NIH data\|NIMH資料申請步驟]]                                          | 2024/05/01  15:07 |
-| [[DNR\|不施予心肺復甦術（do not resuscitation，DNR）]]                                                   | 2024/04/02  15:44 |
-| [[Projects/Q-SNELL/資料篩選條件\|資料篩選條件]]                                                           | 2024/03/25  21:30 |
-| [[20240306 ChatGPT研究會議\|ChatGPT研究會議]]                                                         | 2024/03/25  11:02 |
-| [[Projects/CommGPT/MyGPT Instruction writing principle\|MyGPTs SP instruction撰寫原則與模板]]        | 2024/03/23  00:05 |
-| [[Projects/CommGPT/my gpt sp template new\|最新版標準病人設定模板]]                                      | 2024/03/22  23:38 |
-| [[Blog/Document/Overview of CAT\|電腦適性測驗概述]]                                                   | 2024/03/19  22:52 |
-| [[Blog/Research/test information function\|Test information function]]                        | 2024/03/11  14:09 |
-| [[Projects/ATAI validation/validation of ATAI purpose and contribution\|重新驗證ATAI：研究目的與可能的賣點]] | 2024/02/23  15:36 |
+| 標題                                                                                        | 最後修改              |
+| ----------------------------------------------------------------------------------------- | ----------------- |
+| [[Projects/PANSS revalidation/NIH之PANSS資料\|NIH資料庫申請：PANSS有關的資料數量]]                     | 2024/05/09  16:02 |
+| [[Kanban notes/How to request NIH data\|NIMH資料申請步驟]]                                   | 2024/05/09  15:32 |
+| [[Projects/GKCSAF rater/prompting_02\|GKCSAF考官指示]]                                     | 2024/05/08  15:46 |
+| [[Projects/GKCSAF rater/prompting_01\|GKCSAF考官指示]]                                     | 2024/05/06  21:54 |
+| [[DNR\|不施予心肺復甦術（do not resuscitation，DNR）]]                                            | 2024/04/02  15:44 |
+| [[Projects/Q-SNELL/資料篩選條件\|資料篩選條件]]                                                    | 2024/03/25  21:30 |
+| [[20240306 ChatGPT研究會議\|ChatGPT研究會議]]                                                  | 2024/03/25  11:02 |
+| [[Projects/CommGPT/MyGPT Instruction writing principle\|MyGPTs SP instruction撰寫原則與模板]] | 2024/03/23  00:05 |
+| [[Projects/CommGPT/my gpt sp template new\|最新版標準病人設定模板]]                               | 2024/03/22  23:38 |
+| [[Blog/Document/Overview of CAT\|電腦適性測驗概述]]                                            | 2024/03/19  22:52 |
 
 { .block-language-dataview}
 
