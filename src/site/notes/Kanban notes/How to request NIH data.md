@@ -5,13 +5,13 @@
 
 1. 申請帳號 （<https://nda.nih.gov/）>
 2. 搜尋想要的資料：「Get data → Search Data Dictionary」
-		1. 搜尋想要找尋的文字 `PANSS`或是`Positive and Negative Syndrome Scale`
-		2. 勾選PANSS之後點選`Add to Workspace`
-		3. 於右上角漏斗圖示點選`Submit to filter cart`
-		4. 於上方filter cart當中確認，並點選`create package/add to study`
-		5. 等待幾分鐘之後進入`Data Packaging Page`
-		6. 檢視`Collections by Permission Group`，確認應該申請權限的permission group
-		7. （若獲得權限時，可以點選`create data package`，之後便可以在個人頁面當中直接連到資料）
+    1. 搜尋想要找尋的文字 `PANSS`或是`Positive and Negative Syndrome Scale`
+    2. 勾選PANSS之後點選`Add to Workspace`
+    3. 於右上角漏斗圖示點選`Submit to filter cart`
+    4. 於上方filter cart當中確認，並點選`create package/add to study`
+    5. 等待幾分鐘之後進入`Data Packaging Page`
+    6. 檢視`Collections by Permission Group`，確認應該申請權限的permission group
+    7. （若獲得權限時，可以點選`create data package`，之後便可以在個人頁面當中直接連到資料）
 3. 申請台大REC或是台大醫院IRB並通過審查
 4. 申請資料使用權限：「Get data → Request Data Access」
     - 進到頁面之後，在對應的資料後的「Action」欄位選擇「Request Access」
