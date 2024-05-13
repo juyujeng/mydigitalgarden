@@ -119,6 +119,7 @@
 | [[Blog/Research/OSCE my point\|OSCE測驗感想]]                                                                                      | \-                | \-                | \-                                                         |
 | [[Blog/Research/costumes affect perceived empathy\|服裝對於同理感受的影響]]                                                               | \-                | \-                | \-                                                         |
 | [[Blog/Research/metacognition the clinical definitions\|Metacognition: the clinical definitions]]                              | \-                | \-                | \-                                                         |
+| [[ideas and presentations/認知彈性定義與作業分析\|認知彈性定義與作業分析]]                                                                           | 2021/11/11  11:40 | 2024/05/13  15:29 | \-                                                         |
 | [[R package/data/data.table/install data.table\|如何在Mac M1上使用data.table多核運算]]                                                   | 2023/03/23        | 2023/03/24        | <ul><li>document</li><li>blog</li></ul>                    |
 
 { .block-language-dataview}
