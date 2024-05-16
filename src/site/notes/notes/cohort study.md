@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/notes/cohort study/","title":"cohort study","tags":["terms","guideline"],"created":"2023-03-22","updated":"2023-03-22"}
+{"dg-publish":true,"permalink":"/notes/cohort study/","title":"cohort study","tags":["terms","guideline"],"created":"2023-03-22","updated":"2024-05-16T23:44"}
 ---
 
 
 # cohort study
 
-指一群人追蹤一段時間的研究，屬於觀察性研究設計。
+指針對某一群體（cohort group）追蹤一段時間，用以觀察某些事件（event）與結果（outcome）間的關係，屬於觀察性研究設計。
+
+所謂的群體指的是一群在特定時期內有「共同特徵或經歷」的人
 
 ![Analytic Study Designs. Adapted with permission from Joseph Eisenberg, Ph.D.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2998589/bin/nihms-237355-f0001.jpg)
 
