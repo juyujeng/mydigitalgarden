@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/CommGPT/my gpt sp template new/","title":"最新版標準病人設定模板","tags":["chatgpt","ai","communication","prompt"],"created":"2024-02-29T09:56","updated":"2024-03-22T11:27"}
+{"dg-publish":true,"permalink":"/Projects/CommGPT/my gpt sp template new/","title":"最新版標準病人設定模板","tags":["chatgpt","ai","communication","prompt"],"created":"2024-02-29T09:56","updated":"2024-03-22T23:38"}
 ---
 
 
