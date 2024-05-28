@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intraclass correlation coefficient/","title":"intraclass correlation coefficient","tags":["terms","reliability","guideline","statistic"],"created":"2024-05-28T09:57","updated":"2024-05-28T10:50"}
+{"dg-publish":true,"permalink":"/intraclass correlation coefficient/","title":"intraclass correlation coefficient","tags":["terms","reliability","guideline","statistic"],"created":"2024-05-28T09:57","updated":"2024-05-28T23:33"}
 ---
 
 
@@ -12,8 +12,8 @@ ICC包含多個不同種類（form），Shrout 與 Fleiss（1979）提出6種，
 研究者應根據研究目的選擇適合的種類。Koo與Li（2016）依照McGraw與Wong（1996）的分類概念提出[[intraclass correlation coefficient#ICC選擇流程圖\|#ICC選擇流程圖]]，按照以下4個問題的答案進行選擇：
 
 1. 是否所有的被評分樣本都是被同一組的評分者所評分？Do we have the same set of raters for all subjects?
-2. 評分者樣本是從某個大群體中隨機選取的，還是特定的評分者樣本？Do we have a sample of raters randomly selected from a larger population or a specific sample of raters? 
-3. 我們關注的是各個評分者的信度，還是多個評分者平均值的信度？Are we interested in the reliability of single rater or the mean value of multiple raters? 
+2. 評分者樣本是從某個大群體中隨機選取的，還是特定的評分者樣本？Do we have a sample of raters randomly selected from a larger population or a specific sample of raters?
+3. 我們關注的是各個評分者的信度，還是多個評分者平均值的信度？Are we interested in the reliability of single rater or the mean value of multiple raters?
 4. 我們關心的是一致性還是同意度？Do we concern about consistency or agreement?
 
 ## 結果解釋
@@ -21,7 +21,7 @@ ICC包含多個不同種類（form），Shrout 與 Fleiss（1979）提出6種，
 依據Koo與Li（2016）
 
 | ICC Value  | Reliability           |
-|------------|-----------------------|
+| ---------- | --------------------- |
 | < 0.5      | Poor reliability      |
 | 0.5 - 0.75 | Moderate reliability  |
 | 0.75 - 0.9 | Good reliability      |
@@ -38,6 +38,7 @@ library(psych)
 ICC(x, missing=TRUE, alpha=.05, lmer=TRUE, 
     check.keys=FALSE)
 ```
+
 ### irr package
 
 `irr::icc`的計算則是按照McGraw與Wong（1996）的架構，需要設定`model`、`type`、`unit`。
@@ -49,7 +50,9 @@ icc(ratings, model = c("oneway", "twoway"),
     unit = c("single", "average"), r0 = 0,
     conf.level = 0.95)
 ```
+
 ## 附錄
+
 ### ICC 種類表
 
 | McGraw and Wong (1996) Convention                                        | Shrout and Fleiss (1979) Convention | Formulas for Calculating ICC                                        |
@@ -64,9 +67,10 @@ icc(ratings, model = c("oneway", "twoway"),
 | Two-way random effects, absolute agreement, multiple raters/measurements | ICC (2,k)                           | $\frac{MS_R - MS_E}{MS_R + \frac{MS_C - MS_E}{n}}$                  |
 | Two-way mixed effects, consistency, multiple raters/measurements         | ICC (3,k)                           | $\frac{MS_R - MS_E}{MS_R}$                                          |
 | Two-way mixed effects, absolute agreement, multiple raters/measurements  | -                                   | $\frac{MS_R - MS_E}{MS_R + \frac{MS_C - MS_E}{n}}$                  |
+
 說明：
 $MS_R$: mean square for rows; $MS_W$: mean square for residual sources of variance; $MS_E$: mean square for error; $MS_C$: mean square for columns; $n$: number of subjects; $k$: number of raters/measurements
-### ICC選擇流程
 
+### ICC選擇流程
 
 ![Pasted image 20240528103949.png|來源：Koo & Li (2016)](/img/user/Pasted%20image%2020240528103949.png)
