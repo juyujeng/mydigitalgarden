@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 | 標題                                                                                                                                | 最後修改              |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[intraclass correlation coefficient\|intraclass correlation coefficient]]                                                     | 2024/05/28  10:50 |
+| [[intraclass correlation coefficient\|intraclass correlation coefficient]]                                                     | 2024/05/28  23:33 |
 | [[Discourse analysis\|Discourse analysis]]                                                                                     | 2024/05/27  11:52 |
 | [[notes/cohort study\|cohort study]]                                                                                           | 2024/05/16  23:44 |
 | [[ideas and presentations/認知彈性定義與作業分析\|認知彈性定義與作業分析]]                                                                           | 2024/05/13  15:29 |
