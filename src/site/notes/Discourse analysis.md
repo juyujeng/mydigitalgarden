@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Discourse analysis/","title":"Discourse analysis","tags":["communication","style","chatgpt","ai"],"created":"2024-05-16T13:52","updated":"2024-05-16T14:50"}
+{"dg-publish":true,"permalink":"/Discourse analysis/","title":"Discourse analysis","tags":["communication","style","chatgpt","ai"],"created":"2024-05-16T13:52","updated":"2024-05-27T11:52"}
 ---
 
 
