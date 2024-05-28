@@ -14,16 +14,16 @@
 
 | 標題                                                                                                                                | 最後修改              |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[intraclass correlation coefficient\|intraclass correlation coefficient]]                                                     | 2024/05/28  10:50 |
+| [[Discourse analysis\|Discourse analysis]]                                                                                     | 2024/05/27  11:52 |
 | [[notes/cohort study\|cohort study]]                                                                                           | 2024/05/16  23:44 |
-| [[Discourse analysis\|Discourse analysis]]                                                                                     | 2024/05/16  14:50 |
 | [[ideas and presentations/認知彈性定義與作業分析\|認知彈性定義與作業分析]]                                                                           | 2024/05/13  15:29 |
 | [[Projects/PANSS revalidation/研究目的與方法\|Revalidating psychometric properties of two versions of the PANSS-MLSF: Research aims]] | 2024/05/10  10:01 |
 | [[Projects/PANSS revalidation/NIH之PANSS資料\|NIH資料庫申請：PANSS有關的資料數量]]                                                             | 2024/05/09  16:02 |
 | [[Kanban notes/How to request NIH data\|NIMH資料申請步驟]]                                                                           | 2024/05/09  15:32 |
-| [[Projects/GKCSAF rater/prompting_01\|GKCSAF考官指示]]                                                                             | 2024/05/06  21:54 |
+| [[Projects/GKCSAF rater/prompting_01\|GKCSAF考官指示 1]]                                                                           | 2024/05/09  11:31 |
 | [[DNR\|不施予心肺復甦術（do not resuscitation，DNR）]]                                                                                    | 2024/04/02  15:44 |
 | [[Projects/Q-SNELL/資料篩選條件\|資料篩選條件]]                                                                                            | 2024/03/25  21:30 |
-| [[20240306 ChatGPT研究會議\|ChatGPT研究會議]]                                                                                          | 2024/03/25  11:02 |
 
 { .block-language-dataview}
 
