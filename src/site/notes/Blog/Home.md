@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -14,16 +14,16 @@
 
 | 標題                                                                                                                                | 最後修改              |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[tasks and measurements/gkcsaf\|Gap–Kalamazoo communication skills assessment form]]                                          | 2024/05/31  14:55 |
+| [[Projects/PANSS revalidation/NIH之PANSS資料\|NIH資料庫申請：PANSS有關的資料數量]]                                                             | 2024/05/30  14:54 |
+| [[Projects/PANSS revalidation/研究目的與方法\|Revalidating psychometric properties of two versions of the PANSS-MLSF: Research aims]] | 2024/05/30  14:54 |
 | [[intraclass correlation coefficient\|intraclass correlation coefficient]]                                                     | 2024/05/28  23:33 |
 | [[Discourse analysis\|Discourse analysis]]                                                                                     | 2024/05/27  11:52 |
 | [[notes/cohort study\|cohort study]]                                                                                           | 2024/05/16  23:44 |
 | [[ideas and presentations/認知彈性定義與作業分析\|認知彈性定義與作業分析]]                                                                           | 2024/05/13  15:29 |
-| [[Projects/PANSS revalidation/研究目的與方法\|Revalidating psychometric properties of two versions of the PANSS-MLSF: Research aims]] | 2024/05/10  10:01 |
-| [[Projects/PANSS revalidation/NIH之PANSS資料\|NIH資料庫申請：PANSS有關的資料數量]]                                                             | 2024/05/09  16:02 |
 | [[Kanban notes/How to request NIH data\|NIMH資料申請步驟]]                                                                           | 2024/05/09  15:32 |
 | [[Projects/GKCSAF rater/prompting_01\|GKCSAF考官指示 1]]                                                                           | 2024/05/09  11:31 |
 | [[DNR\|不施予心肺復甦術（do not resuscitation，DNR）]]                                                                                    | 2024/04/02  15:44 |
-| [[Projects/Q-SNELL/資料篩選條件\|資料篩選條件]]                                                                                            | 2024/03/25  21:30 |
 
 { .block-language-dataview}
 
