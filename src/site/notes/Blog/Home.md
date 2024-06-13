@@ -14,6 +14,9 @@
 
 | 標題                                                                                                                                | 最後修改              |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Projects/PEDro/pedro ai instruction 2\|PEDro AI rater instruction (repeated rate ver.)]]                                     | 2024/06/13  14:16 |
+| [[Projects/PEDro/pedro ai instruction_1\|PEDro AI rater instruction]]                                                          | 2024/06/13  14:15 |
+| [[Projects/GKCSAF rater/prompting_01\|考官指示 實驗版]]                                                                               | 2024/06/05  14:27 |
 | [[tasks and measurements/gkcsaf\|Gap–Kalamazoo communication skills assessment form]]                                          | 2024/05/31  14:55 |
 | [[Projects/PANSS revalidation/NIH之PANSS資料\|NIH資料庫申請：PANSS有關的資料數量]]                                                             | 2024/05/30  14:54 |
 | [[Projects/PANSS revalidation/研究目的與方法\|Revalidating psychometric properties of two versions of the PANSS-MLSF: Research aims]] | 2024/05/30  14:54 |
@@ -21,9 +24,6 @@
 | [[Discourse analysis\|Discourse analysis]]                                                                                     | 2024/05/27  11:52 |
 | [[notes/cohort study\|cohort study]]                                                                                           | 2024/05/16  23:44 |
 | [[ideas and presentations/認知彈性定義與作業分析\|認知彈性定義與作業分析]]                                                                           | 2024/05/13  15:29 |
-| [[Kanban notes/How to request NIH data\|NIMH資料申請步驟]]                                                                           | 2024/05/09  15:32 |
-| [[Projects/GKCSAF rater/prompting_01\|GKCSAF考官指示 1]]                                                                           | 2024/05/09  11:31 |
-| [[DNR\|不施予心肺復甦術（do not resuscitation，DNR）]]                                                                                    | 2024/04/02  15:44 |
 
 { .block-language-dataview}
 
