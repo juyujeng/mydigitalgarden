@@ -49,8 +49,8 @@
 | [[Blog/Research/brief review of empathy\|同理回顧介紹要點]]                                                                            | 2022/04/18 | \-                | \-                                                        |
 | [[Blog/Research/can mindfulness enhance empathy\|正念可以增加同理心嗎？]]                                                                 | 2022/03/07 | \-                | \-                                                        |
 | [[Blog/Research/empathy course preview\|同理課程雛型]]                                                                               | 2022/02/24 | \-                | \-                                                        |
-| [[Blog/Research/potential empathic opportunities\|可能的同理情境]]                                                                    | 2022/01/26 | \-                | \-                                                        |
 | [[Blog/Research/potential empathic opportunities 2\|可能的同理情境初探]]                                                                | 2022/01/26 | \-                | \-                                                        |
+| [[Blog/Research/potential empathic opportunities\|可能的同理情境]]                                                                    | 2022/01/26 | \-                | \-                                                        |
 | [[Blog/Research/reseach goals\|尋找研究核心]]                                                                                        | 2021/12/27 | \-                | \-                                                        |
 | [[Blog/Research/empathy behavior know what not to do\|同理行為：有時不一定是做了什麼而是知道什時候不要做什麼]]                                            | 2021/12/22 | \-                | \-                                                        |
 | [[Blog/Research/work log 20211220\|工作日誌 20211220]]                                                                             | 2021/12/20 | \-                | \-                                                        |
@@ -65,8 +65,8 @@
 | [[Blog/Research/the criteria of good project\|一個可以通過的計畫應該要有什麼條件？]]                                                             | 2021/11/07 | \-                | blog                                                      |
 | [[Blog/Research/Kirkpatrick model\|Kirkpatrick model]]                                                                         | \-         | \-                | \-                                                        |
 | [[Blog/Research/OSCE my point\|OSCE測驗感想]]                                                                                      | \-         | \-                | \-                                                        |
-| [[Blog/Research/costumes affect perceived empathy\|服裝對於同理感受的影響]]                                                               | \-         | \-                | \-                                                        |
 | [[Blog/Research/factors affecting empathic behaviors in clinical\|影響醫病情境同理行為的三大因素]]                                            | \-         | \-                | \-                                                        |
 | [[Blog/Research/metacognition the clinical definitions\|Metacognition: the clinical definitions]]                              | \-         | \-                | \-                                                        |
+| [[Blog/Research/costumes affect perceived empathy\|服裝對於同理感受的影響]]                                                               | \-         | \-                | \-                                                        |
 
 { .block-language-dataview}
