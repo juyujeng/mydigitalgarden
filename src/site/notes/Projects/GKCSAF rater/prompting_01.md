@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/GKCSAF rater/prompting_01/","title":"GKCSAF考官指示 1","tags":["prompt","ai","chatgpt","guideline"],"created":"2024-05-02T14:54","updated":"2024-05-09T11:31"}
+{"dg-publish":true,"permalink":"/Projects/GKCSAF rater/prompting_01/","title":"考官指示 實驗版","tags":["prompt","ai","chatgpt","guideline"],"created":"2024-05-02T14:54","updated":"2024-06-05T14:27"}
 ---
 
 
