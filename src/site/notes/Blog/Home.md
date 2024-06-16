@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -14,7 +14,9 @@
 
 | 標題                                                                                                                                | 最後修改              |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Projects/PEDro/pedro ai instruction 2\|PEDro AI rater instruction (repeated rate ver.)]]                                     | 2024/06/13  14:16 |
+| [[Blog/Document/語音轉文字AI工具比較\|雅婷逐字稿 vs. Whisper.cpp]]                                                                           | 2024/06/14  14:23 |
+| [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                 | 2024/06/14  14:21 |
+| [[Projects/PEDro/pedro ai instruction_3\|PEDro AI rater instruction]]                                                          | 2024/06/13  21:38 |
 | [[Projects/PEDro/pedro ai instruction_1\|PEDro AI rater instruction]]                                                          | 2024/06/13  14:15 |
 | [[Projects/GKCSAF rater/prompting_01\|考官指示 實驗版]]                                                                               | 2024/06/05  14:27 |
 | [[tasks and measurements/gkcsaf\|Gap–Kalamazoo communication skills assessment form]]                                          | 2024/05/31  14:55 |
@@ -22,8 +24,6 @@
 | [[Projects/PANSS revalidation/研究目的與方法\|Revalidating psychometric properties of two versions of the PANSS-MLSF: Research aims]] | 2024/05/30  14:54 |
 | [[intraclass correlation coefficient\|intraclass correlation coefficient]]                                                     | 2024/05/28  23:33 |
 | [[Discourse analysis\|Discourse analysis]]                                                                                     | 2024/05/27  11:52 |
-| [[notes/cohort study\|cohort study]]                                                                                           | 2024/05/16  23:44 |
-| [[ideas and presentations/認知彈性定義與作業分析\|認知彈性定義與作業分析]]                                                                           | 2024/05/13  15:29 |
 
 { .block-language-dataview}
 
