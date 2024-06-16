@@ -7,7 +7,7 @@
 
 | 標題                                                                                                                                | 上傳日期              | 最後修改              | 類別                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
-| [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                 | 2024/06/14  14:20 | 2024/06/14  14:21 | \-                                                         |
+| [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                 | 2024/06/14  14:20 | 2024/06/16  19:16 | \-                                                         |
 | [[Projects/PEDro/pedro ai instruction_1\|PEDro AI rater instruction]]                                                          | 2024/06/12  15:18 | 2024/06/13  14:15 | \-                                                         |
 | [[Projects/PEDro/pedro ai instruction_3\|PEDro AI rater instruction]]                                                          | 2024/06/13  21:38 | 2024/06/13  21:38 | \-                                                         |
 | [[tasks and measurements/gkcsaf\|Gap–Kalamazoo communication skills assessment form]]                                          | 2024/05/31  10:11 | 2024/05/31  14:55 | \-                                                         |
