@@ -38,7 +38,7 @@
 ### 多檔案轉譯
 
 ```
-`for i in output/*.wav; do ./main -m ./models/ggml-large-v3.bin -l en --output-vtt -f "$i"; done`
+`for i in data/*.wav; do ./main -m ./models/ggml-large-v3.bin -l zh --output-txt -f "$i"; done`
 ```
 
 - 利用`for`迴圈轉譯「output資料夾」當中所有的wav檔案。

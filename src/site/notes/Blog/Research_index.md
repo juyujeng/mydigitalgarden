@@ -65,8 +65,8 @@
 | [[Blog/Research/the criteria of good project\|一個可以通過的計畫應該要有什麼條件？]]                                                             | 2021/11/07 | \-                | blog                                                      |
 | [[Blog/Research/Kirkpatrick model\|Kirkpatrick model]]                                                                         | \-         | \-                | \-                                                        |
 | [[Blog/Research/OSCE my point\|OSCE測驗感想]]                                                                                      | \-         | \-                | \-                                                        |
+| [[Blog/Research/costumes affect perceived empathy\|服裝對於同理感受的影響]]                                                               | \-         | \-                | \-                                                        |
 | [[Blog/Research/factors affecting empathic behaviors in clinical\|影響醫病情境同理行為的三大因素]]                                            | \-         | \-                | \-                                                        |
 | [[Blog/Research/metacognition the clinical definitions\|Metacognition: the clinical definitions]]                              | \-         | \-                | \-                                                        |
-| [[Blog/Research/costumes affect perceived empathy\|服裝對於同理感受的影響]]                                                               | \-         | \-                | \-                                                        |
 
 { .block-language-dataview}
