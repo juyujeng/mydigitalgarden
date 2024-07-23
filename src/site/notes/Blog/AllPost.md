@@ -7,6 +7,7 @@
 
 | 標題                                                                                                                                | 上傳日期              | 最後修改              | 類別                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
+| [[Projects/PEDro/PEDro scale item 4\|PEDro scale Item 4 revision]]                                                             | 2024/07/22  22:42 | 2024/07/23  11:24 | <ul><li>note</li><li>meeting</li></ul>                     |
 | [[Guidelines/classifier performance\|Classifier performance]]                                                                  | 2024/07/10  13:24 | 2024/07/10  14:38 | \-                                                         |
 | [[Projects/PEDro/PEDro ai instruction 9\|使用chain of thought]]                                                                  | 2024/06/24  10:18 | 2024/07/17  09:57 | \-                                                         |
 | [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                 | 2024/06/14  14:20 | 2024/06/16  19:16 | \-                                                         |

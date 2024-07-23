@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -12,18 +12,18 @@
 
 ## 最近更新
 
-| 標題                                                                                                                                | 最後修改              |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Projects/PEDro/PEDro ai instruction 9\|使用chain of thought]]                                                                  | 2024/07/17  09:57 |
-| [[Guidelines/classifier performance\|Classifier performance]]                                                                  | 2024/07/10  14:38 |
-| [[Projects/PEDro/pedro ai instruction_4\|PEDro AI rater instruction (rule embedded version)]]                                  | 2024/06/18  12:14 |
-| [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                 | 2024/06/16  19:16 |
-| [[Blog/Document/語音轉文字AI工具比較\|雅婷逐字稿 vs. Whisper.cpp]]                                                                           | 2024/06/14  14:23 |
-| [[Projects/PEDro/pedro ai instruction_3\|PEDro AI rater instruction]]                                                          | 2024/06/13  21:38 |
-| [[Projects/GKCSAF rater/prompting_01\|考官指示 實驗版]]                                                                               | 2024/06/05  14:27 |
-| [[tasks and measurements/gkcsaf\|Gap–Kalamazoo communication skills assessment form]]                                          | 2024/05/31  14:55 |
-| [[Projects/PANSS revalidation/NIH之PANSS資料\|NIH資料庫申請：PANSS有關的資料數量]]                                                             | 2024/05/30  14:54 |
-| [[Projects/PANSS revalidation/研究目的與方法\|Revalidating psychometric properties of two versions of the PANSS-MLSF: Research aims]] | 2024/05/30  14:54 |
+| 標題                                                                                               | 最後修改              |
+| ------------------------------------------------------------------------------------------------ | ----------------- |
+| [[Projects/PEDro/PEDro scale item 4\|PEDro scale Item 4 revision]]                            | 2024/07/23  11:24 |
+| [[Projects/PEDro/PEDro ai instruction 9\|使用chain of thought]]                                 | 2024/07/17  09:57 |
+| [[Guidelines/classifier performance\|Classifier performance]]                                 | 2024/07/10  14:38 |
+| [[Projects/PEDro/pedro ai instruction_4\|PEDro AI rater instruction (rule embedded version)]] | 2024/06/18  12:14 |
+| [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                | 2024/06/16  19:16 |
+| [[Blog/Document/語音轉文字AI工具比較\|雅婷逐字稿 vs. Whisper.cpp]]                                          | 2024/06/14  14:23 |
+| [[Projects/PEDro/pedro ai instruction_3\|PEDro AI rater instruction]]                         | 2024/06/13  21:38 |
+| [[Projects/GKCSAF rater/prompting_01\|考官指示 實驗版]]                                              | 2024/06/05  14:27 |
+| [[tasks and measurements/gkcsaf\|Gap–Kalamazoo communication skills assessment form]]         | 2024/05/31  14:55 |
+| [[Projects/PANSS revalidation/NIH之PANSS資料\|NIH資料庫申請：PANSS有關的資料數量]]                            | 2024/05/30  14:54 |
 
 { .block-language-dataview}
 
