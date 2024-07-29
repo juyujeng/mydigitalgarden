@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 | 標題                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------ | ----------------- |
-| [[Projects/PEDro/single item prompt item 8\|single item prompt]]                              | 2024/07/28  00:43 |
+| [[Projects/PEDro/single item prompt\|single item prompt]]                                     | 2024/07/28  00:43 |
 | [[Projects/PEDro/PEDro scale item 4\|PEDro scale Item 4 revision]]                            | 2024/07/23  15:14 |
 | [[Projects/PEDro/PEDro ai instruction 9\|使用chain of thought]]                                 | 2024/07/17  09:57 |
 | [[Guidelines/classifier performance\|Classifier performance]]                                 | 2024/07/10  14:38 |
