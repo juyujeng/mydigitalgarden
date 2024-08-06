@@ -7,9 +7,9 @@
 
 | 標題                                                                                                                                | 上傳日期              | 最後修改              | 類別                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
-| [[Projects/PEDro/single item prompt\|single item prompt]]                                                                      | 2024/07/26  16:36 | 2024/07/28  00:43 | \-                                                         |
+| [[Projects/PEDro/single item prompt\|single item prompt]]                                                                      | 2024/07/26  16:36 | 2024/07/30  15:20 | \-                                                         |
 | [[Projects/PEDro/PEDro scale item 4\|PEDro scale Item 4 revision]]                                                             | 2024/07/22  22:42 | 2024/07/23  15:14 | <ul><li>note</li><li>meeting</li></ul>                     |
-| [[Guidelines/classifier performance\|Classifier performance]]                                                                  | 2024/07/10  13:24 | 2024/07/10  14:38 | \-                                                         |
+| [[Guidelines/classifier performance\|Classifier performance]]                                                                  | 2024/07/10  13:24 | 2024/08/06  11:35 | \-                                                         |
 | [[Projects/PEDro/PEDro ai instruction 9\|使用chain of thought]]                                                                  | 2024/06/24  10:18 | 2024/07/17  09:57 | \-                                                         |
 | [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                 | 2024/06/14  14:20 | 2024/06/16  19:16 | \-                                                         |
 | [[Projects/PEDro/pedro ai instruction_4\|PEDro AI rater instruction (rule embedded version)]]                                  | 2024/06/13  23:06 | 2024/06/18  12:14 | \-                                                         |
