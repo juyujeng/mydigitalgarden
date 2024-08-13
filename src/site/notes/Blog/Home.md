@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -14,6 +14,7 @@
 
 | 標題                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------ | ----------------- |
+| [[GPTs可以調整的參數\|GPTs可以調整的參數]]                                                                  | 2024/08/13  15:57 |
 | [[Guidelines/classifier performance\|Classifier performance]]                                 | 2024/08/06  11:35 |
 | [[Projects/PEDro/single item prompt\|single item prompt]]                                     | 2024/07/30  15:20 |
 | [[Projects/PEDro/PEDro scale item 4\|PEDro scale Item 4 revision]]                            | 2024/07/23  15:14 |
@@ -23,7 +24,6 @@
 | [[Blog/Document/語音轉文字AI工具比較\|雅婷逐字稿 vs. Whisper.cpp]]                                          | 2024/06/14  14:23 |
 | [[Projects/PEDro/pedro ai instruction_3\|PEDro AI rater instruction]]                         | 2024/06/13  21:38 |
 | [[Projects/GKCSAF rater/prompting_01\|考官指示 實驗版]]                                              | 2024/06/05  14:27 |
-| [[tasks and measurements/gkcsaf\|Gap–Kalamazoo communication skills assessment form]]         | 2024/05/31  14:55 |
 
 { .block-language-dataview}
 
