@@ -27,7 +27,7 @@ Assistants API 是 OpenAI 公司提供的服務，目前處於beta階段，讓�
 3. 開始對話
 4. 儲存對話結果
 
-## 刷卡儲值credit
+## 1. 刷卡儲值credit
 
 
 > [!Info] 說明
@@ -39,7 +39,7 @@ Assistants API 是 OpenAI 公司提供的服務，目前處於beta階段，讓�
 
 加值完之後便可以進到下一步，開始建立assistant！
 
-## 設定assistant
+## 2. 設定assistant
 
 1. 進到[playground頁面](https://platform.openai.com/playground/chat)
 2. 於畫面左邊的面版選擇assistant
@@ -66,7 +66,7 @@ Assistants API 是 OpenAI 公司提供的服務，目前處於beta階段，讓�
 > [!Tip] File search
 > 上傳的文件會存到某一個vector store當中，可以在對話時指定要使用的vector store。在PEDro scale AI rater的例子當中，為了怕不同的文章彼此干擾，需要建立上百個不同的vector store。這些被建立的vector store都會被儲存下來，可以在OpenAI dashboard的Storage當中看到。
 
-## 開始對話
+## 3. 開始對話
 
 1. 上傳要評分的pdf檔：點選迴蚊針符號→File search→click to upload→選擇pdf→點選Attach
    ![Pasted image 20240814235635.png](/img/user/Guidelines/Pasted%20image%2020240814235635.png)
@@ -77,7 +77,7 @@ Assistants API 是 OpenAI 公司提供的服務，目前處於beta階段，讓�
 ![Pasted image 20240815001010.png](/img/user/Guidelines/Pasted%20image%2020240815001010.png)
 
 
-## 儲存對話結果
+## 4. 儲存對話結果
 
 
 > [!Important] 重要！
@@ -100,4 +100,4 @@ Assistants API 是 OpenAI 公司提供的服務，目前處於beta階段，讓�
 ![Pasted image 20240815002446.png](/img/user/Guidelines/Pasted%20image%2020240815002446.png)
 
 1. 點選對話右上角的掃把圖示，它會將對話的內容以及vector store全部清除。
-2. 重複上面[[Guidelines/how to use assistant API in playground#開始對話\|開始對話]]的步驟
+2. 重複上面[[Guidelines/how to use assistant API in playground#3. 開始對話\|3. 開始對話]]的步驟
