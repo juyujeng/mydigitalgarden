@@ -7,6 +7,7 @@
 
 | 標題                                                                                                                                | 上傳日期              | 最後修改              | 類別                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
+| [[Guidelines/how to use assistant API in playground\|如何使用assistant API (in playground)]]                                       | 2024/08/14  22:26 | 2024/08/14  22:27 | <ul><li>research</li><li>blog</li></ul>                    |
 | [[Projects/PEDro/single item prompt\|single item prompt]]                                                                      | 2024/07/26  16:36 | 2024/07/30  15:20 | \-                                                         |
 | [[Projects/PEDro/PEDro scale item 4\|PEDro scale Item 4 revision]]                                                             | 2024/07/22  22:42 | 2024/07/23  15:14 | <ul><li>note</li><li>meeting</li></ul>                     |
 | [[Guidelines/classifier performance\|Classifier performance]]                                                                  | 2024/07/10  13:24 | 2024/08/06  11:35 | \-                                                         |
