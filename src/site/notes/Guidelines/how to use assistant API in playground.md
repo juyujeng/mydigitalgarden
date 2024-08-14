@@ -17,7 +17,7 @@ Assistants API 是 OpenAI 公司提供的服務，目前處於beta階段，讓�
 3. 籍由code interpreter讓  ChatGPT 可以執行 python 程式，並處理多種格式的檔案
 4. 籍由function calling讓  ChatGPT 可以與外部的程式互動
 
-與MyGPTs不同之處在於，使用 Assistants API 可以自定兩個參數（[[GPTs可以調整的參數\|temperature、top P]]），調整語言模型回應內容的隨機性。
+==與MyGPTs不同之處在於，使用 Assistants API 可以自定兩個參數（[[GPTs可以調整的參數\|temperature、top P]]），調整語言模型回應內容的隨機性。==
 
 # 在playground使用 Assistants API 的步驟
 
