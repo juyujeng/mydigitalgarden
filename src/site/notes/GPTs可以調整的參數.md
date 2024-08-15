@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/GPTs可以調整的參數/","title":"GPTs可以調整的參數","tags":["blog","ai","chatgpt"],"created":"2023-11-27T00:00:00.000Z","updated":"2024-08-13T15:57"}
+{"dg-publish":true,"permalink":"/GPTs可以調整的參數/","title":"GPTs可以調整的參數","tags":["blog","ai","chatgpt"],"created":"2023-11-27T00:00:00.000Z","updated":"2024-08-15T14:49"}
 ---
 
 
@@ -15,11 +15,13 @@
 - 控制生成文本的隨機性。數字越少回答越一致，數字越大回答越不可預測。
 - 例如在完成「我最喜歡的動物是  。」這個句子時，如果將溫度設定為0，則應該會產生10次都是同樣的句子； 而若是將溫度設定為較高的值產生10次，則會有不同的句子產生。
 
-
 2. **Top P**：
 
 > An alternative to sampling with temperature, called nucleus sampling, where the model considers the results of the tokens with top_p probability mass. So 0.1 means only the tokens comprising the top 10% probability mass are considered.
 > ==We generally recommend altering this or `temperature` but not both.==
+
+假設有一個句子為 `我喜歡玩____。`
+要完成這個句子，假設空格裡可能填上遊戲（50%）、球（30%）、音樂（15%）、水（4%）、模型（1%）等。`Top P`所調整的是GPT在填空時，只考慮前P%的詞。在這個例子中，如果將`Top P`設為小於0.5的值，那麼語言模型僅會考慮「遊戲」這個詞。若將`Top P`設為0.8，則可能會填上遊戲或是球。
 
 3. **最大輸出長度（Max Tokens）**:
 		- 在生成文字時GPT模型可以處理的token上限
@@ -31,5 +33,5 @@
 5. **存在懲罰（Presence Penalty）**:
 		- 鼓勵模型生成新主題內容。
 		- API的說明文件寫 -2 ~ 2 ，數字越高越不會出現已經存在的內容主題。
-			- 例如：要GPT產生某款汽車的優點。若設為-2，可能只圍繞著外觀提優點；但若設為2，則會提到各種不同面向的優點。
+		- 例如：要GPT產生某款汽車的優點。若設為-2，可能只圍繞著外觀提優點；但若設為2，則會提到各種不同面向的優點。
 		- > Number between -2.0 and 2.0. Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics.
