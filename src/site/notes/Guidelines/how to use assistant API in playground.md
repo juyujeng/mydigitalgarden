@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Guidelines/how to use assistant API in playground/","title":"如何使用assistant API (in playground)","tags":["chatgpt","ai","LLMAI","coding"],"created":"2024-08-14T22:26","updated":"2024-08-14T22:27"}
+{"dg-publish":true,"permalink":"/Guidelines/how to use assistant API in playground/","title":"如何使用assistant API (in playground)","tags":["chatgpt","ai","LLMAI","coding"],"created":"2024-08-14T22:26","updated":"2024-08-15T09:56"}
 ---
 
 
@@ -31,7 +31,7 @@ Assistants API 是 OpenAI 公司提供的服務，目前處於beta階段，讓�
 
 
 > [!Info] 說明
-> 若要使用API需要先儲值一定的金額，再按照使用的token數計費，不同的模型可能有不同的價格（詳見[OpenAI網頁](https://openai.com/api/pricing/)）。若不先儲值也可以先設定assistant，但沒辦法進行對話。為了接下來操作流暢，我將儲值放在第一步。 
+> 若要使用API需要先儲值一定的金額，再按照使用的token數扣款，不同的模型可能有不同的價格（詳見[OpenAI網頁](https://openai.com/api/pricing/)）。若不先儲值也可以先設定assistant，但沒辦法進行對話。為了接下來操作流暢，我將儲值放在第一步。 
 
 1. 開啟 OpenAI playground網頁，進到Billing頁面，按照頁面上的步驟輸入信用卡號儲值。
 2. 可以選擇是否開啟 auto recharge ，當儲值金額不足時自動加值。
@@ -72,7 +72,7 @@ Assistants API 是 OpenAI 公司提供的服務，目前處於beta階段，讓�
    ![Pasted image 20240814235635.png](/img/user/Guidelines/Pasted%20image%2020240814235635.png)
 2. 輸入prompt：`1. print the title of article I upload. 2. evaluate this article with PEDro scale`
 3. 按下 **Run**
-    1. 可以在畫面右邊的log檢視是否完成對話（顯示 Run completed）。中間的對話視窗有時候會過好一陣子才完成輸出，==還會重複地列印之後又刪除==。
+    1. 可以在畫面右邊的log檢視是否完成對話（顯示 Run completed）。但中間的對話視窗會在顯示 Run completed 後過好一陣子才完成輸出。這時按下重新整理就可以立刻獲得完整的回應顯示。
 
 ![Pasted image 20240815001010.png](/img/user/Guidelines/Pasted%20image%2020240815001010.png)
 

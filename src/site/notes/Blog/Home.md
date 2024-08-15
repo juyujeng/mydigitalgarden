@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 | 標題                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------ | ----------------- |
-| [[Guidelines/how to use assistant API in playground\|如何使用assistant API (in playground)]]      | 2024/08/14  22:27 |
+| [[Guidelines/how to use assistant API in playground\|如何使用assistant API (in playground)]]      | 2024/08/15  09:56 |
 | [[GPTs可以調整的參數\|GPTs可以調整的參數]]                                                                  | 2024/08/13  15:57 |
 | [[Guidelines/classifier performance\|Classifier performance]]                                 | 2024/08/06  11:35 |
 | [[Projects/PEDro/single item prompt\|single item prompt]]                                     | 2024/07/30  15:20 |
