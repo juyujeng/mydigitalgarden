@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/About/","title":"About","created":"2022-09-13T12:59:08.000Z","updated":"2024-01-17T14:14"}
+{"dg-publish":true,"permalink":"/Blog/About/","title":"About","created":"2022-09-13T12:59:08.000Z","updated":"2024-01-24T16:43"}
 ---
 
 
@@ -9,11 +9,22 @@
 
 ## working on
 
-**Ju, Y.-J.**, & Lien, Y.-W. (in preparation). Focusing in a mindful way: Differentiating neural correlates of receptive attention from object-oriented attention
+**Ju, Y.-J.**, Wang, Y.-C., Lee, S.-C., Liu, C.-H., Liu, J.-H., Yang, C.-W., Hsieh, C.-L.. (under review). Developing the Questionnaire of Self-Efficacy and Needs in using Large-Language  
+model based AI Services. _Current psychology_. April 2024 submitted.
 
-**Yu-Jeng Ju**, Meng-Lin Lee, Ching-Lin Hsieh, Han-En Tsai, Jou-Chieh Chen, Tzu-Yi Wu, Yi-Ching Wang, Chih-Ping Chen. (under review) Intra-rater and inter-rater reliability of the Empathic Communication Coding System. _Patient Education and Counseling_. December 2023 submitted.
+**Ju,** **Y.-J**, Lee, M.-L., Hsieh, C.-L., Tsai, H.-E., Chen, J.-C., Wu, T.-Y.,Wang, Y.-C., Chen, C.-P.. (under review) Intra-rater and inter-rater reliability of the  
+Empathic Communication Coding System. _British Journal of Occupational Therapy_.  
+June 2024 submitted.
 
-Hsieh, T.-L., Yang, H.-L., **Ju, Y.-J**., Lee, M.-L., & Hsueh, I-P. (under review) Consistency between the Definition, Intervention, and Assessment of Empathy in Nursing Empathy Intervention Studies. _Japan Journal of Nursing Science_. January 2024 submitted.
+Hsieh, T.-L., Yang, H.-L., **Ju, Y.-J.**, Lee, M.-L., & Hsueh, I-P. (under review) Consistency between the Definition, Intervention, and Assessment of Empathy in Nursing Empathy  
+Intervention Studies. Japan Journal of Nursing Science. January 2024 submitted.
+
+**Ju, Y.-J.**, Lien, Y.-W., Teng, S.-C. (in preparation). How to guide your mind: The awareness  
+modulation hypothesis of mind wandering.
+
+**Ju, Y.-J**., & Lien, Y.-W. (in preparation). Focusing in a mindful way: Differentiating neural correlates of receptive attention from object-oriented attention
+
+**Ju, Y.-J.**, Wang, Y.-C., Lee, S.-C., Lee, M.-L., Liu, J.-H., Yang, C.-W., Hsieh, C.-L.. (in preparation). Development and validation of an AI-based rater of Gap-Kalamazoo Communication Skills Assessment Form in healthcare professionals.
 
 ## journal article
 
