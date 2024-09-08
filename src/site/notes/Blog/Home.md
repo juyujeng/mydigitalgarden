@@ -14,8 +14,9 @@
 
 | 標題                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------ | ----------------- |
+| [[Guidelines/how to use assistant API in code\|如何使用assistant API (in code)]]                  | 2024/09/08  23:48 |
+| [[Guidelines/how to use assistant API in playground\|如何使用assistant API (in playground)]]      | 2024/09/08  16:31 |
 | [[GPTs可以調整的參數\|GPTs可以調整的參數]]                                                                  | 2024/08/15  14:49 |
-| [[Guidelines/how to use assistant API in playground\|如何使用assistant API (in playground)]]      | 2024/08/15  09:56 |
 | [[Guidelines/classifier performance\|Classifier performance]]                                 | 2024/08/06  11:35 |
 | [[Projects/PEDro/single item prompt\|single item prompt]]                                     | 2024/07/30  15:20 |
 | [[Projects/PEDro/PEDro scale item 4\|PEDro scale Item 4 revision]]                            | 2024/07/23  15:14 |
@@ -23,7 +24,6 @@
 | [[Projects/PEDro/pedro ai instruction_4\|PEDro AI rater instruction (rule embedded version)]] | 2024/06/18  12:14 |
 | [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                | 2024/06/16  19:16 |
 | [[Blog/Document/語音轉文字AI工具比較\|雅婷逐字稿 vs. Whisper.cpp]]                                          | 2024/06/14  14:23 |
-| [[Projects/PEDro/pedro ai instruction_3\|PEDro AI rater instruction]]                         | 2024/06/13  21:38 |
 
 { .block-language-dataview}
 
