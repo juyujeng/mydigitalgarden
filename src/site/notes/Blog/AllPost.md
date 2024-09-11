@@ -7,7 +7,6 @@
 
 | 標題                                                                                                                                | 上傳日期              | 最後修改              | 類別                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
-| [[Projects/PEDro/PEDro scale\|PEDro scale]]                                                                                    | 2024/09/11  14:27 | 2024/09/11  14:27 | \-                                                         |
 | [[Projects/PEDro/Reliability and validity of PEDro scale\|review the reliability and validity of PEDro scale]]                 | 2024/09/10  14:17 | 2024/09/11  14:25 | <ul><li>reference</li><li>research</li></ul>               |
 | [[Guidelines/how to use assistant API in code\|如何使用assistant API (in code)]]                                                   | 2024/09/08  16:28 | 2024/09/08  23:48 | <ul><li>blog</li><li>research</li></ul>                    |
 | [[Guidelines/how to use assistant API in playground\|如何使用assistant API (in playground)]]                                       | 2024/08/14  22:26 | 2024/09/08  16:31 | <ul><li>research</li><li>blog</li></ul>                    |

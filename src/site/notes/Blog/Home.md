@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -14,7 +14,6 @@
 
 | 標題                                                                                                                | 最後修改              |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Projects/PEDro/PEDro scale\|PEDro scale]]                                                                    | 2024/09/11  14:27 |
 | [[Projects/PEDro/Reliability and validity of PEDro scale\|review the reliability and validity of PEDro scale]] | 2024/09/11  14:25 |
 | [[Guidelines/how to use assistant API in code\|如何使用assistant API (in code)]]                                   | 2024/09/08  23:48 |
 | [[Guidelines/how to use assistant API in playground\|如何使用assistant API (in playground)]]                       | 2024/09/08  16:31 |
@@ -24,6 +23,7 @@
 | [[Projects/PEDro/PEDro scale item 4\|PEDro scale Item 4 revision]]                                             | 2024/07/23  15:14 |
 | [[Projects/PEDro/PEDro ai instruction 9\|使用chain of thought]]                                                  | 2024/07/17  09:57 |
 | [[Projects/PEDro/pedro ai instruction_4\|PEDro AI rater instruction (rule embedded version)]]                  | 2024/06/18  12:14 |
+| [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                 | 2024/06/16  19:16 |
 
 { .block-language-dataview}
 
