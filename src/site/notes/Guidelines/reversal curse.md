@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Guidelines/reversal curse/","title":"reversal curse","tags":["ai","chatgpt","terms","guideline"],"created":"2023-10-02","updated":"2023-10-02"}
+{"dg-publish":true,"permalink":"/Guidelines/reversal curse/","title":"reversal curse","tags":["ai","chatgpt","terms","guideline"],"created":"2023-10-02","updated":"2023-10-03T14:36"}
 ---
 
 

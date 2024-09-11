@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/Relation between subdimensions of empathy/","title":"Relation between subdimensions of empathy","tags":["blog","empathy"],"created":"2022-09-23T00:00:00.000Z","updated":"2022-09-23"}
+{"dg-publish":true,"permalink":"/Blog/Research/Relation between subdimensions of empathy/","title":"Relation between subdimensions of empathy","tags":["blog","empathy"],"created":"2022-09-23T00:00:00.000Z","updated":"2023-02-16T23:24"}
 ---
 
 

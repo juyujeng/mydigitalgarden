@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/OT empathy response level/","title":"同理回應等級","created":"2022-11-16","updated":"2023-02-03"}
+{"dg-publish":true,"permalink":"/Blog/Research/OT empathy response level/","title":"同理回應等級","created":"2022-11-16","updated":"2023-02-22T12:31"}
 ---
 
 

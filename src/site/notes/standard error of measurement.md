@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/standard error of measurement/","title":"standard error of measurement","tags":["terms","psychometric","reliability"],"created":"2023-12-13","updated":"2023-12-13"}
+{"dg-publish":true,"permalink":"/standard error of measurement/","title":"standard error of measurement","tags":["terms","psychometric","reliability"],"created":"2023-12-13","updated":"2023-12-14T00:24"}
 ---
 
 

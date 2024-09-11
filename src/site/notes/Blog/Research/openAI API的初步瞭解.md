@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/openAI API的初步瞭解/","title":"openAI API的初步瞭解","tags":["blog","ai","chatgpt"],"created":"2023-03-07"}
+{"dg-publish":true,"permalink":"/Blog/Research/openAI API的初步瞭解/","title":"openAI API的初步瞭解","tags":["blog","ai","chatgpt"],"created":"2023-03-07","updated":"2023-03-07T17:26"}
 ---
 
 
