@@ -43,7 +43,7 @@
 - 本研究根據先前回顧研究所蒐集到的53篇有關疼痛治療的藥物研究進行PEDro scale 的信效度分析。
 - 評分者：2位獨立評分員
 - inter-rater reliability
-    - total score: ICC = 0.80 (95% CI 0.68e0.88)
+    - total score: ICC = 0.80 (95% CI 0.68 ~ 0.88)
     - item:
         - ![Pasted image 20240911104950.png](/img/user/Projects/PEDro/Pasted%20image%2020240911104950.png)
 - convergent validity: moderate convergence
