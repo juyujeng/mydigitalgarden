@@ -5,10 +5,10 @@
 
 ```chart
 type: radar
-labels: [閱讀, 研究方向, 研究設計, 統計, 寫作, 時間管理, 建構團隊]
+labels: [閱讀, 研究方向, 研究設計, 統計, 寫作, 時間管理, 建構團隊, 溝通]
 series:
 - title: 2024
-  data: [6,6,7,7,6,5,1]
+  data: [6,6,7,7,6,5,1,6]
 width: 40%
 labelColors: false
 ```
