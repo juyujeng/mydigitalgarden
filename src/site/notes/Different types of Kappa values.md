@@ -31,7 +31,7 @@ Different types of kappa coefficients are used to assess inter-rater reliability
 - **Use Case**: Often used in psychological and educational testing where the data may not fit traditional assumptions of independence.
 - **Calculation**: It modifies the standard kappa formula to better reflect situations where rater independence is questionable.
 
-## PABAK (Prevalence-Adjusted and Bias-Adjusted Kappa)
+## PABAK (Prevalence-Adjusted and Bias-Adjusted Kappa，PABAκ)
 
 - **Purpose**: Addresses limitations of Cohen's kappa, particularly in cases with imbalanced categories.
 - **Use Case**: Useful when the prevalence of categories is unequal or when there is a significant bias in rater classifications.
