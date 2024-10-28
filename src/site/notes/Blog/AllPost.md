@@ -7,6 +7,7 @@
 
 | 標題                                                                                                                                | 上傳日期              | 最後修改              | 類別                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- | ---------------------------------------------------------- |
+| [[Effect size interpretation mean and variance\|效果量的解釋：平均數與變異數的差異]]                                                            | 2024/10/28  12:04 | 2024/10/28  12:24 | \-                                                         |
 | [[self evaluated 8 core abilities\|2024 8大能力自評]]                                                                               | 2024/10/21  16:57 | 2024/10/21  17:08 | \-                                                         |
 | [[Different types of Kappa values\|Different types of Kappa values]]                                                           | 2024/09/24  15:38 | 2024/10/25  14:56 | <ul><li>note</li></ul>                                     |
 | [[Projects/PEDro/Reliability and validity of PEDro scale\|review the reliability and validity of PEDro scale]]                 | 2024/09/10  14:17 | 2024/09/11  14:25 | <ul><li>reference</li><li>research</li></ul>               |

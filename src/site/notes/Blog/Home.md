@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                | 最後修改              |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Effect size interpretation mean and variance\|效果量的解釋：平均數與變異數的差異]]                                            | 2024/10/28  12:24 |
 | [[Different types of Kappa values\|Different types of Kappa values]]                                           | 2024/10/25  14:56 |
 | [[self evaluated 8 core abilities\|2024 8大能力自評]]                                                               | 2024/10/21  17:08 |
 | [[Projects/PEDro/Reliability and validity of PEDro scale\|review the reliability and validity of PEDro scale]] | 2024/09/11  14:25 |
@@ -23,7 +24,6 @@
 | [[Guidelines/classifier performance\|Classifier performance]]                                                  | 2024/08/06  11:35 |
 | [[Projects/PEDro/single item prompt\|single item prompt]]                                                      | 2024/07/30  15:20 |
 | [[Projects/PEDro/PEDro scale item 4\|PEDro scale Item 4 revision]]                                             | 2024/07/23  15:14 |
-| [[Projects/PEDro/PEDro ai instruction 9\|使用chain of thought]]                                                  | 2024/07/17  09:57 |
 
 { .block-language-dataview}
 
