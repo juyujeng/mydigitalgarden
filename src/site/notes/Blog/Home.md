@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 | 標題                                                                                                                | 最後修改              |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[self evaluated 8 core abilities\|2024 8大能力自評]]                                                               | 2024/10/28  21:08 |
+| [[self evaluated 8 core abilities\|2024 8大能力自評]]                                                               | 2024/10/29  14:13 |
 | [[Effect size interpretation mean and variance\|效果量的解釋：平均數與變異數的差異]]                                            | 2024/10/28  12:24 |
 | [[Different types of Kappa values\|Different types of Kappa values]]                                           | 2024/10/25  14:56 |
 | [[Projects/PEDro/Reliability and validity of PEDro scale\|review the reliability and validity of PEDro scale]] | 2024/09/11  14:25 |
