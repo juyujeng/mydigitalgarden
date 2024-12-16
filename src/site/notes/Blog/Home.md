@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -12,18 +12,18 @@
 
 ## 最近更新
 
-| 標題                                                                                                                | 最後修改              |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Projects/DNR training robot/會議_1128\|研究會議]]                                                                  | 2024/11/28  10:16 |
-| [[Blog/Document/和ChatGPT一起寫shiny app\|和ChatGPT一起寫shiny app]]                                                   | 2024/10/31  16:35 |
-| [[self evaluated 8 core abilities\|2024 8大能力自評]]                                                               | 2024/10/29  14:13 |
-| [[Effect size interpretation mean and variance\|效果量的解釋：平均數與變異數的差異]]                                            | 2024/10/28  12:24 |
-| [[Different types of Kappa values\|Different types of Kappa values]]                                           | 2024/10/25  14:56 |
-| [[Projects/PEDro/Reliability and validity of PEDro scale\|review the reliability and validity of PEDro scale]] | 2024/09/11  14:25 |
-| [[Guidelines/how to use assistant API in code\|如何使用assistant API (in code)]]                                   | 2024/09/08  23:48 |
-| [[Guidelines/how to use assistant API in playground\|如何使用assistant API (in playground)]]                       | 2024/09/08  16:31 |
-| [[GPTs可以調整的參數\|GPTs可以調整的參數]]                                                                                   | 2024/08/15  14:49 |
-| [[Guidelines/classifier performance\|Classifier performance]]                                                  | 2024/08/06  11:35 |
+| 標題                                                                                                                                               | 最後修改              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[Blog/Research/Q-SNELL\|Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)]] | 2024/12/16  09:50 |
+| [[Projects/DNR training robot/preparing meeting\|研究討論會議]]                                                                                     | 2024/12/10  13:44 |
+| [[Blog/Document/和ChatGPT一起寫shiny app\|和ChatGPT一起寫shiny app]]                                                                                  | 2024/10/31  16:35 |
+| [[self evaluated 8 core abilities\|2024 8大能力自評]]                                                                                              | 2024/10/29  14:13 |
+| [[Effect size interpretation mean and variance\|效果量的解釋：平均數與變異數的差異]]                                                                           | 2024/10/28  12:24 |
+| [[Different types of Kappa values\|Different types of Kappa values]]                                                                          | 2024/10/25  14:56 |
+| [[Projects/PEDro/Reliability and validity of PEDro scale\|review the reliability and validity of PEDro scale]]                                | 2024/09/11  14:25 |
+| [[Guidelines/how to use assistant API in code\|如何使用assistant API (in code)]]                                                                  | 2024/09/08  23:48 |
+| [[Guidelines/how to use assistant API in playground\|如何使用assistant API (in playground)]]                                                      | 2024/09/08  16:31 |
+| [[GPTs可以調整的參數\|GPTs可以調整的參數]]                                                                                                                  | 2024/08/15  14:49 |
 
 { .block-language-dataview}
 

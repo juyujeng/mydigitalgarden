@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/About/","title":"About","created":"2022-09-13T12:59:08.000Z","updated":"2024-08-23T23:12"}
+{"dg-publish":true,"permalink":"/Blog/About/","title":"About","created":"2022-09-13T12:59:08.000Z","updated":"2024-10-29T12:38"}
 ---
 
 
@@ -9,8 +9,7 @@
 
 ## working on
 
-**Ju, Y.-J.**, Wang, Y.-C., Lee, S.-C., Liu, C.-H., Liu, J.-H., Yang, C.-W., Hsieh, C.-L.. (under review). Developing the Questionnaire of Self-Efficacy and Needs in using Large-Language  
-model based AI Services. _Current psychology_. April 2024 submitted.
+**Ju, Y.-J.**, Wang, Y.-C., Lee, S.-C., Liu, C.-H., Liu, J.-H., Yang, C.-W., Hsieh, C.-L.. (under review). Developing the Questionnaire of Self-Efficacy and Needs in using Large-Language  model based AI Services. _Current psychology_. April 2024 submitted.
 
 **Ju,** **Y.-J**, Lee, M.-L., Hsieh, C.-L., Tsai, H.-E., Chen, J.-C., Wu, T.-Y.,Wang, Y.-C., Chen, C.-P.. (under review) Intra-rater and inter-rater reliability of the  
 Empathic Communication Coding System. _British Journal of Occupational Therapy_.  
