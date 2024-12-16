@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/Q-SNELL/","title":"Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)","tags":["chatgpt","LLMAI","psychometrics","validity","reliability","measurement"],"created":"2024-12-16T09:08","updated":"2024-12-16T09:50"}
+{"dg-publish":true,"permalink":"/Blog/Research/Q-SNELL/","title":"Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)","tags":["chatgpt","LLMAI","psychometrics","validity","reliability","measurement"],"created":"2024-12-16T09:08","updated":"2024-12-16T10:44"}
 ---
 
 ### **Introducing Q-SNELL: A Tool for Evaluating Self-Efficacy and Needs in Using Large Language Model AIs**
@@ -31,6 +31,7 @@ The **Q-SNELL** stands out for its exceptional flexibility, making it a versatil
 
 Download the Q-SNELL questionnaire via the link below:
 
+- [Google Drive](https://drive.google.com/file/d/1ezh-P_9xouxJ9X13g9cJhOTb7Lt8id9U/view?usp=sharing)
 - [OSF](https://osf.io/v7j3u/)
 
 For any questions or feedback, feel free to contact us at juyujeng@gmail.com
@@ -73,6 +74,7 @@ We hope Q-SNELL will support your research or teaching efforts in understanding 
 
 您可以透過以下連結下載 Q-SNELL 問卷：
 
+- [Google Drive](https://drive.google.com/file/d/1ezh-P_9xouxJ9X13g9cJhOTb7Lt8id9U/view?usp=sharing)
 - [OSF](https://osf.io/v7j3u/)
 
 如有任何問題或回饋，請隨時聯絡我們：juyujeng@gmail.com

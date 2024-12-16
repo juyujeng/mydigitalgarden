@@ -7,7 +7,7 @@
 
 | 標題                                                                                                                                               | 上傳日期              | 最後修改              | 類別                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ----------------- | --------------------------------------------------------- |
-| [[Blog/Research/Q-SNELL\|Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)]] | 2024/12/16  09:08 | 2024/12/16  09:50 | <ul><li>research</li></ul>                                |
+| [[Blog/Research/Q-SNELL\|Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)]] | 2024/12/16  09:08 | 2024/12/16  10:44 | <ul><li>research</li></ul>                                |
 | [[Blog/Research/My GPTs for communication training_1\|利用ChatGPT作溝通訓練 初步設定]]                                                                   | 2023/11/21        | 2023/11/21  09:48 | <ul><li>blog</li><li>research</li></ul>                   |
 | [[Blog/Research/chatgpt teaching program preparation\|ChatGPT 核心功能操作教學準備分工]]                                                                  | 2023/09/07        | 2023/09/10  21:52 | <ul><li>blog</li><li>research</li></ul>                   |
 | [[Blog/Research/ChatGPT operational competence test_preparation\|ChatGPT操作能力測驗規畫]]                                                            | 2023/08/22        | 2023/08/22  23:07 | <ul><li>blog</li><li>research</li></ul>                   |

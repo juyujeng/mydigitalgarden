@@ -7,7 +7,7 @@
 
 | 標題                                                                                                                                               | 上傳日期              | 最後修改              | 類別                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ----------------- | ---------------------------------------------------------- |
-| [[Blog/Research/Q-SNELL\|Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)]] | 2024/12/16  09:08 | 2024/12/16  09:50 | <ul><li>research</li></ul>                                 |
+| [[Blog/Research/Q-SNELL\|Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)]] | 2024/12/16  09:08 | 2024/12/16  10:44 | <ul><li>research</li></ul>                                 |
 | [[Projects/DNR training robot/preparing meeting\|研究討論會議]]                                                                                     | 2024/11/27  15:07 | 2024/12/10  13:44 | \-                                                         |
 | [[Blog/Document/和ChatGPT一起寫shiny app\|和ChatGPT一起寫shiny app]]                                                                                  | 2024/10/31  13:28 | 2024/10/31  16:35 | <ul><li>blog</li><li>document</li></ul>                    |
 | [[Effect size interpretation mean and variance\|效果量的解釋：平均數與變異數的差異]]                                                                           | 2024/10/28  12:04 | 2024/10/28  12:24 | \-                                                         |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 | 標題                                                                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [[Blog/Research/Q-SNELL\|Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)]] | 2024/12/16  09:50 |
+| [[Blog/Research/Q-SNELL\|Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)]] | 2024/12/16  10:44 |
 | [[Projects/DNR training robot/preparing meeting\|研究討論會議]]                                                                                     | 2024/12/10  13:44 |
 | [[Blog/Document/和ChatGPT一起寫shiny app\|和ChatGPT一起寫shiny app]]                                                                                  | 2024/10/31  16:35 |
 | [[self evaluated 8 core abilities\|2024 8大能力自評]]                                                                                              | 2024/10/29  14:13 |
