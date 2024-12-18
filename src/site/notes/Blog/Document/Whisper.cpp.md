@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/Whisper.cpp/","title":"Whisper.cpp操作心得","tags":["ai","guideline","research","method"],"created":"2024-06-14T14:20","updated":"2024-06-16T19:16"}
+{"dg-publish":true,"permalink":"/Blog/Document/Whisper.cpp/","title":"Whisper.cpp操作心得","tags":["ai","guideline","research","method"],"created":"2024-06-14T14:20","updated":"2024-12-18T11:37"}
 ---
 
 
@@ -8,11 +8,12 @@
 > [!NOTE] 一般使用者福音
 > 在windows作業系統中，已有使用者開發出[WhisperDesktop](https://github.com/Const-me/Whisper)。是圖形化介面的Whisper，也支援GPU，對使用者很友善。
 
-# Whisper.cpp安裝
+# Whisper.cpp安裝與更新
 
 兩種安裝方式：
 
 1. 依照[Whisper.cpp](https://github.com/ggerganov/whisper.cpp)的[github網頁](https://github.com/ggerganov/whisper.cpp)依步驟進行。
+		1. 要進行更新，只需要在whisper.cc的資料夾中執行終端機，輸入`git pull`便會進行更新
 2. 使用`Homebrew`進行安裝。[詳見此](https://formulae.brew.sh/formula/whisper-cpp)。
 		- 這個方式安裝上比較簡易，但版本會比github網頁還要慢一點更新。
 
