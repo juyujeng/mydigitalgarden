@@ -28,7 +28,7 @@
 ### 單檔案轉譯
 
 ```
-./main -m ./models/ggml-large-v3.bin -f "filepath" -l en --output-vtt
+./main -m ./models/ggml-large-v3.bin -f "filepath" -l en --output-vtt -et 2.4
 ```
 
 - `./main`：利用github安裝後呼叫Whisper.cpp的方法。若是使用Homebrew安裝的話語法完全不一樣。
@@ -36,6 +36,7 @@
 - `-m`：調整使用的模型。預設是`base`，這個範例中改用`large-v3`
 - `-l`：轉譯的語言，這裡是英文（`en`）。若音檔是中文，則要用`zh`。若選擇`auto`則進行自動偵測
 - `--output-vtt`：輸出為vtt檔，另可選擇`txt`、`srt`、`lrc`等格式。
+- `-et`：調整Entropy-based threshold support。數字越大越不會有重複的句子（這代表…它不全然真的是轉譯，也是有「生成」的成份在）。預設值為2.4。
 
 ### 多檔案轉譯
 
