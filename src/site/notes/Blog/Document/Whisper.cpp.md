@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/Whisper.cpp/","title":"Whisper.cpp操作心得","tags":["ai","guideline","research","method"],"created":"2024-06-14T14:20","updated":"2024-12-18T11:37"}
+{"dg-publish":true,"permalink":"/Blog/Document/Whisper.cpp/","title":"Whisper.cpp操作心得","tags":["ai","guideline","research","method"],"created":"2024-06-14T14:20","updated":"2024-12-22T16:53"}
 ---
 
 
@@ -28,10 +28,11 @@
 ### 單檔案轉譯
 
 ```
-./main -m ./models/ggml-large-v3.bin -l en --output-vtt
+./main -m ./models/ggml-large-v3.bin -f "filepath" -l en --output-vtt
 ```
 
 - `./main`：利用github安裝後呼叫Whisper.cpp的方法。若是使用Homebrew安裝的話語法完全不一樣。
+- `-f`：設定要轉譯的檔案路徑
 - `-m`：調整使用的模型。預設是`base`，這個範例中改用`large-v3`
 - `-l`：轉譯的語言，這裡是英文（`en`）。若音檔是中文，則要用`zh`。若選擇`auto`則進行自動偵測
 - `--output-vtt`：輸出為vtt檔，另可選擇`txt`、`srt`、`lrc`等格式。
@@ -48,3 +49,8 @@
 # 使用心得
 
 利用Whisper.cc轉譯了PEDro scale評分教學影片，共9個英文影片。對英文的轉譯幾乎百分之百正確。在M1的Macbook pro上，5分鐘的音檔5分鐘內就轉譯完成了，很快！
+
+# 附錄
+
+- [進階參數](https://github.com/ggerganov/whisper.cpp/pull/291)
+	- Entropy-based threshold support：如果句子有太多的重複可以調整這個參數。數字越小越多重複（預設為2.4）
