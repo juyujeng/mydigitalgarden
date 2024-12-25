@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
 ---
 
 
@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                                  | 2024/12/25  16:33 |
 | [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                                | 2024/12/22  16:53 |
 | [[Blog/Research/Q-SNELL\|Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)]] | 2024/12/16  15:09 |
 | [[Projects/DNR training robot/preparing meeting\|研究討論會議]]                                                                                     | 2024/12/10  13:44 |
@@ -23,7 +24,6 @@
 | [[Different types of Kappa values\|Different types of Kappa values]]                                                                          | 2024/10/25  14:56 |
 | [[Projects/PEDro/Reliability and validity of PEDro scale\|review the reliability and validity of PEDro scale]]                                | 2024/09/11  14:25 |
 | [[Guidelines/how to use assistant API in code\|如何使用assistant API (in code)]]                                                                  | 2024/09/08  23:48 |
-| [[Guidelines/how to use assistant API in playground\|如何使用assistant API (in playground)]]                                                      | 2024/09/08  16:31 |
 
 { .block-language-dataview}
 
