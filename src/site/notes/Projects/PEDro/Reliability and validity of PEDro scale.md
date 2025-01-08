@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/PEDro/Reliability and validity of PEDro scale/","title":"review the reliability and validity of PEDro scale","tags":["guideline","method","measurement","reliability","validity","project"],"created":"2024-09-10T14:17","updated":"2024-09-11T14:25"}
+{"dg-publish":true,"permalink":"/Projects/PEDro/Reliability and validity of PEDro scale/","title":"review the reliability and validity of PEDro scale","tags":["guideline","method","measurement","reliability","validity","project"],"created":"2024-09-10T14:17","updated":"2024-09-24T15:12"}
 ---
 
 

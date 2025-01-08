@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/PEDro/PEDro scale item 4/","title":"PEDro scale Item 4 revision","tags":["ai","chatgpt","prompt"],"created":"2024-07-22T22:42","updated":"2024-07-23T15:14"}
+{"dg-publish":true,"permalink":"/Projects/PEDro/PEDro scale item 4/","title":"PEDro scale Item 4 revision","tags":["ai","chatgpt","prompt"],"created":"2024-07-22T22:42","updated":"2024-07-23T16:38"}
 ---
 
 

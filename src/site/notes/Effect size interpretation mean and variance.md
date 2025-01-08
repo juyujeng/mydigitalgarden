@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Effect size interpretation mean and variance/","title":"效果量的解釋：平均數與變異數的差異","tags":["隨筆","research","statistic"],"created":"2024-10-28T12:04","updated":"2024-10-28T12:24"}
+{"dg-publish":true,"permalink":"/Effect size interpretation mean and variance/","title":"效果量的解釋：平均數與變異數的差異","tags":["隨筆","research","statistic"],"created":"2024-10-28T12:04","updated":"2024-10-28T15:43"}
 ---
 
 

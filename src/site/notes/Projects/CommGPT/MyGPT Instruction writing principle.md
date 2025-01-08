@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/CommGPT/MyGPT Instruction writing principle/","title":"MyGPTs SP instruction撰寫原則與模板","tags":["ai","chatgpt","training","prompt"],"created":"2024-03-20T23:35","updated":"2024-03-23T00:05"}
+{"dg-publish":true,"permalink":"/Projects/CommGPT/MyGPT Instruction writing principle/","title":"MyGPTs SP instruction撰寫原則與模板","tags":["ai","chatgpt","training","prompt"],"created":"2024-03-20T23:35","updated":"2024-05-06T10:53"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/PEDro/pedro ai instruction 2/","title":"PEDro AI rater instruction (repeated rate ver.)","tags":["chatgpt","guideline","psychometric","reliability","ai","prompt"],"created":"2024-06-13T09:56","updated":"2024-06-14T23:08"}
+{"dg-publish":true,"permalink":"/Projects/PEDro/pedro ai instruction 2/","title":"PEDro AI rater instruction (repeated rate ver.)","tags":["chatgpt","guideline","psychometric","reliability","ai","prompt"],"created":"2024-06-13T09:56","updated":"2024-06-24T15:41"}
 ---
 
 

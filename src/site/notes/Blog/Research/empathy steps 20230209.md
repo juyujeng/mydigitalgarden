@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/empathy steps 20230209/","title":"同理的層次、步驟與範例 20230209","tags":["blog","empathy","empathy/course","manuscript"],"created":"2023-02-09T00:00:00.000Z","updated":"2023-02-09"}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy steps 20230209/","title":"同理的層次、步驟與範例 20230209","tags":["blog","empathy","empathy/course","manuscript"],"created":"2023-02-09T00:00:00.000Z","updated":"2023-02-16T22:35"}
 ---
 
 
