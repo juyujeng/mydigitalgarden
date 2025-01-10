@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Krippendorff's Alpha/","title":"Krippendorff's Alpha","tags":["reliability","guideline","psychometrics"],"created":"2025-01-08T14:55","updated":"2025-01-08T14:55"}
+{"dg-publish":true,"permalink":"/Krippendorff's Alpha/","title":"Krippendorff's Alpha","tags":["reliability","guideline","psychometrics"],"created":"2025-01-08T14:55","updated":"2025-01-08T15:00"}
 ---
 
 Krippendorff's Alpha 是一種評估 **評分者之間一致性** 的統計指標，用於檢測數據的可靠性。它具有以下特點：
@@ -9,7 +9,7 @@ Krippendorff's Alpha 是一種評估 **評分者之間一致性** 的統計指�
     - 支援 **遣漏值** 處理，不需要丟棄含有遣漏值的數據。
 2. **一致性計算的基礎**：
     - 衡量 **觀察一致性** 與 **隨機一致性** 的差異。
-    - 計算公式： $\alpha = 1 - \frac{D_o}{D_e}α$​​
+    - 計算公式： $\alpha = 1 - \frac{D_o}{D_e}$​​
         - $D_o$​: 觀察到的差異 (Observed Disagreement)
         - $D_e$​: 預期的差異 (Expected Disagreement)
 

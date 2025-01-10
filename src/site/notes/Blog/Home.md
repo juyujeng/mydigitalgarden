@@ -14,7 +14,7 @@
 
 | 標題                                                                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [[Krippendorff's Alpha\|Krippendorff's Alpha]]                                                                                                | 2025/01/08  14:55 |
+| [[Krippendorff's Alpha\|Krippendorff's Alpha]]                                                                                                | 2025/01/08  15:00 |
 | [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                                  | 2024/12/25  16:33 |
 | [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                                | 2024/12/22  16:53 |
 | [[Projects/DNR training robot/preparing meeting\|研究討論會議]]                                                                                     | 2024/12/19  13:43 |
