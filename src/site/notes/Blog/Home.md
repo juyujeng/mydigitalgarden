@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 | 標題                                                                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [[計畫行為理論\|計畫行為理論]]                                                                                                                            | 2025/01/20  15:22 |
+| [[計畫行為理論\|計畫行為理論]]                                                                                                                            | 2025/01/20  16:06 |
 | [[Krippendorff's Alpha\|Krippendorff's Alpha]]                                                                                                | 2025/01/10  23:15 |
 | [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                                  | 2024/12/25  16:33 |
 | [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                                | 2024/12/22  16:53 |

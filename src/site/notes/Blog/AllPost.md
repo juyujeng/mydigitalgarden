@@ -7,7 +7,7 @@
 
 | 標題                                                                                                                                               | 上傳日期              | 最後修改              | 類別                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ----------------- | ---------------------------------------------------------- |
-| [[計畫行為理論\|計畫行為理論]]                                                                                                                            | 2025/01/20  11:57 | 2025/01/20  15:22 | <ul><li>research</li><li>blog</li></ul>                    |
+| [[計畫行為理論\|計畫行為理論]]                                                                                                                            | 2025/01/20  11:57 | 2025/01/20  16:06 | <ul><li>research</li><li>blog</li></ul>                    |
 | [[Krippendorff's Alpha\|Krippendorff's Alpha]]                                                                                                | 2025/01/08  14:55 | 2025/01/10  23:15 | \-                                                         |
 | [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                                  | 2024/12/25  15:34 | 2024/12/25  16:33 | \-                                                         |
 | [[Blog/Research/Q-SNELL\|Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)]] | 2024/12/16  09:08 | 2024/12/16  15:09 | <ul><li>research</li></ul>                                 |
