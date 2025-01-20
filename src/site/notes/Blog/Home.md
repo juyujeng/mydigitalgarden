@@ -14,7 +14,8 @@
 
 | 標題                                                                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [[Krippendorff's Alpha\|Krippendorff's Alpha]]                                                                                                | 2025/01/08  15:00 |
+| [[計畫行為理論\|計畫行為理論]]                                                                                                                            | 2025/01/20  15:22 |
+| [[Krippendorff's Alpha\|Krippendorff's Alpha]]                                                                                                | 2025/01/10  23:15 |
 | [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                                  | 2024/12/25  16:33 |
 | [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                                | 2024/12/22  16:53 |
 | [[Projects/DNR training robot/preparing meeting\|研究討論會議]]                                                                                     | 2024/12/19  13:43 |
@@ -23,7 +24,6 @@
 | [[self evaluated 8 core abilities\|2024 8大能力自評]]                                                                                              | 2024/10/29  14:13 |
 | [[Effect size interpretation mean and variance\|效果量的解釋：平均數與變異數的差異]]                                                                           | 2024/10/28  15:43 |
 | [[Different types of Kappa values\|Different types of Kappa values]]                                                                          | 2024/10/25  14:56 |
-| [[Projects/PEDro/Reliability and validity of PEDro scale\|review the reliability and validity of PEDro scale]]                                | 2024/09/24  15:12 |
 
 { .block-language-dataview}
 

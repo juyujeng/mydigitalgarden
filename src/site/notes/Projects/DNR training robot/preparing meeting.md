@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/DNR training robot/preparing meeting/","title":"研究討論會議","tags":["DNR","project","meeting"],"created":"2024-11-27T15:07","updated":"2024-12-19T13:43"}
+{"dg-publish":true,"permalink":"/Projects/DNR training robot/preparing meeting/","title":"研究討論會議","tags":["DNR","project","meeting","project"],"created":"2024-11-27T15:07","updated":"2024-12-19T13:43"}
 ---
 
 - 
