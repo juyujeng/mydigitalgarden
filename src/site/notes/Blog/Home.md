@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41"}
 ---
 
 
@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[untrained, pretrained, trained model of large language model\|untrained, pretrained, trained model of large language model]]                | 2025/02/17  10:25 |
 | [[計畫行為理論\|計畫行為理論]]                                                                                                                            | 2025/01/20  16:06 |
 | [[Krippendorff's Alpha\|Krippendorff's Alpha]]                                                                                                | 2025/01/10  23:15 |
 | [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                                  | 2024/12/25  16:33 |
@@ -23,7 +24,6 @@
 | [[Blog/Document/和ChatGPT一起寫shiny app\|和ChatGPT一起寫shiny app]]                                                                                  | 2024/10/31  16:35 |
 | [[self evaluated 8 core abilities\|2024 8大能力自評]]                                                                                              | 2024/10/29  14:13 |
 | [[Effect size interpretation mean and variance\|效果量的解釋：平均數與變異數的差異]]                                                                           | 2024/10/28  15:43 |
-| [[Different types of Kappa values\|Different types of Kappa values]]                                                                          | 2024/10/25  14:56 |
 
 { .block-language-dataview}
 
