@@ -27,16 +27,6 @@
 
 { .block-language-dataview}
 
-## 文章分類列表
-
-- [[Blog/Research_index\|研究]]
-    - 研究過程中的紀錄與心得
-- [[Blog/Digest_index\|閱讀]]
-    - 文獻閱讀摘要
-- [[Blog/Document_index\|文件]]
-    - 統計、寫作、實驗設計等技術性筆記
-- [[Blog/Life_index\|生活]]
-
 ## [[Blog/AllPost\|所有文章]]
 
 ## [[Blog/About\|著作列表與簡歷]]
