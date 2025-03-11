@@ -14,13 +14,13 @@
 
 | 標題                                                                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| [[Gewt's AC\|Gewt's AC]]                                                                                                                      | 2025/03/10  23:51 |
-| [[untrained, pretrained, trained model of large language model\|untrained, pretrained, trained model of large language model]]                | 2025/02/17  10:30 |
+| [[Gewt's AC\|Gewt's AC]]                                                                                                                      | 2025/03/11  00:04 |
+| [[untrained, pretrained, trained model of large language model\|untrained, pretrained, trained model of large language model]]                | 2025/02/17  10:25 |
 | [[計畫行為理論\|計畫行為理論]]                                                                                                                            | 2025/01/20  16:06 |
-| [[Projects/DNR training robot/preparing meeting\|研究討論會議]]                                                                                     | 2025/01/20  11:42 |
-| [[Krippendorff's Alpha\|Krippendorff's Alpha]]                                                                                                | 2025/01/08  15:00 |
+| [[Krippendorff's Alpha\|Krippendorff's Alpha]]                                                                                                | 2025/01/10  23:15 |
 | [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                                  | 2024/12/25  16:33 |
 | [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                                | 2024/12/22  16:53 |
+| [[Projects/DNR training robot/preparing meeting\|研究討論會議]]                                                                                     | 2024/12/19  13:43 |
 | [[Blog/Research/Q-SNELL\|Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)]] | 2024/12/16  15:09 |
 | [[Blog/Document/和ChatGPT一起寫shiny app\|和ChatGPT一起寫shiny app]]                                                                                  | 2024/10/31  16:35 |
 | [[self evaluated 8 core abilities\|2024 8大能力自評]]                                                                                              | 2024/10/29  14:13 |
