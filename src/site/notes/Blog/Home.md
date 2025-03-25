@@ -14,8 +14,8 @@
 
 | 標題                                                                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[Gewt's AC\|Gewt's AC]]                                                                                                                      | 2025/03/25  09:42 |
 | [[testing difference of agreement coefficients\|testing difference of agreement coefficients]]                                                | 2025/03/18  14:18 |
-| [[Gewt's AC\|Gewt's AC]]                                                                                                                      | 2025/03/11  00:04 |
 | [[untrained, pretrained, trained model of large language model\|untrained, pretrained, trained model of large language model]]                | 2025/02/17  10:25 |
 | [[計畫行為理論\|計畫行為理論]]                                                                                                                            | 2025/01/20  16:06 |
 | [[Krippendorff's Alpha\|Krippendorff's Alpha]]                                                                                                | 2025/01/10  23:15 |
