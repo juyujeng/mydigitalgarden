@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41"}
 ---
 
 
@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                               | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[complex interventions MRC\|Complex interventions: Medical Research Council guidance]]                                                       | 2025/03/25  11:34 |
 | [[Gewt's AC\|Gewt's AC]]                                                                                                                      | 2025/03/25  09:42 |
 | [[testing difference of agreement coefficients\|testing difference of agreement coefficients]]                                                | 2025/03/18  14:18 |
 | [[untrained, pretrained, trained model of large language model\|untrained, pretrained, trained model of large language model]]                | 2025/02/17  10:25 |
@@ -23,7 +24,6 @@
 | [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                                | 2024/12/22  16:53 |
 | [[Projects/DNR training robot/preparing meeting\|研究討論會議]]                                                                                     | 2024/12/19  13:43 |
 | [[Blog/Research/Q-SNELL\|Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)]] | 2024/12/16  15:09 |
-| [[Blog/Document/和ChatGPT一起寫shiny app\|和ChatGPT一起寫shiny app]]                                                                                  | 2024/10/31  16:35 |
 
 { .block-language-dataview}
 

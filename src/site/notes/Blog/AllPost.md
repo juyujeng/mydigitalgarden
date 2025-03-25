@@ -7,6 +7,7 @@
 
 | 標題                                                                                                                                               | 上傳日期              | 最後修改              | 類別                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ----------------- | ---------------------------------------------------------- |
+| [[complex interventions MRC\|Complex interventions: Medical Research Council guidance]]                                                       | 2025/03/25  11:33 | 2025/03/25  11:34 | \-                                                         |
 | [[testing difference of agreement coefficients\|testing difference of agreement coefficients]]                                                | 2025/03/18  14:17 | 2025/03/18  14:18 | \-                                                         |
 | [[Gewt's AC\|Gewt's AC]]                                                                                                                      | 2025/03/10  23:05 | 2025/03/25  09:42 | \-                                                         |
 | [[untrained, pretrained, trained model of large language model\|untrained, pretrained, trained model of large language model]]                | 2025/02/17  10:11 | 2025/02/17  10:25 | <ul><li>note</li></ul>                                     |
