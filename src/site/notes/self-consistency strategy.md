@@ -9,6 +9,8 @@ Wang et al. (2023) 提出此策略並應用於數學與邏輯推理任務，顯�
 
 ---
 
+### 參考文獻
+
 Wang, X., Wei, J., Schuurmans, D., Le, Q., Chi, E., Narang, S., Chowdhery, A., & Zhou, D. (2023). _Self-Consistency Improves Chain of Thought Reasoning in Language Models_ (No. arXiv:2203.11171). arXiv. [https://doi.org/10.48550/arXiv.2203.11171](https://doi.org/10.48550/arXiv.2203.11171)
 
 Singhal, K., Azizi, S., Tu, T., Mahdavi, S. S., Wei, J., Chung, H. W., Scales, N., Tanwani, A., Cole-Lewis, H., Pfohl, S., Payne, P., Seneviratne, M., Gamble, P., Kelly, C., Babiker, A., Schärli, N., Chowdhery, A., Mansfield, P., Demner-Fushman, D., … Natarajan, V. (2023). Large language models encode clinical knowledge. _Nature_, _620_(7972), 172–180. [https://doi.org/10.1038/s41586-023-06291-2](https://doi.org/10.1038/s41586-023-06291-2)

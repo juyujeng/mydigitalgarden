@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                | 最後修改              |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Ensemble Refinement strategy\|Ensemble Refinement strategy]]                                                                 | 2025/05/06  10:26 |
 | [[self-consistency strategy\|self-consistency strategy]]                                                                       | 2025/05/06  09:43 |
 | [[complex interventions MRC\|Complex interventions: Medical Research Council guidance]]                                        | 2025/03/25  11:34 |
 | [[Gewt's AC\|Gewt's AC]]                                                                                                       | 2025/03/25  09:42 |
@@ -23,7 +24,6 @@
 | [[Krippendorff's Alpha\|Krippendorff's Alpha]]                                                                                 | 2025/01/10  23:15 |
 | [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                   | 2024/12/25  16:33 |
 | [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                 | 2024/12/22  16:53 |
-| [[Projects/DNR training robot/preparing meeting\|研究討論會議]]                                                                      | 2024/12/19  13:43 |
 
 { .block-language-dataview}
 
