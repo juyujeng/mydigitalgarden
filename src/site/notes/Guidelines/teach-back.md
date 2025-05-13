@@ -10,3 +10,9 @@ Teach-back 是一種醫病溝通過程中，確認病人理解程度的一種溝
 ```
 為了確定我說明的夠清楚，能否請您用自己的話講講若您簽署了這個意願書，什麼情況下會執行呢？
 ```
+
+---
+
+### references
+
+Anderson, K. M., Leister, S., & De Rego, R. (2020). The 5Ts for Teach Back: An Operational Definition for Teach-Back Training. _HLRP: Health Literacy Research and Practice_, _4_(2). [https://doi.org/10.3928/24748307-20200318-01](https://doi.org/10.3928/24748307-20200318-01)
