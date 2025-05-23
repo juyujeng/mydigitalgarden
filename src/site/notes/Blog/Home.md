@@ -14,7 +14,7 @@
 
 | 標題                                                                                                                                | 最後修改              |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Guidelines/TTS\|文字轉語音工具]]                                                                                                    | 2025/05/22  22:59 |
+| [[Guidelines/TTS\|文字轉語音工具]]                                                                                                    | 2025/05/23  11:13 |
 | [[Guidelines/teach-back\|Teach-back]]                                                                                          | 2025/05/13  16:23 |
 | [[Ensemble Refinement strategy\|Ensemble Refinement strategy]]                                                                 | 2025/05/06  10:57 |
 | [[self-consistency strategy\|self-consistency strategy]]                                                                       | 2025/05/06  10:27 |

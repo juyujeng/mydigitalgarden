@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Guidelines/TTS/","title":"文字轉語音工具","tags":["TTS","ai","guideline"],"created":"2025-05-22T22:05","updated":"2025-05-22T22:59"}
+{"dg-publish":true,"permalink":"/Guidelines/TTS/","title":"文字轉語音工具","tags":["TTS","ai","guideline"],"created":"2025-05-22T22:05","updated":"2025-05-23T11:13"}
 ---
 
 比較並試用幾個常見的文字轉語音（text-to-speech，TTS）的線上服務或單機開源工具。
@@ -23,9 +23,17 @@
 
 ## 線上TTS測試
 
-我測試了五個服務讓它們唸一段中文文字。這些服務包含了雅婷、Ondoku、luvvoice、Elevenlab、TTSmaker、RecCloud。目前聽起來還是雅婷的中文聽起來最順耳，其次是Ondoku以及luvvoice。
+我測試了五個服務讓它們唸一段中文文字。這些服務包含了雅婷、Ondoku、luvvoice、Elevenlab、TTSmaker。目前聽起來還是雅婷的中文聽起來最順耳，其次是Ondoku以及luvvoice。
 
 [音檔]([https://drive.google.com/drive/folders/1Gijte8TXEcCqLPYO0_n4yPCNOXN0U1BQ?usp=sharing](https://drive.google.com/drive/folders/1Gijte8TXEcCqLPYO0_n4yPCNOXN0U1BQ?usp=sharing "https://drive.google.com/drive/folders/1gijte8txeccqlpyo0_n4ypcnoxn0u1bq?usp=sharing"))在此。
+
+| 服務名稱      | 收費方式           | 是否可模仿聲音    | 備註                              |
+| --------- | -------------- | ---------- | ------------------------------- |
+| 雅婷        | 字數計費（298/10萬字） | 是（需透過 API） | 需使用 API 上傳音檔訓練模型，每帳戶最多保留五個聲音模型。 |
+| Ondoku    | 按月計費           | 否          | 每月有字數上限                         |
+| luvvoice  | 按月計費           | 是          | 每月有字數上限                         |
+| Elevenlab | 按月計費           | 是          | 每月有字數上限                         |
+| TTSmaker  | 按月計費           | 否          | 每月有字數上限                         |
 
 
 ## 單機TTS測試
