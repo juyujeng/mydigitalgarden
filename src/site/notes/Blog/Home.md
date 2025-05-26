@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                | 最後修改              |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[雅婷API測試\|雅婷API測試]]                                                                                                           | 2025/05/26  23:01 |
 | [[Guidelines/TTS\|文字轉語音工具]]                                                                                                    | 2025/05/23  11:13 |
 | [[Guidelines/teach-back\|Teach-back]]                                                                                          | 2025/05/13  16:23 |
 | [[Ensemble Refinement strategy\|Ensemble Refinement strategy]]                                                                 | 2025/05/06  10:57 |
@@ -23,7 +24,6 @@
 | [[testing difference of agreement coefficients\|testing difference of agreement coefficients]]                                 | 2025/03/18  14:51 |
 | [[untrained, pretrained, trained model of large language model\|untrained, pretrained, trained model of large language model]] | 2025/02/17  10:30 |
 | [[計畫行為理論\|計畫行為理論]]                                                                                                             | 2025/01/20  16:06 |
-| [[Projects/DNR training robot/preparing meeting\|研究討論會議]]                                                                      | 2025/01/20  11:42 |
 
 { .block-language-dataview}
 
