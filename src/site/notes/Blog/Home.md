@@ -14,8 +14,9 @@
 
 | 標題                                                                                                                                | 最後修改              |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Guidelines/自動化教學影片產生流程\|自動化教學影片產生流程]]                                                                                        | 2025/05/27  23:17 |
+| [[Guidelines/TTS tools\|文字轉語音工具]]                                                                                              | 2025/05/27  22:24 |
 | [[雅婷API測試\|雅婷API測試]]                                                                                                           | 2025/05/26  23:01 |
-| [[Guidelines/TTS\|文字轉語音工具]]                                                                                                    | 2025/05/23  11:13 |
 | [[Guidelines/teach-back\|Teach-back]]                                                                                          | 2025/05/13  16:23 |
 | [[Ensemble Refinement strategy\|Ensemble Refinement strategy]]                                                                 | 2025/05/06  10:57 |
 | [[self-consistency strategy\|self-consistency strategy]]                                                                       | 2025/05/06  10:27 |
@@ -23,7 +24,6 @@
 | [[Gewt's AC\|Gewt's AC]]                                                                                                       | 2025/03/25  09:42 |
 | [[testing difference of agreement coefficients\|testing difference of agreement coefficients]]                                 | 2025/03/18  14:51 |
 | [[untrained, pretrained, trained model of large language model\|untrained, pretrained, trained model of large language model]] | 2025/02/17  10:30 |
-| [[計畫行為理論\|計畫行為理論]]                                                                                                             | 2025/01/20  16:06 |
 
 { .block-language-dataview}
 
