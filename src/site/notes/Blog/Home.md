@@ -14,6 +14,7 @@
 
 | 標題                                                                                         | 最後修改              |
 | ------------------------------------------------------------------------------------------ | ----------------- |
+| [[開放醫學資料庫\|開放醫學資料庫]]                                                                    | 2025/06/24  15:56 |
 | [[MedHELM\|Holistic Evaluation of Large Language Models for Medical Tasks (MedHELM)]]   | 2025/06/20  16:42 |
 | [[大型語言模型自學課程\|大型語言模型自學線上課程]]                                                            | 2025/06/18  10:03 |
 | [[Guidelines/自動化教學影片產生流程\|自動化教學影片產生流程 （未完成）]]                                           | 2025/05/28  11:33 |
@@ -23,7 +24,6 @@
 | [[Ensemble Refinement strategy\|Ensemble Refinement strategy]]                          | 2025/05/06  10:26 |
 | [[self-consistency strategy\|self-consistency strategy]]                                | 2025/05/06  09:43 |
 | [[complex interventions MRC\|Complex interventions: Medical Research Council guidance]] | 2025/03/25  11:34 |
-| [[Gewt's AC\|Gewt's AC]]                                                                | 2025/03/25  09:42 |
 
 { .block-language-dataview}
 
