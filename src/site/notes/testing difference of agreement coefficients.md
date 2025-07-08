@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/testing difference of agreement coefficients/","title":"testing difference of agreement coefficients","tags":["statistics","agreement","reliability","guideline"],"created":"2025-03-18T14:17","updated":"2025-03-18T14:51"}
+{"dg-publish":true,"permalink":"/testing difference of agreement coefficients/","title":"testing difference of agreement coefficients","tags":["statistics","agreement","reliability","guideline"],"created":"2025-03-18T14:17","updated":"2025-03-18T14:18"}
 ---
 
 

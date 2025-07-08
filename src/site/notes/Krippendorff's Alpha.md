@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Krippendorff's Alpha/","title":"Krippendorff's Alpha","tags":["reliability","guideline","psychometrics"],"created":"2025-01-08T14:55","updated":"2025-01-08T15:00"}
+{"dg-publish":true,"permalink":"/Krippendorff's Alpha/","title":"Krippendorff's Alpha","tags":["reliability","guideline","psychometrics"],"created":"2025-01-08T14:55","updated":"2025-01-10T23:15"}
 ---
 
 Krippendorff's Alpha 是一種評估 **評分者之間一致性** 的統計指標，用於檢測數據的可靠性。它具有以下特點：

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/Whisper.cpp/","title":"Whisper.cpp操作心得","tags":["ai","guideline","research","method"],"created":"2024-06-14T14:20","updated":"2024-12-22T16:53"}
+{"dg-publish":true,"permalink":"/Blog/Document/Whisper.cpp/","title":"Whisper.cpp操作心得","tags":["ai","guideline","research","method"],"created":"2024-06-14T14:20","updated":"2025-07-08T13:37"}
 ---
 
 
@@ -50,6 +50,10 @@
 # 使用心得
 
 利用Whisper.cc轉譯了PEDro scale評分教學影片，共9個英文影片。對英文的轉譯幾乎百分之百正確。在M1的Macbook pro上，5分鐘的音檔5分鐘內就轉譯完成了，很快！
+
+> [!NOTE] 新增Core ML加速（設定方式見[官網](https://github.com/ggml-org/whisper.cpp)）
+> 設定好coreml加速之後，改用`./build/bin/main` 呼叫程式，同樣的檔案可以節省一半的時間
+> （測試20分鐘的音檔轉譯時間由550163.44 ms → 238380.12 ms）
 
 # 附錄
 
