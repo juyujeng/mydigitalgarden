@@ -21,5 +21,5 @@
 
 #### 操作說明
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AEhGyOQ95pw?si=CccnBeERzTjLUSoT&amp;start=49" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AEhGyOQ95pw?si=VWxSsyF68HsJchW1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
