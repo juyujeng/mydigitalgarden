@@ -14,6 +14,7 @@
 
 | 標題                                                                                       | 最後修改              |
 | ---------------------------------------------------------------------------------------- | ----------------- |
+| [[copy table from ChatGPT to word\|複製ChatGPT產生的表格到Word]]                              | 2025/07/31  09:58 |
 | [[MDAgents\|Medical Decision making Agents (MDAgents)]]                               | 2025/07/14  10:25 |
 | [[臨床情境中的回饋方式\|臨床情境中的回饋方式]]                                                            | 2025/07/11  11:45 |
 | [[Observation Scheme – 12\|Observation scheme 12]]                                    | 2025/07/09  14:29 |
@@ -23,7 +24,6 @@
 | [[開放醫學資料庫\|開放醫學資料庫]]                                                                  | 2025/06/30  14:28 |
 | [[Risk of Bias in randomized trials tool\|Risk of Bias in randomized trials tool]]    | 2025/06/30  14:17 |
 | [[MedHELM\|Holistic Evaluation of Large Language Models for Medical Tasks (MedHELM)]] | 2025/06/20  16:42 |
-| [[大型語言模型自學課程\|大型語言模型自學線上課程]]                                                          | 2025/06/18  10:03 |
 
 { .block-language-dataview}
 
