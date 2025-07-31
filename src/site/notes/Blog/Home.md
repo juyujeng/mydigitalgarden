@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2025-03-11T11:18"}
 ---
 
 
@@ -14,15 +14,15 @@
 
 | 標題                                                                                       | 最後修改              |
 | ---------------------------------------------------------------------------------------- | ----------------- |
-| [[copy table from ChatGPT to word\|複製ChatGPT產生的表格到Word]]                              | 2025/07/31  09:58 |
+| [[copy table from ChatGPT to word\|複製ChatGPT產生的表格到Word]]                              | 2025/07/31  10:39 |
 | [[MDAgents\|Medical Decision making Agents (MDAgents)]]                               | 2025/07/14  10:25 |
-| [[臨床情境中的回饋方式\|臨床情境中的回饋方式]]                                                            | 2025/07/11  11:45 |
-| [[Observation Scheme – 12\|Observation scheme 12]]                                    | 2025/07/09  14:29 |
+| [[臨床情境中的回饋方式\|臨床情境中的回饋方式]]                                                            | 2025/07/11  11:52 |
+| [[Observation Scheme – 12\|Observation scheme 12]]                                    | 2025/07/09  14:47 |
 | [[SET-GO\|SET-GO]]                                                                    | 2025/07/09  10:29 |
 | [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                        | 2025/07/08  13:37 |
-| [[從投稿到被Medical Teacher接受過程中的反思\|從投稿到被Medical Teacher接受過程中的反思]]                        | 2025/07/04  20:02 |
-| [[開放醫學資料庫\|開放醫學資料庫]]                                                                  | 2025/06/30  14:28 |
-| [[Risk of Bias in randomized trials tool\|Risk of Bias in randomized trials tool]]    | 2025/06/30  14:17 |
+| [[從投稿到被Medical Teacher接受過程中的反思\|從投稿到被Medical Teacher接受過程中的反思]]                        | 2025/07/04  16:43 |
+| [[開放醫學資料庫\|開放醫學資料庫]]                                                                  | 2025/07/02  14:10 |
+| [[Risk of Bias in randomized trials tool\|Risk of Bias in randomized trials tool]]    | 2025/06/30  14:22 |
 | [[MedHELM\|Holistic Evaluation of Large Language Models for Medical Tasks (MedHELM)]] | 2025/06/20  16:42 |
 
 { .block-language-dataview}
