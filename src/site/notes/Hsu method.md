@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hsu method/","title":"Hsu's multiple comparison for the best method","tags":["terms","statistics","posthoc","multiple_comparison"],"created":"2024-01-08","updated":"2024-01-08"}
+{"dg-publish":true,"permalink":"/Hsu method/","title":"Hsu's multiple comparison for the best method","tags":["terms","statistics","posthoc","multiple_comparison"],"created":"2024-01-08","updated":"2024-01-08T14:32"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/Google form vs. SurveyCake/","title":"Google form vs. SurveyCake 使用心得","tags":["blog","guideline"],"created":"2023-06-19","updated":"2023-06-19"}
+{"dg-publish":true,"permalink":"/Blog/Research/Google form vs. SurveyCake/","title":"Google form vs. SurveyCake 使用心得","tags":["blog","guideline"],"created":"2023-06-19","updated":"2023-06-19T11:32"}
 ---
 
 

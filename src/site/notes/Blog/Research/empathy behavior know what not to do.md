@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/empathy behavior know what not to do/","title":"同理行為：有時不一定是做了什麼而是知道什時候不要做什麼","tags":["blog","empathy"],"created":"2021-12-22"}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy behavior know what not to do/","title":"同理行為：有時不一定是做了什麼而是知道什時候不要做什麼","tags":["blog","empathy"],"created":"2021-12-22","updated":"2023-02-22T12:33"}
 ---
 
 

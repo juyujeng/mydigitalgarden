@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/使用AI進行會議紀錄/","title":"使用AI進行會議紀錄","tags":["blog","ai","chatgpt"],"created":"2023-03-06T00:00:00.000Z","updated":"2023-03-07T00:00:00.000Z"}
+{"dg-publish":true,"permalink":"/Blog/Research/使用AI進行會議紀錄/","title":"使用AI進行會議紀錄","tags":["blog","ai","chatgpt"],"created":"2023-03-06T00:00:00.000Z","updated":"2023-03-07T15:04"}
 ---
 
 

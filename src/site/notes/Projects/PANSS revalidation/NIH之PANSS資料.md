@@ -4,7 +4,7 @@
 
 
 
-根據[[Kanban notes/How to request NIH data\|How to request NIH data]]搜尋的結果，PANSS有關的shared data包含四個permission groups。其中NIMH data archive就很多筆，應該申請NIMH data archive的權限就夠了。
+根據[[Projects/PANSS revalidation/How to request NIH data\|How to request NIH data]]搜尋的結果，PANSS有關的shared data包含四個permission groups。其中NIMH data archive就很多筆，應該申請NIMH data archive的權限就夠了。
 
 ### NIMH Data Archive
 

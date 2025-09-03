@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Guidelines/classifier performance/","title":"Classifier performance","tags":["accuracy","sensitivity","precision","guideline","ROC"],"created":"2024-07-10T13:24","updated":"2024-07-10T14:38"}
+{"dg-publish":true,"permalink":"/Guidelines/classifier performance/","title":"Classifier performance","tags":["accuracy","sensitivity","precision","guideline","ROC"],"created":"2024-07-10T13:24","updated":"2024-08-06T11:35"}
 ---
 
 
@@ -8,8 +8,9 @@
 - false positive (FP) rate = $\frac{FP}{N}$
 - true positive (TP) rate: $\frac{TP}{P}$
 - precision = $\frac{TP}{TP+FP}$
-- recall = $\frac{TP}{P}$
+- recall (Sensitivity) = $\frac{TP}{P}$
 - accuracy = $\frac{TP+TN}{P+N}$
+- Specificity = $\frac{TN}{N}$
 - F-measure (F1) = $\frac{2}{1/precision + 1/recall}$
 
 ## F-measure
@@ -17,8 +18,6 @@
 F measure是用來評估分類標準表現好壞的指標之一，考量precision和recall並整合為單一指標。特別適用在樣本分佈不平衡（某一類別的樣本數遠少於另一類別）時，它可以提供比單純使用precision或recall更可靠的指標。與area under curve (AUC)相比，AUC著重在分類的正確率（accuracy）。
 
 F measure為precision與recall的調和平均（harmony mean），調和平均數比算術平均數更受小數值的影響（也就是調和平均數通常會比算數平均數來得小）。在confusion matrix當中，通常precision較大時，recall的值會較小。
-
-
 
 ## 相關筆記
 

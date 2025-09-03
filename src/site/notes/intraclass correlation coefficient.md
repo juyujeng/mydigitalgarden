@@ -7,9 +7,9 @@
 
 Intraclass correlation coefficient (ICC)是一個被廣泛使用的信度指標。它可以被使用在再測信度、評分者間信度以及評分者內信度。它可以反應多個測量（評分）結果的**相關**（correlation）或**同意**（agreement）程度。
 
-ICC包含多個不同種類（form），Shrout 與 Fleiss（1979）提出6種，而McGraw與Wong（1996）提出10種。根據Koo與Li（2016）的整理，這些不同種類詳列如[[intraclass correlation coefficient#ICC 種類表\|#ICC 種類表]]。仔細看可以發現，某些不同類的ICC計算的公式是一樣的。以McGraw與Wong（1996）的架構為例，常用的 Two-way random effects, absolute agreement, single rater/measurement 和 Two-way mixed effects, absolute agreement, single rater/measurement 計算結果是相同的。
+ICC包含多個不同種類（form），Shrout 與 Fleiss（1979）提出6種，而McGraw與Wong（1996）提出10種。根據Koo與Li（2016）的整理，這些不同種類詳列如[[#ICC 種類表]]。仔細看可以發現，某些不同類的ICC計算的公式是一樣的。以McGraw與Wong（1996）的架構為例，常用的 Two-way random effects, absolute agreement, single rater/measurement 和 Two-way mixed effects, absolute agreement, single rater/measurement 計算結果是相同的。
 
-研究者應根據研究目的選擇適合的種類。Koo與Li（2016）依照McGraw與Wong（1996）的分類概念提出[[intraclass correlation coefficient#ICC選擇流程圖\|#ICC選擇流程圖]]，按照以下4個問題的答案進行選擇：
+研究者應根據研究目的選擇適合的種類。Koo與Li（2016）依照McGraw與Wong（1996）的分類概念提出[[#ICC選擇流程圖]]，按照以下4個問題的答案進行選擇：
 
 1. 是否所有的被評分樣本都是被同一組的評分者所評分？Do we have the same set of raters for all subjects?
 2. 評分者樣本是從某個大群體中隨機選取的，還是特定的評分者樣本？Do we have a sample of raters randomly selected from a larger population or a specific sample of raters?
