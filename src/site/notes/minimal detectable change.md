@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/minimal detectable change/","title":"minimal detectable change","tags":["blog","terms","reliability","psychometric"],"created":"2023-12-15","updated":"2023-12-15"}
+{"dg-publish":true,"permalink":"/minimal detectable change/","title":"minimal detectable change","tags":["blog","terms","reliability","psychometric"],"created":"2023-12-15","updated":"2023-12-22T11:38"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Kanban notes/How to request NIH data/","title":"NIMH資料申請步驟","tags":["guideline","database"],"created":"2024-03-22T15:26","updated":"2024-05-09T15:32"}
+{"dg-publish":true,"permalink":"/Projects/PANSS revalidation/How to request NIH data/","title":"NIMH資料申請步驟","tags":["guideline","database"],"created":"2024-03-22T15:26","updated":"2024-05-10T10:05"}
 ---
 
 

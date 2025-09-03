@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/metacognition the clinical definitions/","title":"Metacognition: the clinical definitions","tags":["blog","metacognition","ideas"]}
+{"dg-publish":true,"permalink":"/Blog/Research/metacognition the clinical definitions/","title":"Metacognition: the clinical definitions","tags":["blog","metacognition","ideas"],"created":"2022-08-18T19:10","updated":"2023-02-16T22:38"}
 ---
 
 

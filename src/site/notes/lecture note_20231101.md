@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture note_20231101/","title":"人工智慧時代的英語學習力","tags":["blog","ai","chatgpt","learning","reflective","english"],"created":"2023-11-02T00:00:00.000Z","updated":"2023-11-07T00:00:00.000Z"}
+{"dg-publish":true,"permalink":"/lecture note_20231101/","title":"人工智慧時代的英語學習力","tags":["blog","ai","chatgpt","learning","reflective","english"],"created":"2023-11-02T00:00:00.000Z","updated":"2023-11-07T09:26"}
 ---
 
 
@@ -26,7 +26,7 @@
 ![Pasted image 20231102104043.png](/img/user/Pasted%20image%2020231102104043.png)
 *以前的學習曲線在AI出現之後，開頭的緩慢成長可望加速*（圖片來源：演講投影片）
 
-- 李校長介紹的語言學習相關工具會列在[[lecture note_20231101#相關的網路資源\|#相關的網路資源]]中
+- 李校長介紹的語言學習相關工具會列在[[#相關的網路資源]]中
 
 ## 大型語言模型AI帶來的影響以及反思
 

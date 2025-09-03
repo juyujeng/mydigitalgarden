@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Guidelines/try Chain of Density (CoD) prompting/","title":"試用 Chain of Density (CoD) prompting","tags":["blog","chatgpt","ai"],"created":"2023-10-12","updated":"2023-10-12"}
+{"dg-publish":true,"permalink":"/Guidelines/try Chain of Density (CoD) prompting/","title":"試用 Chain of Density (CoD) prompting","tags":["blog","chatgpt","ai"],"created":"2023-10-12","updated":"2023-10-12T23:11"}
 ---
 
 

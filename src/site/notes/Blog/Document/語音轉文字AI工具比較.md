@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/語音轉文字AI工具比較/","title":"雅婷逐字稿 vs. Whisper.cpp","tags":["blog","ai","text"],"created":"2023-03-28T00:00:00.000Z","updated":"2023-03-28T00:00:00.000Z"}
+{"dg-publish":true,"permalink":"/Blog/Document/語音轉文字AI工具比較/","title":"雅婷逐字稿 vs. Whisper.cpp","tags":["blog","ai","text"],"created":"2023-03-28T00:00:00.000Z","updated":"2024-06-14T14:23"}
 ---
 
 
@@ -27,7 +27,7 @@
    - 例如 ChatGPT 很常被辨識為gp。有些時候英文單詞甚至會被忽略。
 3. 要錢，需預先購買可以使用的時數
 
-## [Whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+## [[Blog/Document/Whisper.cpp\|Whisper.cpp]]
 
 ### 優點
 
@@ -47,7 +47,7 @@
 
 ### 其他
 
-[Whisper](https://github.com/openai/whisper)在開發出來之後，近來已經延伸出許多支援的工具，像是[whisper.cpp](https://github.com/ggerganov/whisper.cpp)以及[WhisperDesktop](https://github.com/Const-me/Whisper)。其中[WhisperDesktop](https://github.com/Const-me/Whisper)已經變成圖形化介面，也支援GPU，對使用者很友善。但是目前只支援windows作業系統。
+[Whisper](https://github.com/openai/whisper)在開發出來之後，近來已經延伸出許多支援的工具，像是[Whisper.cpp](https://github.com/ggerganov/whisper.cpp)以及[WhisperDesktop](https://github.com/Const-me/Whisper)。其中[WhisperDesktop](https://github.com/Const-me/Whisper)已經變成圖形化介面，也支援GPU，對使用者很友善。但是目前只支援windows作業系統。
 
 ## 比較表
 

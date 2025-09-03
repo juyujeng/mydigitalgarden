@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/嘗試找AI代筆了/","title":"嘗試找AI代筆了","tags":["blog","ai","chatgpt","writing"],"created":"2023-04-25","updated":"2023-04-25"}
+{"dg-publish":true,"permalink":"/Blog/Research/嘗試找AI代筆了/","title":"嘗試找AI代筆了","tags":["blog","ai","chatgpt","writing"],"created":"2023-04-25","updated":"2023-04-25T22:40"}
 ---
 
 

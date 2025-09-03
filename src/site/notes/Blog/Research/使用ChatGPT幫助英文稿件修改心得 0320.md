@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/使用ChatGPT幫助英文稿件修改心得 0320/","title":"使用ChatGPT幫助英文稿件修改心得 0320","tags":["blog","writing","ai","chatgpt"],"created":"2023-03-20T00:00:00.000Z","updated":"2023-03-20T00:00:00.000Z"}
+{"dg-publish":true,"permalink":"/Blog/Research/使用ChatGPT幫助英文稿件修改心得 0320/","title":"使用ChatGPT幫助英文稿件修改心得 0320","tags":["blog","writing","ai","chatgpt"],"created":"2023-03-20T00:00:00.000Z","updated":"2023-03-20T09:41"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/brief review of empathy/","title":"同理回顧介紹要點","tags":["blog","empathy","manuscript"],"created":"2022-04-18"}
+{"dg-publish":true,"permalink":"/Blog/Research/brief review of empathy/","title":"同理回顧介紹要點","tags":["blog","empathy","manuscript"],"created":"2022-04-18","updated":"2023-02-22T12:31"}
 ---
 
 
