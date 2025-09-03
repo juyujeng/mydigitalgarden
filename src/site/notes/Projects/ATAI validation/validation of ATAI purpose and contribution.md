@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/ATAI validation/validation of ATAI purpose and contribution/","title":"重新驗證ATAI：研究目的與可能的賣點","tags":["ai","chatgpt","投稿暫存","ideas"],"created":"2024-02-19T17:00","updated":"2024-02-23T15:36"}
+{"dg-publish":true,"permalink":"/Projects/ATAI validation/validation of ATAI purpose and contribution/","title":"重新驗證ATAI：研究目的與可能的賣點","tags":["ai","chatgpt","投稿暫存","ideas"],"created":"2024-02-19T17:00","updated":"2024-03-27T14:50"}
 ---
 
 

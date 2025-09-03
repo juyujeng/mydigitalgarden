@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/Kirkpatrick model/","title":"Kirkpatrick model","tags":["blog","intervention"]}
+{"dg-publish":true,"permalink":"/Blog/Research/Kirkpatrick model/","title":"Kirkpatrick model","tags":["blog","intervention"],"created":"2022-08-18T19:10","updated":"2023-02-16T22:37"}
 ---
 
 

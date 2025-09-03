@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/Content Validity Index/","title":"Content Validity Index","tags":["blog","guideline","validity"],"created":"2023-08-24","updated":"2023-08-24"}
+{"dg-publish":true,"permalink":"/Blog/Document/Content Validity Index/","title":"Content Validity Index","tags":["blog","guideline","validity"],"created":"2023-08-24","updated":"2023-08-24T11:23"}
 ---
 
 

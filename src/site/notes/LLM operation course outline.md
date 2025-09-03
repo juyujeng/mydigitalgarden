@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/LLM operation course outline/","title":"LLMAI訓練課程大綱","tags":["prompt","#training","chatgpt","ai"],"created":"2024-02-20T11:26","updated":"2024-02-22T16:03"}
+{"dg-publish":true,"permalink":"/LLM operation course outline/","title":"LLMAI訓練課程大綱","tags":["prompt","#training","chatgpt","ai"],"created":"2024-02-20T11:26","updated":"2024-02-27T11:43"}
 ---
 
 

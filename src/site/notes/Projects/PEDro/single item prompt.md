@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/PEDro/single item prompt/","title":"single item prompt","tags":["prompt","ai","chatgpt"],"created":"2024-07-26T16:36","updated":"2024-07-30T15:20"}
+{"dg-publish":true,"permalink":"/Projects/PEDro/single item prompt/","title":"single item prompt","tags":["prompt","ai","chatgpt"],"created":"2024-07-26T16:36","updated":"2025-08-19T09:30"}
 ---
 
 

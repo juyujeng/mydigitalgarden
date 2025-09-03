@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/ChatGPT in education/","title":"ChatGPT in education","tags":["chatgpt","ai"],"created":"2023-04-21T00:00:00.000Z","updated":"2023-04-21T00:00:00.000Z"}
+{"dg-publish":true,"permalink":"/Blog/Research/ChatGPT in education/","title":"ChatGPT in education","tags":["chatgpt","ai"],"created":"2023-04-21T00:00:00.000Z","updated":"2023-04-21T15:48"}
 ---
 
 

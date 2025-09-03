@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/ChatGPT feature functions/","title":"ChatGPT 之特色功能","tags":["blog"],"created":"2023-08-14","updated":"2023-08-14"}
+{"dg-publish":true,"permalink":"/Blog/Research/ChatGPT feature functions/","title":"ChatGPT 之特色功能","tags":["blog"],"created":"2023-08-14","updated":"2023-08-14T16:01"}
 ---
 
 

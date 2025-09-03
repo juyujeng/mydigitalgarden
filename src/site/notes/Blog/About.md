@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/About/","title":"About","created":"2022-09-13T12:59:08.000Z","updated":"2024-01-24T16:43"}
+{"dg-publish":true,"permalink":"/Blog/About/","title":"About","created":"2022-09-13T12:59:08.000Z","updated":"2024-12-16T08:54"}
 ---
 
 
@@ -9,8 +9,7 @@
 
 ## working on
 
-**Ju, Y.-J.**, Wang, Y.-C., Lee, S.-C., Liu, C.-H., Liu, J.-H., Yang, C.-W., Hsieh, C.-L.. (under review). Developing the Questionnaire of Self-Efficacy and Needs in using Large-Language  
-model based AI Services. _Current psychology_. April 2024 submitted.
+**Ju, Y.-J.**, Wang, Y.-C., Lee, S.-C., Liu, C.-H., Liu, J.-H., Yang, C.-W., Hsieh, C.-L.. (under review). Developing the Questionnaire of Self-Efficacy and Needs in using Large-Language  model based AI Services. _Current psychology_. April 2024 submitted.
 
 **Ju,** **Y.-J**, Lee, M.-L., Hsieh, C.-L., Tsai, H.-E., Chen, J.-C., Wu, T.-Y.,Wang, Y.-C., Chen, C.-P.. (under review) Intra-rater and inter-rater reliability of the  
 Empathic Communication Coding System. _British Journal of Occupational Therapy_.  
@@ -28,9 +27,13 @@ modulation hypothesis of mind wandering.
 
 ## journal article
 
-**Yu-Jeng Ju**, Yunn-Wen Lien, Shan-Chuan Teng. (In press) Mind wandering: Definition, measurement, and predictive factors. _Chinese Journal of Psychology_.
+**Ju, Y.-J.**, Lien, Y.-W., & Teng, S.-C. (2024). Mind wandering: Definition, measurement, and predictive factors. _Chinese Journal of Psychology_, _66_(3), 389–418.
 
-Wu, L.-C., Lien, Y.-W., & **Ju, Y.-J.** (2022). Escaping from worries: Comparing the effectiveness of focusing on one’s breath, a neutral and a positive distractor in worry control. Current Psychology. <https://doi.org/10.1007/s12144-022-03744-1> [📄](https://rdcu.be/cVUIh)
+Wu, L.-C., Lien, Y.-W., & **Ju, Y.-J.** (2023). Escaping from worries: Comparing the effectiveness of focusing on one’s breath, a neutral and a positive distractor in worry control. _Current Psychology_, _42_(30), 26375–26387. [https://doi.org/10.1007/s12144-022-03744-1](https://doi.org/10.1007/s12144-022-03744-1)
+
+Huang, E. P.-Y., Lin, H.-S., Chen, Y.-C., Li, Y.-H., Huang, Y.-L., **Ju, Y.-J.**, Yu, H.-C., Kicska, G. A., & Wu, M.-T. (2023). Lower attenuation and higher kurtosis of coronary artery calcification associated with vulnerable plaque – an agatston score propensity-matched CT radiomics study. _BMC Cardiovascular Disorders_, _23_(1), 158. [https://doi.org/10.1186/s12872-023-03162-6](https://doi.org/10.1186/s12872-023-03162-6)
+
+Chen, K.-W., Lee, S.-C., Chou, F. H.-C., Chiang, H.-Y., Hsueh, I.-P., Chen, P.-H., Wang, S.-P., **Ju, Y.-J.**, & Hsieh, C.-L. (2023). Development of a Rasch-calibrated emotion recognition video test for patients with schizophrenia. _Archives of Clinical Neuropsychology_, acad098. [https://doi.org/10.1093/arclin/acad098](https://doi.org/10.1093/arclin/acad098)
 
 **Ju, Y.-J.**, & Lien, Y.-W. (2018). Who is prone to wander and when? Examining an integrative effect of working memory capacity and mindfulness trait on mind wandering under different task loads. Consciousness and Cognition, 63(1), 1–10. <https://doi.org/10.1016/j.concog.2018.06.006>
 

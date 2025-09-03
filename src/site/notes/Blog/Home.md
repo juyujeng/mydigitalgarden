@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-04-11T16:22"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41"}
 ---
 
 
@@ -12,30 +12,20 @@
 
 ## 最近更新
 
-| 標題                                                                                               | 最後修改              |
-| ------------------------------------------------------------------------------------------------ | ----------------- |
-| [[GPTs可以調整的參數\|GPTs可以調整的參數]]                                                                  | 2024/08/15  14:49 |
-| [[Guidelines/how to use assistant API in playground\|如何使用assistant API (in playground)]]      | 2024/08/15  09:56 |
-| [[Guidelines/classifier performance\|Classifier performance]]                                 | 2024/08/06  11:35 |
-| [[Projects/PEDro/single item prompt\|single item prompt]]                                     | 2024/07/30  15:20 |
-| [[Projects/PEDro/PEDro scale item 4\|PEDro scale Item 4 revision]]                            | 2024/07/23  15:14 |
-| [[Projects/PEDro/PEDro ai instruction 9\|使用chain of thought]]                                 | 2024/07/17  09:57 |
-| [[Projects/PEDro/pedro ai instruction_4\|PEDro AI rater instruction (rule embedded version)]] | 2024/06/18  12:14 |
-| [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                | 2024/06/16  19:16 |
-| [[Blog/Document/語音轉文字AI工具比較\|雅婷逐字稿 vs. Whisper.cpp]]                                          | 2024/06/14  14:23 |
-| [[Projects/PEDro/pedro ai instruction_3\|PEDro AI rater instruction]]                         | 2024/06/13  21:38 |
+| 標題                                                                                                                                                                                                      | 最後修改              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Assessing the methodologic quality of systematic reviews using generative large language models\|Assessing the methodologic quality of systematic reviews using generative large language models]] | 2025/09/03  11:13 |
+| [[評分ChatGPT作為虛擬病人表現可能的面向\|評分ChatGPT作為虛擬人物表現可能的面向]]                                                                                                                                                   | 2025/08/22  10:28 |
+| [[statistics/Interater reliability\|Interater reliability]]                                                                                                                                          | 2025/08/01  22:13 |
+| [[copy table from ChatGPT to word\|複製ChatGPT產生的表格到Word]]                                                                                                                                             | 2025/08/01  00:21 |
+| [[MDAgents\|Medical Decision making Agents (MDAgents)]]                                                                                                                                              | 2025/07/14  10:25 |
+| [[臨床情境中的回饋方式\|臨床情境中的回饋方式]]                                                                                                                                                                           | 2025/07/11  11:45 |
+| [[Observation Scheme – 12\|Observation scheme 12]]                                                                                                                                                   | 2025/07/09  14:29 |
+| [[SET-GO\|SET-GO]]                                                                                                                                                                                   | 2025/07/09  10:29 |
+| [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                                                                                       | 2025/07/08  13:37 |
+| [[從投稿到被Medical Teacher接受過程中的反思\|從投稿到被Medical Teacher接受過程中的反思]]                                                                                                                                       | 2025/07/04  20:02 |
 
 { .block-language-dataview}
-
-## 文章分類列表
-
-- [[Blog/Research_index\|研究]]
-    - 研究過程中的紀錄與心得
-- [[Blog/Digest_index\|閱讀]]
-    - 文獻閱讀摘要
-- [[Blog/Document_index\|文件]]
-    - 統計、寫作、實驗設計等技術性筆記
-- [[Blog/Life_index\|生活]]
 
 ## [[Blog/AllPost\|所有文章]]
 
