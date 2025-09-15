@@ -54,6 +54,6 @@
 ### 實例
 
 1. 整理[生成式AI調查報告](https://mic.iii.org.tw/news.aspx?id=726)
-2. 將整理好的markdown文字直接於Chat Everywhere輸出，或是到[markmap](https://markmap.js.org/repl)貼上文字後產生心智圖（如下）
-	- <iframe width="560" height="315" src="https://researchlife.vercel.app/markmap.html"></iframe>
+2. 將整理好的markdown文字直接於Chat Everywhere輸出，或是到[markmap](https://markmap.js.org/repl)貼上文字後產生心智圖
+3. [成果](https://drive.google.com/file/d/18-02tZU7-xMHeMBtJR85gsAooL2I_WV3/view?usp=sharing)
 
