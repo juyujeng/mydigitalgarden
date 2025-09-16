@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2025-03-11T11:18"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41"}
 ---
 
 
@@ -14,14 +14,14 @@
 
 | 標題                                                                                                                                                                                                      | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」\|教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」]]                                                                                                                                   | 2025/09/15  22:45 |
-| [[Assessing the methodologic quality of systematic reviews using generative large language models\|Assessing the methodologic quality of systematic reviews using generative large language models]] | 2025/09/03  11:35 |
-| [[評分ChatGPT作為虛擬病人表現可能的面向\|評分ChatGPT作為虛擬人物表現可能的面向]]                                                                                                                                                   | 2025/08/25  16:14 |
+| [[教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」\|教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」]]                                                                                                                                   | 2025/09/16  00:16 |
+| [[Assessing the methodologic quality of systematic reviews using generative large language models\|Assessing the methodologic quality of systematic reviews using generative large language models]] | 2025/09/03  11:13 |
+| [[評分ChatGPT作為虛擬病人表現可能的面向\|評分ChatGPT作為虛擬人物表現可能的面向]]                                                                                                                                                   | 2025/08/22  10:28 |
 | [[statistics/Interater reliability\|Interater reliability]]                                                                                                                                          | 2025/08/01  22:13 |
-| [[copy table from ChatGPT to word\|複製ChatGPT產生的表格到Word]]                                                                                                                                             | 2025/07/31  10:39 |
+| [[copy table from ChatGPT to word\|複製ChatGPT產生的表格到Word]]                                                                                                                                             | 2025/08/01  00:21 |
 | [[MDAgents\|Medical Decision making Agents (MDAgents)]]                                                                                                                                              | 2025/07/14  10:25 |
-| [[臨床情境中的回饋方式\|臨床情境中的回饋方式]]                                                                                                                                                                           | 2025/07/11  11:52 |
-| [[Observation Scheme – 12\|Observation scheme 12]]                                                                                                                                                   | 2025/07/09  14:47 |
+| [[臨床情境中的回饋方式\|臨床情境中的回饋方式]]                                                                                                                                                                           | 2025/07/11  11:45 |
+| [[Observation Scheme – 12\|Observation scheme 12]]                                                                                                                                                   | 2025/07/09  14:29 |
 | [[SET-GO\|SET-GO]]                                                                                                                                                                                   | 2025/07/09  10:29 |
 | [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                                                                                       | 2025/07/08  13:37 |
 

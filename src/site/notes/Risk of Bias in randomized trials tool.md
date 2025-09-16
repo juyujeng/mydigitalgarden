@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Risk of Bias in randomized trials tool/","title":"Risk of Bias in randomized trials tool","tags":["guideline"],"created":"2025-06-30T12:10","updated":"2025-06-30T14:22"}
+{"dg-publish":true,"permalink":"/Risk of Bias in randomized trials tool/","title":"Risk of Bias in randomized trials tool","tags":["guideline"],"created":"2025-06-30T12:10","updated":"2025-06-30T14:17"}
 ---
 
 

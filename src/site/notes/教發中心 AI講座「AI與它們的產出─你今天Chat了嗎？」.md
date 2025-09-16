@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」/","title":"教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」","tags":["ai","chatgpt","teaching","teacher","LLMAI"],"created":"2025-09-15T22:45","updated":"2025-09-15T22:45"}
+{"dg-publish":true,"permalink":"/教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」/","title":"教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」","tags":["ai","chatgpt","teaching","teacher","LLMAI"],"created":"2025-09-15T22:45","updated":"2025-09-16T00:16"}
 ---
 
 
-## 概念
+
 
 - 演講者是茶米老師（[粉絲頁](https://www.facebook.com/teach.for.tw)、[youtube頻道](http://www.youtube.com/edreamertw)），他介紹了一個以教育為中心的大型語言模型服務「Chat Everywhere V2」，並分享了幾個實用的資料整理工作流程以及提示詞。
 - [演講投影片](https://bit.ly/ce2ai-2025)
@@ -32,10 +32,10 @@
 | 文件讀取（PDF/Doc/音訊…）                    | —   | ✅              | ✅            |
 | YouTube 影片分析                         | —   | ✅              | ✅            |
 | 語音輸入                                 | —   | ✅              | ✅            |
-| 圖像生成／編輯（如 Midjourney、ChatGPT Image*） | —   | ✅              | ✅            |
+| 圖像生成／編輯（如 ChatGPT Image、Nano banana） | —   | ✅              | ✅            |
 | 雲端同步                                 | —   | ✅              | ✅            |
 | 高階模型配額（如 GPT-5 thinking）             | —   | ✅              | ✅            |
-| 即時課堂（OTP 訪客登入）                       | —   | —              | ✅            |
+| 即時課堂（學生可用一次性代碼登入並使用付費版功能）            | —   | —              | ✅            |
 | Share Messages（學生一鍵交回教師端）            | —   | —              | ✅            |
 | Folders 對話分資料夾管理                     | ✅   | ✅              | ✅            |
 | Prompt Template／Library（提示模板、可共享）    | ✅   | ✅              | ✅            |
