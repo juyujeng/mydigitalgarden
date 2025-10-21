@@ -14,7 +14,7 @@
 
 | 標題                                                                                                                                                                                                      | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Recall Oriented Understudy for Gisting Evaluation (ROUGE) score\|Oriented Understudy for Gisting Evaluation (ROUGE) score]]                                                                        | 2025/10/21  15:44 |
+| [[Recall Oriented Understudy for Gisting Evaluation (ROUGE) score\|Recall Oriented Understudy for Gisting Evaluation (ROUGE) score]]                                                                 | 2025/10/21  16:14 |
 | [[MedARC\|MedARC (Medical Agent Refinement & Collaboration)]]                                                                                                                                        | 2025/10/20  11:25 |
 | [[R package/data/data.table/install data.table\|如何在Mac M1上使用data.table多核運算]]                                                                                                                         | 2025/09/24  11:37 |
 | [[教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」\|教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」]]                                                                                                                                   | 2025/09/16  00:16 |
