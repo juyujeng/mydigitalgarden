@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/R package/data/data.table/install data.table/","title":"如何在Mac M1上使用data.table多核運算","tags":["Rpackage/data","data.table","blog"],"created":"2023-03-23T00:00:00.000Z","updated":"2023-03-24T09:16"}
+{"dg-publish":true,"permalink":"/R package/data/data.table/install data.table/","title":"如何在Mac M1上使用data.table多核運算","tags":["Rpackage","data","blog"],"created":"2023-03-23T00:00:00.000Z","updated":"2025-09-24T11:37"}
 ---
 
 
