@@ -14,7 +14,8 @@
 
 | 標題                                                                                                                                                                                                      | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[MedARC\|MedARC]]                                                                                                                                                                                   | 2025/10/20  11:25 |
+| [[Recall Oriented Understudy for Gisting Evaluation (ROUGE) score\|Oriented Understudy for Gisting Evaluation (ROUGE) score]]                                                                        | 2025/10/21  15:44 |
+| [[MedARC\|MedARC (Medical Agent Refinement & Collaboration)]]                                                                                                                                        | 2025/10/20  11:25 |
 | [[R package/data/data.table/install data.table\|如何在Mac M1上使用data.table多核運算]]                                                                                                                         | 2025/09/24  11:37 |
 | [[教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」\|教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」]]                                                                                                                                   | 2025/09/16  00:16 |
 | [[Assessing the methodologic quality of systematic reviews using generative large language models\|Assessing the methodologic quality of systematic reviews using generative large language models]] | 2025/09/03  11:13 |
@@ -23,7 +24,6 @@
 | [[copy table from ChatGPT to word\|複製ChatGPT產生的表格到Word]]                                                                                                                                             | 2025/08/01  00:21 |
 | [[MDAgents\|Medical Decision making Agents (MDAgents)]]                                                                                                                                              | 2025/07/14  10:25 |
 | [[臨床情境中的回饋方式\|臨床情境中的回饋方式]]                                                                                                                                                                           | 2025/07/11  11:45 |
-| [[Observation Scheme – 12\|Observation scheme 12]]                                                                                                                                                   | 2025/07/09  14:29 |
 
 { .block-language-dataview}
 
