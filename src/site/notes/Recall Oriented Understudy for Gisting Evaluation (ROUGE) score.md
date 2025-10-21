@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Recall Oriented Understudy for Gisting Evaluation (ROUGE) score/","title":"Recall Oriented Understudy for Gisting Evaluation (ROUGE) score","tags":["LLMAI","chatgpt","guideline","statistics","evaluation"],"created":"2025-10-21T15:15","updated":"2025-10-21T16:14"}
+{"dg-publish":true,"permalink":"/Recall Oriented Understudy for Gisting Evaluation (ROUGE) score/","title":"Recall Oriented Understudy for Gisting Evaluation (ROUGE) score","tags":["LLMAI","chatgpt","guideline","statistics","evaluation"],"created":"2025-10-21T15:15","updated":"2025-10-21T16:33"}
 ---
 
 # 了解 ROUGE：自動評估文字摘要品質的指標

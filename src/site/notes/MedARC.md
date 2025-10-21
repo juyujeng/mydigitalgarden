@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MedARC/","title":"MedARC (Medical Agent Refinement & Collaboration)","tags":["guideline","LLMAI","chatgpt","virtual-patient","OSCE"],"created":"2025-10-20T10:40","updated":"2025-10-20T11:25"}
+{"dg-publish":true,"permalink":"/MedARC/","title":"MedARC (Medical Agent Refinement & Collaboration)","tags":["guideline","LLMAI","chatgpt","virtual-patient","OSCE"],"created":"2025-10-20T10:40","updated":"2025-10-21T14:56"}
 ---
 
 
@@ -29,6 +29,13 @@ MedARC的運作包含三個階段：
 2. 信心門檻過濾（Confidence Filtering）：只保留信心分數 ≥ 0.85 的回答；若所有回答皆低於此門檻，系統會重新生成該輪答案並重新評估。
 3. 選擇最終答案（Final Selection）：在通過門檻的候選中，**挑選信心分數最高的那一個作為最終答案 $D$**。不採多數決或平均，而以最高信心者為準。
 4. 結果輸出：該最終答案即為 MedARC 的輸出結果，並可附帶該代理的論證摘要以供人工檢視。
+
+---
+
+MedARC表現驗證方法
+1. 是非題：ACC、precision、recall、F1
+2. 事實問答題：[[Recall Oriented Understudy for Gisting Evaluation (ROUGE) score\|ROUGE]]
+3. 開放式問題：[[Recall Oriented Understudy for Gisting Evaluation (ROUGE) score\|ROUGE]]、[[SBERT-based Similarity (SBERT-Sim)\|SBERT-Sim]]
 
 
 ---

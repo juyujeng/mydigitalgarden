@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2025-03-11T11:18"}
 ---
 
 
@@ -14,16 +14,16 @@
 
 | 標題                                                                                                                                                                                                      | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Recall Oriented Understudy for Gisting Evaluation (ROUGE) score\|Recall Oriented Understudy for Gisting Evaluation (ROUGE) score]]                                                                 | 2025/10/21  16:14 |
-| [[MedARC\|MedARC (Medical Agent Refinement & Collaboration)]]                                                                                                                                        | 2025/10/20  11:25 |
+| [[Recall Oriented Understudy for Gisting Evaluation (ROUGE) score\|Recall Oriented Understudy for Gisting Evaluation (ROUGE) score]]                                                                 | 2025/10/21  16:33 |
+| [[Different types of Kappa values\|Different types of Kappa values]]                                                                                                                                 | 2025/10/21  15:52 |
+| [[Effect size interpretation mean and variance\|效果量的解釋：平均數與變異數的差異]]                                                                                                                                  | 2025/10/21  15:52 |
+| [[intraclass correlation coefficient\|intraclass correlation coefficient]]                                                                                                                           | 2025/10/21  15:52 |
+| [[MedARC\|MedARC (Medical Agent Refinement & Collaboration)]]                                                                                                                                        | 2025/10/21  14:56 |
 | [[R package/data/data.table/install data.table\|如何在Mac M1上使用data.table多核運算]]                                                                                                                         | 2025/09/24  11:37 |
-| [[教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」\|教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」]]                                                                                                                                   | 2025/09/16  00:16 |
-| [[Assessing the methodologic quality of systematic reviews using generative large language models\|Assessing the methodologic quality of systematic reviews using generative large language models]] | 2025/09/03  11:13 |
-| [[評分ChatGPT作為虛擬病人表現可能的面向\|評分ChatGPT作為虛擬人物表現可能的面向]]                                                                                                                                                   | 2025/08/22  10:28 |
+| [[教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」\|教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」]]                                                                                                                                   | 2025/09/16  09:38 |
+| [[Assessing the methodologic quality of systematic reviews using generative large language models\|Assessing the methodologic quality of systematic reviews using generative large language models]] | 2025/09/03  11:35 |
+| [[評分ChatGPT作為虛擬病人表現可能的面向\|評分ChatGPT作為虛擬人物表現可能的面向]]                                                                                                                                                   | 2025/08/25  16:14 |
 | [[statistics/Interater reliability\|Interater reliability]]                                                                                                                                          | 2025/08/01  22:13 |
-| [[copy table from ChatGPT to word\|複製ChatGPT產生的表格到Word]]                                                                                                                                             | 2025/08/01  00:21 |
-| [[MDAgents\|Medical Decision making Agents (MDAgents)]]                                                                                                                                              | 2025/07/14  10:25 |
-| [[臨床情境中的回饋方式\|臨床情境中的回饋方式]]                                                                                                                                                                           | 2025/07/11  11:45 |
 
 { .block-language-dataview}
 
