@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/self-consistency strategy/","title":"self-consistency strategy","tags":["chatgpt","ai","LLMAI"],"created":"2025-05-02T15:23","updated":"2025-05-06T10:27"}
+{"dg-publish":true,"permalink":"/self-consistency strategy/","title":"self-consistency strategy","tags":["chatgpt","ai","LLMAI"],"created":"2025-05-02T15:23","updated":"2025-05-06T09:43"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Recall Oriented Understudy for Gisting Evaluation (ROUGE) score/","title":"Recall Oriented Understudy for Gisting Evaluation (ROUGE) score","tags":["LLMAI","chatgpt","guideline","statistics","evaluation"],"created":"2025-10-21T15:15","updated":"2025-10-21T16:33"}
+{"dg-publish":true,"permalink":"/Recall Oriented Understudy for Gisting Evaluation (ROUGE) score/","title":"Recall Oriented Understudy for Gisting Evaluation (ROUGE) score","tags":["LLMAI","chatgpt","guideline","statistics","evaluation"],"created":"2025-10-21T15:15","updated":"2025-10-21T23:28"}
 ---
 
 # 了解 ROUGE：自動評估文字摘要品質的指標
@@ -97,6 +97,14 @@ scores = scorer.score(reference, candidate)
 for metric, result in scores.items():
     print(f"{metric}: Precision={result.precision:.3f}, Recall={result.recall:.3f}, F1={result.fmeasure:.3f}")
 ```
+
+
+> [!NOTE] 中文處理
+> rouge_score無法處理中文，需再測試其他module，例如：
+> - [[rouge-chinese\|rouge-chinese]]
+> - [tw_rouge](https://github.com/changjonathanc/tw_rouge?utm_source=chatgpt.com)
+
+
 
 ### `rouge_score`說明
 
