@@ -101,7 +101,7 @@ for metric, result in scores.items():
 
 > [!NOTE] 中文處理
 > rouge_score無法處理中文，需再測試其他module，例如：
-> - [[rouge-chinese\|rouge-chinese]]
+> - [[rouge-chinese\|rouge-chinese]]，在處理時需要先對中文進行斷詞處理，利用像是`jieba`或是[[ckipnlp\|ckipnlp]]
 > - [tw_rouge](https://github.com/changjonathanc/tw_rouge?utm_source=chatgpt.com)
 
 
@@ -185,6 +185,6 @@ F1 越高，表示模型在「準確性」與「完整性」之間取得更好�
 
 ---
 
-## reference
+## Reference
 
 Lin, C.-Y. (2004). ROUGE: a package for automatic evaluation of summaries. _Text Summarization Branches Out_, 74–81. [https://aclanthology.org/W04-1013/](https://aclanthology.org/W04-1013/)
