@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                                                                                      | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[rouge-chinese\|rouge-chiese]]                                                                                                                                                                      | 2025/10/24  22:43 |
 | [[SBERT-based Similarity (SBERT-Sim)\|SBERT-based Similarity (SBERT-Sim)]]                                                                                                                           | 2025/10/23  23:18 |
 | [[Recall Oriented Understudy for Gisting Evaluation (ROUGE) score\|Recall Oriented Understudy for Gisting Evaluation (ROUGE) score]]                                                                 | 2025/10/22  14:11 |
 | [[Different types of Kappa values\|Different types of Kappa values]]                                                                                                                                 | 2025/10/21  15:52 |
@@ -23,7 +24,6 @@
 | [[R package/data/data.table/install data.table\|如何在Mac M1上使用data.table多核運算]]                                                                                                                         | 2025/09/24  11:37 |
 | [[教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」\|教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」]]                                                                                                                                   | 2025/09/16  09:38 |
 | [[Assessing the methodologic quality of systematic reviews using generative large language models\|Assessing the methodologic quality of systematic reviews using generative large language models]] | 2025/09/03  11:35 |
-| [[評分ChatGPT作為虛擬病人表現可能的面向\|評分ChatGPT作為虛擬人物表現可能的面向]]                                                                                                                                                   | 2025/08/25  16:14 |
 
 { .block-language-dataview}
 
