@@ -65,7 +65,7 @@ from sentence_transformers import SentenceTransformer, util
 # 處理中文的模型
 # model_name = "shibing624/text2vec-base-chinese"
 model_name = "sentence-transformers/distiluse-base-multilingual-cased-v1" 
-model = SentenceTransformer(model_name)
+model = SentenceTransformer(model_name) # device (like “cuda”, “cpu”, “mps”, “npu”) that should be used for computation. If None, checks if a GPU can be used.
 
 # 兩個要比較的句子
 sent1 = "這位病人出現發燒、頭痛與咳嗽的症狀。"
