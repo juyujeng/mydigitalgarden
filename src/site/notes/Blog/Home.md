@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                                                                                      | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[BREAKS\|BREAKS]]                                                                                                                                                                                   | 2025/11/24  16:04 |
 | [[SPIKES\|SPIKES]]                                                                                                                                                                                   | 2025/11/24  13:47 |
 | [[rouge-chinese\|rouge-chiese]]                                                                                                                                                                      | 2025/10/24  22:43 |
 | [[SBERT-based Similarity (SBERT-Sim)\|SBERT-based Similarity (SBERT-Sim)]]                                                                                                                           | 2025/10/23  23:18 |
@@ -23,7 +24,6 @@
 | [[教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」\|教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」]]                                                                                                                                   | 2025/09/16  00:16 |
 | [[Assessing the methodologic quality of systematic reviews using generative large language models\|Assessing the methodologic quality of systematic reviews using generative large language models]] | 2025/09/03  11:13 |
 | [[評分ChatGPT作為虛擬病人表現可能的面向\|評分ChatGPT作為虛擬人物表現可能的面向]]                                                                                                                                                   | 2025/08/22  10:28 |
-| [[statistics/Interater reliability\|Interater reliability]]                                                                                                                                          | 2025/08/01  22:13 |
 
 { .block-language-dataview}
 
