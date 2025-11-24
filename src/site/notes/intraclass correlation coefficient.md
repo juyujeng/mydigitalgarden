@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intraclass correlation coefficient/","title":"intraclass correlation coefficient","tags":["terms","reliability","guideline","statistics"],"created":"2024-05-28T09:57","updated":"2024-05-28T23:33"}
+{"dg-publish":true,"permalink":"/intraclass correlation coefficient/","title":"intraclass correlation coefficient","tags":["terms","reliability","guideline","statistics"],"created":"2024-05-28T09:57","updated":"2025-10-21T15:52"}
 ---
 
 
