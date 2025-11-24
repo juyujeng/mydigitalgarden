@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                      | 最後修改              |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[COMFORT\|COMFORT]]                                                                                                                 | 2025/11/24  23:43 |
 | [[REMAP\|REMAP]]                                                                                                                     | 2025/11/24  23:28 |
 | [[SPIKES\|SPIKES]]                                                                                                                   | 2025/11/24  16:42 |
 | [[BREAKS\|BREAKS]]                                                                                                                   | 2025/11/24  16:39 |
@@ -23,7 +24,6 @@
 | [[Effect size interpretation mean and variance\|效果量的解釋：平均數與變異數的差異]]                                                                  | 2025/10/21  15:52 |
 | [[Different types of Kappa values\|Different types of Kappa values]]                                                                 | 2025/10/21  15:52 |
 | [[intraclass correlation coefficient\|intraclass correlation coefficient]]                                                           | 2025/10/21  15:52 |
-| [[MedARC\|MedARC (Medical Agent Refinement & Collaboration)]]                                                                        | 2025/10/21  14:56 |
 
 { .block-language-dataview}
 
