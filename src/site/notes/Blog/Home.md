@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                                                                                      | 最後修改              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[SPIKES\|SPIKES]]                                                                                                                                                                                   | 2025/11/24  13:47 |
 | [[rouge-chinese\|rouge-chiese]]                                                                                                                                                                      | 2025/10/24  22:43 |
 | [[SBERT-based Similarity (SBERT-Sim)\|SBERT-based Similarity (SBERT-Sim)]]                                                                                                                           | 2025/10/23  23:18 |
 | [[Recall Oriented Understudy for Gisting Evaluation (ROUGE) score\|Recall Oriented Understudy for Gisting Evaluation (ROUGE) score]]                                                                 | 2025/10/21  23:28 |
@@ -23,7 +24,6 @@
 | [[Assessing the methodologic quality of systematic reviews using generative large language models\|Assessing the methodologic quality of systematic reviews using generative large language models]] | 2025/09/03  11:13 |
 | [[評分ChatGPT作為虛擬病人表現可能的面向\|評分ChatGPT作為虛擬人物表現可能的面向]]                                                                                                                                                   | 2025/08/22  10:28 |
 | [[statistics/Interater reliability\|Interater reliability]]                                                                                                                                          | 2025/08/01  22:13 |
-| [[copy table from ChatGPT to word\|複製ChatGPT產生的表格到Word]]                                                                                                                                             | 2025/08/01  00:21 |
 
 { .block-language-dataview}
 
