@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SPIKES/","title":"SPIKES","tags":["medicine","education","guideline","BBN","communication","project"],"created":"2025-11-24T13:47","updated":"2025-11-24T16:42"}
+{"dg-publish":true,"permalink":"/SPIKES/","title":"SPIKES","tags":["medicine","education","guideline","BBN","communication","project"],"created":"2025-11-24T13:47","updated":"2025-11-24T23:40"}
 ---
 
 SPIKES 協議是一個六步驟的結構化溝通策略，主要用於指導醫療專業人員如何有效地、有同理心地向病患傳達重大或「壞消息」（Breaking Bad News, BBN）。這個協助最初是針對腫瘤科醫師與病患的溝通情境所開發，但現已推廣到多個其他情境。

@@ -1,8 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/COMFORT/","title":"COMFORT","tags":["communication","project","BBN","guideline","medicine","education"],"created":"2025-11-24T23:34","updated":"2025-11-24T23:43"}
+{"dg-publish":true,"permalink":"/COMFORT/","title":"COMFORT","tags":["communication","project","BBN","guideline","medicine","education"],"created":"2025-11-24T23:34","updated":"2025-11-24T23:55"}
 ---
 
 COMFORT 模型是一個以溝通為基礎、以**動態調適**（Interaction Adaptation）為核心的溝通指引，專門用於協助臨床醫師向病患及其家屬傳達壞消息（Breaking Bad News, BBN）。
+
+動態調適理論（Interaction Adaptation Theory，IAT）解釋在兩人互動過程中，溝通事件如何演變，以及溝通雙方如何相互影響與調適。此理論為 COMFORT 溝通模型提供了基礎，強調 BBN 互動是一個動態的、互惠的過程，而非單向的資訊傳遞。
+
+IAT 的核心原則之一是相互影響（Mutual Influence）。在醫患互動中，給予者（臨床醫師）和接收者（病患）會根據接收到的語言和非語言訊息不斷地相互適應。這種適應過程產生了互惠規範（norm of reciprocity），即雙方期望在互動中獲得與付出相稱的回應。當醫師的「理想化 BBN 溝通」（即互動立場）與實際發生的互動之間差異很小時，互惠性（Reciprocity）就會發生，從而帶來更令人滿意的體驗。
+
+在IAT中，有三個條件共同影響並決定了溝通雙方的「互動立場」（Interaction Position），進而影響他們在 BBN 互動中的調適反應：
+- 要求（Requirements）： 這是互動中最重要和最具影響力的變量，基於**接收者在互動中的實際需求（needs）**。對於 BBN 而言，「必要條件」包括清晰了解診斷、治療方案，以及一系列社會心理要素。
+- 期望（Expectations）： 這是源於**醫療環境中的社會規範**。大多數病患期望獲得清晰的診斷以及關於後續照護步驟的資訊。期望可能受到病患先前經驗的影響。
+- 慾望（Desires）： 這是**溝通者希望在互動中看到的結果**，通常與社會和文化規範相關聯。例如，病患可能希望醫師在負面診斷面前仍能給予希望感，或者選擇限制討論細節的範圍。
+
+當這三者（要求、期望、慾望）結合時，即塑造了各方在 BBN 互動中的即時互動立場（Interaction Position）。
 
 ## COMFORT 溝通框架之七項核心能力
 
