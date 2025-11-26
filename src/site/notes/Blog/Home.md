@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                      | 最後修改              |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Milestones六大核心能力\|六大核心能力]]                                                                                                         | 2025/11/26  10:28 |
 | [[COMFORT\|COMFORT]]                                                                                                                 | 2025/11/24  23:55 |
 | [[BREAKS\|BREAKS]]                                                                                                                   | 2025/11/24  23:41 |
 | [[SPIKES\|SPIKES]]                                                                                                                   | 2025/11/24  23:40 |
@@ -23,7 +24,6 @@
 | [[Recall Oriented Understudy for Gisting Evaluation (ROUGE) score\|Recall Oriented Understudy for Gisting Evaluation (ROUGE) score]] | 2025/10/21  23:28 |
 | [[MedARC\|MedARC (Medical Agent Refinement & Collaboration)]]                                                                        | 2025/10/21  22:50 |
 | [[R package/data/data.table/install data.table\|如何在Mac M1上使用data.table多核運算]]                                                         | 2025/09/24  11:37 |
-| [[教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」\|教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」]]                                                                   | 2025/09/16  00:16 |
 
 { .block-language-dataview}
 
