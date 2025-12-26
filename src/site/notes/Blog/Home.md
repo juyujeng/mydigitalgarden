@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                      | 最後修改              |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[logical intuition model\|The logical intuition model]]                                                                             | 2025/12/26  11:33 |
 | [[Milestones六大核心能力\|六大核心能力]]                                                                                                         | 2025/11/26  10:36 |
 | [[COMFORT\|COMFORT]]                                                                                                                 | 2025/11/24  23:55 |
 | [[BREAKS\|BREAKS]]                                                                                                                   | 2025/11/24  23:41 |
@@ -23,7 +24,6 @@
 | [[SBERT-based Similarity (SBERT-Sim)\|SBERT-based Similarity (SBERT-Sim)]]                                                           | 2025/10/23  23:18 |
 | [[Recall Oriented Understudy for Gisting Evaluation (ROUGE) score\|Recall Oriented Understudy for Gisting Evaluation (ROUGE) score]] | 2025/10/21  23:28 |
 | [[MedARC\|MedARC (Medical Agent Refinement & Collaboration)]]                                                                        | 2025/10/21  22:50 |
-| [[R package/data/data.table/install data.table\|如何在Mac M1上使用data.table多核運算]]                                                         | 2025/09/24  11:37 |
 
 { .block-language-dataview}
 
