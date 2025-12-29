@@ -11,15 +11,16 @@
 
 **想要完整的摘要(Abstract)嗎?**
 
-- ✅ 可以!但只能選擇 **TXT純文字格式**
-- ❌ 問題是:TXT檔案無法像Excel那樣方便地檢視、篩選或標記重點
-- ❌ 所有文獻擠在一個長長的文字檔裡,要找特定資訊非常困難
+- ✅ 可以!PubMed提供多種包含摘要的格式
+	- ❌ 問題是:這些格式(如TXT、NBIB)都是純文字檔案,無法像Excel那樣方便地檢視、篩選或標記重點
+	- ❌ 所有文獻擠在一個長長的文字檔裡,要找特定資訊非常困難
+	- ❌ 即使是結構化的NBIB格式,也不易於閱讀和管理
 
 **想要方便管理的試算表格式?**
 
 - ✅ 可以!PubMed可以輸出為 **CSV格式**
-- ❌ 問題是:預設的CSV輸出**不包含摘要(Abstract)**
-- ❌ 失去了摘要,就很難快速判斷文獻是否符合需求
+	- ❌ 問題是:預設的CSV輸出**不包含摘要(Abstract)**
+	- ❌ 失去了摘要,就很難快速判斷文獻是否符合需求
 
 這就像是:
 
@@ -29,26 +30,32 @@
 **我們能否兩者兼得?** 這就是這個工具誕生的原因!
 
 ---
-
 ## 這個工具能做什麼?
 
-這個Python程式可以將PubMed的TXT格式文獻檔案,轉換成包含完整摘要的CSV試算表格式。
+這個Python程式可以將PubMed的NBIB格式文獻檔案,轉換成包含完整摘要的CSV試算表格式。
+
+### 為什麼選擇NBIB格式?
+
+NBIB (National Library of Medicine Bibliographic format) 是PubMed的標準書目格式,具有以下優勢:
+
+1. **結構化標籤**: 每個欄位都有明確的標籤識別(如 `TI -` 代表標題)
+2. **內容完整**: 包含所有文獻資訊,包括完整摘要
+3. **格式穩定**: 標準化格式,解析準確度高
 
 ### 轉換前 vs 轉換後
 
-**轉換前(TXT檔案):**
+**轉換前(.nbib檔案):**
 
 ```
-1. J Clin Med. 2019 Apr 16;8(4):522. doi: 10.3390/jcm8040522.
-
-Personalized Three-Dimensional Printed Models in Congenital Heart Disease.
-
-Sun Z(1), Lau I(2), Wong YH(3), Yeong CH(4).
-
-Author information:
-(1)Discipline of Medical Radiation Sciences...
+PMID- 29793717
+TI  - Quality assurance processes for standardized patient programs.
+AB  - OUR PROBLEM: As the pharmacy profession evolves to include non-dispensing 
+      services and collaborative care, greater emphasis is placed on communication 
+      skills building through standardized patient programs...
+AU  - Zhang S
+AU  - Soreide KK
 ...
-(整篇文獻擠在一起,難以瀏覽)
+(標籤式格式,難以快速瀏覽比較)
 ```
 
 **轉換後(CSV檔案,可用Excel開啟):**
@@ -68,13 +75,32 @@ Author information:
 
 ---
 
+## 如何從PubMed下載NBIB格式檔案?
+
+### 步驟說明
+
+1. **在PubMed搜尋文獻**
+    - 前往 [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+    - 輸入你的搜尋關鍵字
+2. **選擇要下載的文獻**
+    - 可以選擇特定文獻,或全選所有搜尋結果
+    - 點選文獻旁的核取方塊
+3. **下載NBIB格式**
+    - 點選頁面上方的 **"Send to"** 按鈕
+    - 選擇 **"Citation manager"**
+4. **檔案說明**
+    - 下載的檔案副檔名為 `.nbib`
+    - 這是純文字檔案,可用任何文字編輯器開啟
+    - 包含完整的文獻資訊,包括摘要
+
+
 ## 程式運作原理
 
 ### 簡單來說
 
 這個程式就像一個「智慧型文字解析器」,它會:
 
-1. **讀取**:打開PubMed的TXT文獻檔案
+1. **讀取**:打開PubMed的`.nbib`文獻檔案
 2. **分析**:識別每篇文獻的開始與結束
 3. **提取**:從每篇文獻中抓取重要資訊
 4. **整理**:將資訊排列成表格格式
@@ -83,84 +109,23 @@ Author information:
 ### 提取的資訊包括
 
 程式會自動提取以下13項資訊:
+NBIB使用標準化的標籤來標記不同類型的資訊:
 
-|欄位|說明|範例|
+|標籤|意義|範例|
 |---|---|---|
-|Number|文獻編號|1, 2, 3...|
-|Journal|期刊名稱|J Clin Med|
-|Year|出版年份|2019|
-|Volume|卷數|8|
-|Pages|頁碼|522|
-|DOI|數位物件識別碼|10.3390/jcm8040522|
-|Title|文獻標題|Personalized 3D Printed Models...|
-|Authors|作者名單|Sun Z, Lau I, Wong YH...|
-|Author_Affiliations|作者單位|Curtin University, Perth...|
-|**Abstract**|**摘要(重點!)**|Patient-specific 3D printed models...|
-|PMID|PubMed識別碼|30995803|
-|PMCID|PMC識別碼|PMC6517984|
-|Conflict_of_Interest|利益衝突聲明|Authors declare no conflict...|
-
----
-
-## 技術細節:程式如何運作
-
-### 第一步:分割文獻
-
-程式使用「正則表達式(Regular Expression)」來識別每篇文獻的開始位置。
-
-**識別規則**:PubMed的每篇文獻都以數字編號開頭,例如 `1.`, `2.`, `3.`
-
-```python
-# 用編號分割各篇文獻
-articles = re.split(r'\n(?=\d+\.\s)', content)
-```
-
-### 第二步:資訊提取
-
-對每篇文獻,程式會尋找特定的「關鍵字」和「格式模式」來提取資訊。
-
-#### 範例1:提取DOI
-
-```python
-# 尋找 "doi:" 後面的內容
-doi_match = re.search(r'doi:\s*(.+?)(?:\n|$)', article)
-```
-
-#### 範例2:提取標題
-
-```python
-# 標題通常在兩個空行之間
-title_match = re.search(r'\n\n(.+?)\n\n', article)
-```
-
-#### 範例3:提取摘要
-
-```python
-# 摘要位於作者資訊之後,DOI之前
-abstract_match = re.search(r'Author information:.*?\n\n(.+?)(?=\nDOI:|\nPMID:)', article)
-```
-
-### 第三步:資料清理
-
-提取的文字可能包含換行符號或多餘空格,程式會進行清理:
-
-```python
-# 將多行文字合併為一行,方便在CSV中顯示
-data['Abstract'] = abstract_text.replace('\n', ' ')
-```
-
-### 第四步:輸出CSV
-
-使用Python的`csv`模組,將整理好的資料寫入CSV檔案:
-
-```python
-with open(output_path, 'w', encoding='utf-8-sig') as f:
-    writer = csv.DictWriter(f, fieldnames=fieldnames)
-    writer.writeheader()  # 寫入欄位標題
-    writer.writerows(data)  # 寫入所有資料
-```
-
-**編碼選擇**:`utf-8-sig`確保Excel可以正確顯示中文字元。
+|PMID-|PubMed唯一識別碼|29793717|
+|TI -|標題 (Title)|Quality assurance processes...|
+|AB -|摘要 (Abstract)|OUR PROBLEM: As the pharmacy...|
+|AU -|作者 (Author)|Zhang S|
+|AD -|作者單位 (Affiliation)|University of Michigan...|
+|TA -|期刊簡稱 (Journal)|Curr Pharm Teach Learn|
+|DP -|出版日期|2018 Apr|
+|VI -|卷數 (Volume)|10|
+|IP -|期數 (Issue)|4|
+|PG -|頁碼 (Pages)|523-528|
+|PT -|出版類型|Journal Article; Review|
+|OT -|關鍵字 (Keywords)|Assessment; Communication|
+|LA -|語言|eng|
 
 ---
 
@@ -179,64 +144,43 @@ with open(output_path, 'w', encoding='utf-8-sig') as f:
 
 #### 方法A:直接執行(最簡單)
 
-1. 下載程式碼 [convert.py](https://drive.google.com/file/d/1GajIMkiF9OS4UCfSdrOL0K0ENQ_8A6qm/view?usp=sharing)
-2. 將PubMed的TXT檔案放在同一個資料夾
-3. 修改程式碼中的檔案名稱(第104-105行):
-    
-    ```python
-    input_file = "你的檔案名稱.txt"output_file = "輸出檔案名稱.csv"
-    ```
-    
+1. 將[程式碼](https://drive.google.com/file/d/1GajIMkiF9OS4UCfSdrOL0K0ENQ_8A6qm/view?usp=sharing)儲存為 `converter.py`
+2. 將NBIB檔案放在同一個資料夾
+3. 修改程式碼中的檔案名稱(第160-161行):
+
+```
+input_file = "你的檔案名稱.nbib"
+output_file = "輸出檔案名稱.csv"
+```
+
 4. 開啟命令列視窗,執行:
-    
-    ```
-    python convert.py
-    ```
-    
+
+```
+python nbib_converter.py
+```
 
 #### 方法B:在其他Python程式中呼叫
 
-```python
-from convert import convert_pubmed_to_csv
+```
+from convert import convert_nbib_to_csv
 
 # 自訂檔案名稱
-convert_pubmed_to_csv("我的文獻.txt", "結果.csv")
+convert_nbib_to_csv("我的文獻.nbib", "結果.csv")
 ```
 
 #### 方法C:批次處理多個檔案
 
-```python
-from convert import convert_pubmed_to_csv
+```
+from nbib_converter import convert_nbib_to_csv
 
 files = [
-    ("心血管文獻.txt", "心血管_結果.csv"),
-    ("神經科學文獻.txt", "神經科學_結果.csv"),
+    ("心血管文獻.nbib", "心血管_結果.csv"),
+    ("神經科學文獻.nbib", "神經科學_結果.csv"),
+    ("腫瘤學文獻.nbib", "腫瘤學_結果.csv"),
 ]
 
 for input_f, output_f in files:
-    convert_pubmed_to_csv(input_f, output_f)
+    print(f"\n處理: {input_f}")
+    convert_nbib_to_csv(input_f, output_f)
+
 ```
-
----
-
-## 常見問題
-
-### Q1:程式顯示「找不到檔案」?
-
-**答**:檢查輸入的檔案名稱是否完全正確,包括副檔名(`.txt`)和大小寫。
-
-### Q2:CSV檔案在Excel中顯示亂碼?
-
-**答**:開啟Excel後,使用「資料」→「從文字/CSV」匯入,並選擇編碼為「UTF-8」。
-
-### Q3:某些文獻的摘要沒有被提取?
-
-**答**:可能是該文獻的格式略有不同。這個程式基於常見的PubMed格式設計,少數特殊格式可能需要手動調整。
-
-### Q4:可以修改提取的欄位嗎?
-
-**答**:可以!在程式碼的第16-29行定義了所有欄位,你可以增加或刪除欄位。
-
-### Q5:能處理多大的檔案?
-
-**答**:理論上沒有限制,但建議單次處理不超過1000篇文獻,以確保效能。
