@@ -12,18 +12,18 @@
 
 ## 最近更新
 
-| 標題                                                                            | 最後修改              |
-| ----------------------------------------------------------------------------- | ----------------- |
-| [[修改NotebookLM 產生的簡報可能的解決方法\|NotebookLM 產生的簡報無法編輯？三種解決方案]]                 | 2026/01/19  13:48 |
-| [[PubMed文獻轉換工具使用說明\|PubMed文獻轉換工具使用說明]]                                     | 2025/12/26  16:34 |
-| [[logical intuition model\|The logical intuition model]]                   | 2025/12/26  11:33 |
-| [[Milestones六大核心能力\|六大核心能力]]                                               | 2025/11/26  10:36 |
-| [[COMFORT\|COMFORT]]                                                       | 2025/11/24  23:55 |
-| [[BREAKS\|BREAKS]]                                                         | 2025/11/24  23:41 |
-| [[SPIKES\|SPIKES]]                                                         | 2025/11/24  23:40 |
-| [[REMAP\|REMAP]]                                                           | 2025/11/24  23:39 |
-| [[rouge-chinese\|rouge-chiese]]                                            | 2025/10/24  22:43 |
-| [[SBERT-based Similarity (SBERT-Sim)\|SBERT-based Similarity (SBERT-Sim)]] | 2025/10/23  23:18 |
+| 標題                                                            | 最後修改              |
+| ------------------------------------------------------------- | ----------------- |
+| [[Script Concordance Test\|Script Concordance Test]]       | 2026/01/21  11:18 |
+| [[修改NotebookLM 產生的簡報可能的解決方法\|NotebookLM 產生的簡報無法編輯？三種解決方案]] | 2026/01/19  13:48 |
+| [[PubMed文獻轉換工具使用說明\|PubMed文獻轉換工具使用說明]]                     | 2025/12/26  16:34 |
+| [[logical intuition model\|The logical intuition model]]   | 2025/12/26  11:33 |
+| [[Milestones六大核心能力\|六大核心能力]]                               | 2025/11/26  10:36 |
+| [[COMFORT\|COMFORT]]                                       | 2025/11/24  23:55 |
+| [[BREAKS\|BREAKS]]                                         | 2025/11/24  23:41 |
+| [[SPIKES\|SPIKES]]                                         | 2025/11/24  23:40 |
+| [[REMAP\|REMAP]]                                           | 2025/11/24  23:39 |
+| [[rouge-chinese\|rouge-chiese]]                            | 2025/10/24  22:43 |
 
 { .block-language-dataview}
 
