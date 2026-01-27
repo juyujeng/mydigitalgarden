@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Script Concordance Test/","title":"Script Concordance Test","tags":["guideline","measurement","education","medicine","clinical_reasoning"],"created":"2026-01-21T10:08","updated":"2026-01-21T11:18"}
+{"dg-publish":true,"permalink":"/Script Concordance Test/","title":"Script Concordance Test","tags":["guideline","measurement","education","medicine","clinical_reasoning","臨床推理"],"created":"2026-01-21T10:08","updated":"2026-01-21T11:18"}
 ---
 
 
