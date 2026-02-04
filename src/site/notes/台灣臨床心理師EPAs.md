@@ -227,7 +227,7 @@
 
 ---
 
-# 核心任務整理
+# 核心能力整理
 
 ## **C**linical **p**sychological **K**nowledge 臨床心理學知識
 
