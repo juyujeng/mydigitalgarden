@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/protocol for scoping review/","title":"protocol for scoping review","tags":["guideline","review","manuscript","materials"],"created":"2026-02-05T11:28","updated":"2026-02-05T11:34"}
+{"dg-publish":true,"permalink":"/protocol for scoping review/","title":"protocol for scoping review","tags":["guideline","review","manuscript","materials"],"created":"2026-02-05T11:28","updated":"2026-02-26T11:31"}
 ---
 
 
-整理自Peters等人（2022）所撰寫的「Best practice guidance and reporting items for the development of scoping review protocols」
+## 範域文獻回顧
+
+範域文獻回顧（Scoping review）主要目標在於系統性地識別並描繪出某一特定主題、領域或概念中現有文獻的廣度與全貌，常被用來探索可用的證據類型、釐清關鍵概念或定義，以及辨識該領域的知識缺口與未來研究方向。它與系統性文獻回顧（systematic review）的差異主要體現在研究範圍與方法學要求上：系統性回顧通常針對非常精確的臨床問題（如評估特定介入措施的成效）進行探討，並致力於綜合出能直接指引臨床實務與政策決策的具體建議；相對地，範圍界定回顧的問題設定較為廣泛，重點在於描述和描繪證據的分布情況，而非單純評估成效。此外，在執行步驟上，系統性回顧必須對納入的文獻進行嚴格的方法學品質評估（偏差風險評估）與資料綜合（如統合分析），但範域文獻回顧通常不強制要求進行品質評估，也不進行統計綜合分析，而是以圖表與描述性的方式來呈現數據的整體輪廓。
+
+針對範域文獻回顧撰寫方法，以下整理自Peters等人（2022）所撰寫的「Best practice guidance and reporting items for the development of scoping review protocols」
 
 ## 研究標題 (Title)
 
@@ -41,7 +45,7 @@ PCC 框架的深度解析：
 
 背景介紹必須建立研究的「正當性」。研究者應闡述臨床或實務上的問題，並證明「為什麼這個主題需要scoping review？」。
 
-核心邏輯在於：在評估干預措施是否有效之前，必須先全面了解目前存在哪些干預措施。此外，前言應明確說明目前是否已有類似綜述。若已存在，則必須強調本研究如何擴展現有知識，以避免學術資源的浪費。
+核心邏輯在於：在評估介入/訓練方法是否有效之前，必須先全面了解目前存在哪些介入/訓練方法。此外，前言應明確說明目前是否已有類似綜述。若已存在，則必須強調本研究如何擴展現有知識，以避免學術資源的浪費。
 
 ## 納入與排除標準 (Eligibility Criteria)
 
