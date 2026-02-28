@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/REMAP/","title":"REMAP","tags":["communication","BBN","guideline","education","medicine","project"],"created":"2025-11-24T23:28","updated":"2025-11-24T23:39"}
+{"dg-publish":true,"permalink":"/REMAP/","title":"REMAP","tags":["communication","BBN","guideline","education","medicine","project"],"created":"2025-11-24T23:28","updated":"2025-11-24T23:28"}
 ---
 
 REMAP（Reframe, Expect emotion, Map out goals, Align with goals, Propose a plan）溝通框架並非完全在「壞消息告知」（Breaking Bad News, BBN）流程結束之後才開始執行，而是在特定的高難度溝通情境中，將最新的壞消息（例如治療無效或預後惡化）作為框架的第一步，並立即引導對話進入病患價值觀的釐清與照護目標（Goals of Care, GOC）的制定。

@@ -16,7 +16,7 @@
 標題命名建議清單：
 
 - 明確標註類型： 標題中必須包含 "Scoping Review"；若為計畫書階段，必須標註 "Protocol"。
-- 對齊 PCC 框架： 標題應反映研究人口 (Population)、核心概念 (Concept) 與背景環境 (Context)。
+- 使用 PCC 框架： 標題應反映研究人口 (Population)、核心概念 (Concept) 與背景環境 (Context)。
 - 術語權威性： 使用該學術領域公認的術語（例如：以 "Older adults" 取代非正式的 "Elderly"）。
 
 |          |                                     |

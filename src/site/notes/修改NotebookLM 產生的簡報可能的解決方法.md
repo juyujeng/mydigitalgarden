@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/修改NotebookLM 產生的簡報可能的解決方法/","title":"NotebookLM 產生的簡報無法編輯？三種解決方案","tags":["guideline","ai","LLMAI"],"created":"2026-01-19T13:48","updated":"2026-01-19T13:48"}
+{"dg-publish":true,"permalink":"/修改NotebookLM 產生的簡報可能的解決方法/","title":"NotebookLM 產生的簡報無法編輯？三種解決方案","tags":["guideline","ai","LLMAI"],"created":"2026-01-19T13:48","updated":"2026-01-19T13:55"}
 ---
 
 

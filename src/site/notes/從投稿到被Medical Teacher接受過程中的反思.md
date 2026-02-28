@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/從投稿到被Medical Teacher接受過程中的反思/","title":"從投稿到被Medical Teacher接受過程中的反思","tags":["guideline","manuscript","ai","chatgpt"],"created":"2025-07-04T14:01","updated":"2025-07-04T20:02"}
+{"dg-publish":true,"permalink":"/從投稿到被Medical Teacher接受過程中的反思/","title":"從投稿到被Medical Teacher接受過程中的反思","tags":["guideline","manuscript","ai","chatgpt"],"created":"2025-07-04T14:01","updated":"2025-07-04T16:43"}
 ---
 
 

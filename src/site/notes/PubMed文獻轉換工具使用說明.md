@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/PubMed文獻轉換工具使用說明/","title":"PubMed文獻轉換工具使用說明","tags":["ai","LLMAI","python","guideline"],"created":"2025-12-26T16:34","updated":"2025-12-26T16:34"}
+{"dg-publish":true,"permalink":"/PubMed文獻轉換工具使用說明/","title":"PubMed文獻轉換工具使用說明","tags":["ai","LLMAI","python","guideline"],"created":"2025-12-26T16:34","updated":"2025-12-29T11:16"}
 ---
 
 

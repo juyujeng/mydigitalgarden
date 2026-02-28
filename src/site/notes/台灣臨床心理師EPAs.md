@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/台灣臨床心理師EPAs/","title":"台灣臨床心理師EPAs","tags":["clinical_reasoning","education","medicine","psychology","guideline","臨床推理","心理師臨床推理"],"created":"2026-01-23T13:53","updated":"2026-01-27T10:02"}
+{"dg-publish":true,"permalink":"/台灣臨床心理師EPAs/","title":"台灣臨床心理師EPAs","tags":["clinical_reasoning","education","medicine","psychology","guideline","臨床推理","心理師臨床推理"],"created":"2026-01-23T13:53","updated":"2026-02-04T14:13"}
 ---
 
 

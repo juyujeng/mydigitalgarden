@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/BREAKS/","title":"BREAKS","tags":["communication","education","medicine","guideline","BBN","project"],"created":"2025-11-24T15:57","updated":"2025-11-24T23:41"}
+{"dg-publish":true,"permalink":"/BREAKS/","title":"BREAKS","tags":["communication","education","medicine","guideline","BBN","project"],"created":"2025-11-24T15:57","updated":"2025-11-24T16:39"}
 ---
 
 [[BREAKS\|BREAKS]] 協議（Protocol）是一個結構化的六步驟溝通策略，主要用於指導醫療專業人員如何有效地向病患傳遞困難或壞消息（Breaking Bad News, BBN），如同[[SPIKES\|SPIKES]]。[[BREAKS\|BREAKS]] 提供一個系統化且易於記憶的溝通策略，並強調訊息傳遞的方式能對病患產生正向或負向的治療效果。

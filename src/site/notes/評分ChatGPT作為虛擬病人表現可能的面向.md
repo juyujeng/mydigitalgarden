@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/評分ChatGPT作為虛擬病人表現可能的面向/","title":"評分ChatGPT作為虛擬人物表現可能的面向","tags":["chatgpt","ai","SP","measurement","LLMAI","guideline","virtual-patient"],"created":"2025-05-21T16:48","updated":"2025-08-22T10:28"}
+{"dg-publish":true,"permalink":"/評分ChatGPT作為虛擬病人表現可能的面向/","title":"評分ChatGPT作為虛擬人物表現可能的面向","tags":["chatgpt","ai","SP","measurement","LLMAI","guideline","virtual-patient"],"created":"2025-05-21T16:48","updated":"2025-08-25T16:14"}
 ---
 
 

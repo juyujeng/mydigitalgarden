@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/logical intuition model/","title":"The logical intuition model","tags":["reasoning","dualsystem","metacognition","cognition","thinking"],"created":"2025-12-26T11:22","updated":"2025-12-26T11:33"}
+{"dg-publish":true,"permalink":"/logical intuition model/","title":"The logical intuition model","tags":["reasoning","dualsystem","metacognition","cognition","thinking"],"created":"2025-12-26T11:22","updated":"2025-12-26T11:44"}
 ---
 
 
