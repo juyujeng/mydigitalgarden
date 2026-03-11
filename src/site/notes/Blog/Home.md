@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2025-03-11T11:18"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41"}
 ---
 
 
@@ -14,16 +14,16 @@
 
 | 標題                                                              | 最後修改              |
 | --------------------------------------------------------------- | ----------------- |
-| [[protocol for scoping review\|protocol for scoping review]] | 2026/02/26  11:31 |
-| [[台灣臨床心理師EPAs\|台灣臨床心理師EPAs]]                                 | 2026/02/04  14:13 |
-| [[回顧文章問題研究框架\|回顧文章問題研究框架]]                                   | 2026/01/30  14:43 |
-| [[key feature problem\|key-feature problem (KFP)]]           | 2026/01/27  10:36 |
-| [[Script Concordance Test\|Script Concordance Test]]         | 2026/01/27  10:03 |
-| [[修改NotebookLM 產生的簡報可能的解決方法\|NotebookLM 產生的簡報無法編輯？三種解決方案]]   | 2026/01/19  13:55 |
-| [[Krippendorff's Alpha\|Krippendorff's Alpha]]               | 2026/01/09  10:21 |
-| [[PubMed文獻轉換工具使用說明\|PubMed文獻轉換工具使用說明]]                       | 2025/12/29  11:16 |
-| [[logical intuition model\|The logical intuition model]]     | 2025/12/26  11:44 |
-| [[Milestones六大核心能力\|六大核心能力]]                                 | 2025/12/08  14:46 |
+| [[Blog/Research/Kirkpatrick model\|The Kirkpatrick Model]]   | 2026/03/11  16:46 |
+| [[protocol for scoping review\|protocol for scoping review]] | 2026/02/28  23:08 |
+| [[回顧文章問題研究框架\|回顧文章問題研究框架]]                                   | 2026/01/30  14:37 |
+| [[key feature problem\|key-feature problem (KFP)]]           | 2026/01/27  10:05 |
+| [[台灣臨床心理師EPAs\|台灣臨床心理師EPAs]]                                 | 2026/01/27  10:02 |
+| [[Script Concordance Test\|Script Concordance Test]]         | 2026/01/21  11:18 |
+| [[修改NotebookLM 產生的簡報可能的解決方法\|NotebookLM 產生的簡報無法編輯？三種解決方案]]   | 2026/01/19  13:48 |
+| [[PubMed文獻轉換工具使用說明\|PubMed文獻轉換工具使用說明]]                       | 2025/12/26  16:34 |
+| [[logical intuition model\|The logical intuition model]]     | 2025/12/26  11:33 |
+| [[Milestones六大核心能力\|六大核心能力]]                                 | 2025/11/26  10:36 |
 
 { .block-language-dataview}
 

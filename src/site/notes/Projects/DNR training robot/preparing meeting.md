@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/DNR training robot/preparing meeting/","title":"研究討論會議","tags":["DNR","project","meeting","project"],"created":"2024-11-27T15:07","updated":"2025-01-20T11:42"}
+{"dg-publish":true,"permalink":"/Projects/DNR training robot/preparing meeting/","title":"研究討論會議","tags":["DNR","project","meeting","project"],"created":"2024-11-27T15:07","updated":"2024-12-19T13:43"}
 ---
 
 - 
@@ -31,7 +31,7 @@
     - 安寧共照訓練課程中，時數1小時，包含DNR、壞消息告知、生命末期照顧議題討論
     - 預立醫療諮商訓練課程中，溝通技巧與常見問題時數1小時
     - （沒有實務演練）
-- 3. 預立醫囑諮商團隊成員人數：依諮商團隊所屬醫院而定（詳見[[#預立醫囑諮商門診團隊]]）
+- 3. 預立醫囑諮商團隊成員人數：依諮商團隊所屬醫院而定（詳見[[Projects/DNR training robot/preparing meeting#預立醫囑諮商門診團隊\|#預立醫囑諮商門診團隊]]）
     - 大醫院：3人（醫、護、心社人員）
     - 診所：2人（醫、護或心社人員）
 - 4. 一般人預先註記DNR意願書

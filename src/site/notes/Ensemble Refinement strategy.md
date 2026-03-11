@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ensemble Refinement strategy/","title":"Ensemble Refinement strategy","tags":["chatgpt","LLMAI","ai","prompt"],"created":"2025-05-02T16:11","updated":"2025-05-06T10:57"}
+{"dg-publish":true,"permalink":"/Ensemble Refinement strategy/","title":"Ensemble Refinement strategy","tags":["chatgpt","LLMAI","ai","prompt"],"created":"2025-05-02T16:11","updated":"2025-05-06T10:26"}
 ---
 
 `Ensemble Refinement`是一種兩階段推理法，結合「多樣性生成」與「答案整合」。具體來說，在第一階段，大型語言模型對同一個問題進行多次[[@work stuff/Chain-of-Thought Prompting\|chain of thought]]推理與作答，產生一組包含不同推理歷程與結果的初步回答。接著進入第二階段，這些生成結果被作為新的提示（prompt），重新輸入模型，讓模型「閱讀自己之前的思考歷程」，並在綜合各版本優缺點後產出一個新的、加強版的答案。重複這個步驟多次，獲得多次第二階段的加強版答案。最終結果為多個加強版答案的 多數決結果。這個方法不像傳統多數決只選答案，而是讓模型主動分析和整合自己的多條推理路徑，類似於「自我審閱與重構」。

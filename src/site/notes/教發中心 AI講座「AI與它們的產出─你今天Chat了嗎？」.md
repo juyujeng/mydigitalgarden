@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」/","title":"教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」","tags":["ai","chatgpt","teaching","teacher","LLMAI"],"created":"2025-09-15T22:45","updated":"2025-09-16T09:38"}
+{"dg-publish":true,"permalink":"/教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」/","title":"教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」","tags":["ai","chatgpt","teaching","teacher","LLMAI"],"created":"2025-09-15T22:45","updated":"2025-09-16T00:16"}
 ---
 
 

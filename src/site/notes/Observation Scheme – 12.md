@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Observation Scheme – 12/","title":"Observation scheme 12","tags":["communication","measurement"],"created":"2025-07-09T14:18","updated":"2025-07-09T14:47"}
+{"dg-publish":true,"permalink":"/Observation Scheme – 12/","title":"Observation scheme 12","tags":["communication","measurement"],"created":"2025-07-09T14:18","updated":"2025-07-09T14:29"}
 ---
 
 

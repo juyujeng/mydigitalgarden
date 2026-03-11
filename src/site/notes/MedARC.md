@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MedARC/","title":"MedARC (Medical Agent Refinement & Collaboration)","tags":["guideline","LLMAI","chatgpt","virtual-patient","OSCE"],"created":"2025-10-20T10:40","updated":"2025-10-21T14:56"}
+{"dg-publish":true,"permalink":"/MedARC/","title":"MedARC (Medical Agent Refinement & Collaboration)","tags":["guideline","LLMAI","chatgpt","virtual-patient","OSCE"],"created":"2025-10-20T10:40","updated":"2025-10-21T22:50"}
 ---
 
 
