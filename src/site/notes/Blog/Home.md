@@ -12,18 +12,18 @@
 
 ## 最近更新
 
-| 標題                                                                              | 最後修改              |
-| ------------------------------------------------------------------------------- | ----------------- |
-| [[Feigerlova et al 2025\|人工智慧對健康專業教育成效影響之系統性回顧]]                             | 2026/03/12  11:49 |
-| [[TAG framework of prompt engineering\|TAG framework of prompt engineering]] | 2026/03/12  10:10 |
-| [[Blog/Research/Kirkpatrick model\|The Kirkpatrick Model]]                   | 2026/03/11  16:46 |
-| [[protocol for scoping review\|protocol for scoping review]]                 | 2026/02/28  23:08 |
-| [[回顧文章問題研究框架\|回顧文章問題研究框架]]                                                   | 2026/01/30  14:37 |
-| [[key feature problem\|key-feature problem (KFP)]]                           | 2026/01/27  10:05 |
-| [[台灣臨床心理師EPAs\|台灣臨床心理師EPAs]]                                                 | 2026/01/27  10:02 |
-| [[Script Concordance Test\|Script Concordance Test]]                         | 2026/01/21  11:18 |
-| [[修改NotebookLM 產生的簡報可能的解決方法\|NotebookLM 產生的簡報無法編輯？三種解決方案]]                   | 2026/01/19  13:48 |
-| [[PubMed文獻轉換工具使用說明\|PubMed文獻轉換工具使用說明]]                                       | 2025/12/26  16:34 |
+| 標題                                                                                                                         | 最後修改              |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Seo et al 2025\|Large Language Models as Evaluators in Education: Verification of Feedback Consistency and Accuracy]] | 2026/03/16  10:56 |
+| [[Feigerlova et al 2025\|人工智慧對健康專業教育成效影響之系統性回顧]]                                                                        | 2026/03/12  11:49 |
+| [[TAG framework of prompt engineering\|TAG framework of prompt engineering]]                                            | 2026/03/12  10:10 |
+| [[Blog/Research/Kirkpatrick model\|The Kirkpatrick Model]]                                                              | 2026/03/11  16:46 |
+| [[protocol for scoping review\|protocol for scoping review]]                                                            | 2026/02/28  23:08 |
+| [[回顧文章問題研究框架\|回顧文章問題研究框架]]                                                                                              | 2026/01/30  14:37 |
+| [[key feature problem\|key-feature problem (KFP)]]                                                                      | 2026/01/27  10:05 |
+| [[台灣臨床心理師EPAs\|台灣臨床心理師EPAs]]                                                                                            | 2026/01/27  10:02 |
+| [[Script Concordance Test\|Script Concordance Test]]                                                                    | 2026/01/21  11:18 |
+| [[修改NotebookLM 產生的簡報可能的解決方法\|NotebookLM 產生的簡報無法編輯？三種解決方案]]                                                              | 2026/01/19  13:48 |
 
 { .block-language-dataview}
 
