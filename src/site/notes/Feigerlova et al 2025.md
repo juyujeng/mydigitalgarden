@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Feigerlova et al 2025/","title":"人工智慧對健康專業教育成效影響之系統性回顧","tags":["LLMAI","education","medicine","review"],"created":"2026-03-12T11:44","updated":"2026-03-12T11:49"}
+{"dg-publish":true,"permalink":"/Feigerlova et al 2025/","title":"A systematic review of the impact of artificial intelligence on educational outcomes in health professions education","tags":["LLMAI","education","medicine","review"],"created":"2026-03-12T11:44","updated":"2026-03-12T11:49"}
 ---
 
 
