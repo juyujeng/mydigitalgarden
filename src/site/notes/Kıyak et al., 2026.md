@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Kıyak et al., 2026/","title":"A systematic review of the impact of artificial intelligence on educational outcomes in health professions education","tags":["LLMAI","chatgpt","medicine","education","review/scoping_review","virtual-teacher"],"created":"2026-03-16T15:03","updated":"2026-03-16T15:21"}
+{"dg-publish":true,"permalink":"/Kıyak et al., 2026/","title":"Applications and Outcomes of Large‑Language‑Model‑Generated Feedback in Undergraduate Medical Education: A Scoping Review","tags":["LLMAI","chatgpt","medicine","education","review/scoping_review","virtual-teacher"],"created":"2026-03-16T15:03","updated":"2026-03-16T15:21"}
 ---
 
 
