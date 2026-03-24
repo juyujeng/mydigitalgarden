@@ -12,18 +12,18 @@
 
 ## 最近更新
 
-| 標題                                                                                                                                                                                                      | 最後修改              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」\|教發中心 AI講座「AI與它們的產出─你今天Chat了嗎？」]]                                                                                                                                   | 2025/09/16  00:16 |
-| [[Assessing the methodologic quality of systematic reviews using generative large language models\|Assessing the methodologic quality of systematic reviews using generative large language models]] | 2025/09/03  11:13 |
-| [[評分ChatGPT作為虛擬病人表現可能的面向\|評分ChatGPT作為虛擬人物表現可能的面向]]                                                                                                                                                   | 2025/08/22  10:28 |
-| [[statistics/Interater reliability\|Interater reliability]]                                                                                                                                          | 2025/08/01  22:13 |
-| [[copy table from ChatGPT to word\|複製ChatGPT產生的表格到Word]]                                                                                                                                             | 2025/08/01  00:21 |
-| [[MDAgents\|Medical Decision making Agents (MDAgents)]]                                                                                                                                              | 2025/07/14  10:25 |
-| [[臨床情境中的回饋方式\|臨床情境中的回饋方式]]                                                                                                                                                                           | 2025/07/11  11:45 |
-| [[Observation Scheme – 12\|Observation scheme 12]]                                                                                                                                                   | 2025/07/09  14:29 |
-| [[SET-GO\|SET-GO]]                                                                                                                                                                                   | 2025/07/09  10:29 |
-| [[Blog/Document/Whisper.cpp\|Whisper.cpp操作心得]]                                                                                                                                                       | 2025/07/08  13:37 |
+| 標題                                                                                                                                                   | 最後修改              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Kıyak et al., 2026\|Applications and Outcomes of Large‑Language‑Model‑Generated Feedback in Undergraduate Medical Education: A Scoping Review]] | 2026/03/16  15:21 |
+| [[Seo et al 2025\|Large Language Models as Evaluators in Education: Verification of Feedback Consistency and Accuracy]]                           | 2026/03/16  10:56 |
+| [[Feigerlova et al 2025\|A systematic review of the impact of artificial intelligence on educational outcomes in health professions education]]   | 2026/03/12  11:49 |
+| [[TAG framework of prompt engineering\|TAG framework of prompt engineering]]                                                                      | 2026/03/12  10:10 |
+| [[Blog/Research/Kirkpatrick model\|The Kirkpatrick Model]]                                                                                        | 2026/03/11  16:46 |
+| [[protocol for scoping review\|protocol for scoping review]]                                                                                      | 2026/02/28  23:08 |
+| [[回顧文章問題研究框架\|回顧文章問題研究框架]]                                                                                                                        | 2026/01/30  14:37 |
+| [[key feature problem\|key-feature problem (KFP)]]                                                                                                | 2026/01/27  10:05 |
+| [[台灣臨床心理師EPAs\|台灣臨床心理師EPAs]]                                                                                                                      | 2026/01/27  10:02 |
+| [[Script Concordance Test\|Script Concordance Test]]                                                                                              | 2026/01/21  11:18 |
 
 { .block-language-dataview}
 
