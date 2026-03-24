@@ -12,18 +12,18 @@
 
 ## 最近更新
 
-| 標題                                                                                                                                      | 最後修改              |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Milestones六大核心能力\|六大核心能力]]                                                                                                         | 2025/11/26  10:36 |
-| [[COMFORT\|COMFORT]]                                                                                                                 | 2025/11/24  23:55 |
-| [[BREAKS\|BREAKS]]                                                                                                                   | 2025/11/24  23:41 |
-| [[SPIKES\|SPIKES]]                                                                                                                   | 2025/11/24  23:40 |
-| [[REMAP\|REMAP]]                                                                                                                     | 2025/11/24  23:39 |
-| [[rouge-chinese\|rouge-chiese]]                                                                                                      | 2025/10/24  22:43 |
-| [[SBERT-based Similarity (SBERT-Sim)\|SBERT-based Similarity (SBERT-Sim)]]                                                           | 2025/10/23  23:18 |
-| [[Recall Oriented Understudy for Gisting Evaluation (ROUGE) score\|Recall Oriented Understudy for Gisting Evaluation (ROUGE) score]] | 2025/10/21  23:28 |
-| [[MedARC\|MedARC (Medical Agent Refinement & Collaboration)]]                                                                        | 2025/10/21  22:50 |
-| [[R package/data/data.table/install data.table\|如何在Mac M1上使用data.table多核運算]]                                                         | 2025/09/24  11:37 |
+| 標題                                                                                                                                                   | 最後修改              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Kıyak et al., 2026\|Applications and Outcomes of Large‑Language‑Model‑Generated Feedback in Undergraduate Medical Education: A Scoping Review]] | 2026/03/16  15:21 |
+| [[Seo et al 2025\|Large Language Models as Evaluators in Education: Verification of Feedback Consistency and Accuracy]]                           | 2026/03/16  10:56 |
+| [[Feigerlova et al 2025\|A systematic review of the impact of artificial intelligence on educational outcomes in health professions education]]   | 2026/03/12  11:49 |
+| [[TAG framework of prompt engineering\|TAG framework of prompt engineering]]                                                                      | 2026/03/12  10:10 |
+| [[Blog/Research/Kirkpatrick model\|The Kirkpatrick Model]]                                                                                        | 2026/03/11  16:46 |
+| [[protocol for scoping review\|protocol for scoping review]]                                                                                      | 2026/02/28  23:08 |
+| [[回顧文章問題研究框架\|回顧文章問題研究框架]]                                                                                                                        | 2026/01/30  14:37 |
+| [[key feature problem\|key-feature problem (KFP)]]                                                                                                | 2026/01/27  10:05 |
+| [[台灣臨床心理師EPAs\|台灣臨床心理師EPAs]]                                                                                                                      | 2026/01/27  10:02 |
+| [[Script Concordance Test\|Script Concordance Test]]                                                                                              | 2026/01/21  11:18 |
 
 { .block-language-dataview}
 
