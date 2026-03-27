@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Life/ChatGPT可以幫我改code/","title":"ChatGPT可以幫我改code，但是我得先發現問題出在哪裡","tags":["blog","ai","webpage","coding"],"created":"2023-02-24","updated":"2023-02-25T10:57"}
+{"dg-publish":true,"permalink":"/Blog/Life/ChatGPT可以幫我改code/","title":"ChatGPT可以幫我改code，但是我得先發現問題出在哪裡","tags":["blog","ai","webpage","coding"],"created":"2023-02-24","updated":"2023-02-25T10:57","dg-note-properties":{"title":"ChatGPT可以幫我改code，但是我得先發現問題出在哪裡","author":"Ju","tags":["blog","ai","webpage","coding"],"categories":["blog","life"],"date":"2023-02-24","summary":null,"lastmod":"2023-02-25T10:57"}}
 ---
 
 

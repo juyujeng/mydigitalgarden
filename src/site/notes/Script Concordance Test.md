@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Script Concordance Test/","title":"Script Concordance Test","tags":["guideline","measurement","education","medicine","clinical_reasoning","臨床推理"],"created":"2026-01-21T10:08","updated":"2026-01-21T11:18"}
+{"dg-publish":true,"permalink":"/Script Concordance Test/","title":"Script Concordance Test","tags":["guideline","measurement","education","medicine","clinical_reasoning","臨床推理"],"created":"2026-01-21T10:08","updated":"2026-01-21T11:18","dg-note-properties":{"date":"2026-01-21T10:08","lastmod":"2026-01-21T11:18","aliases":["Script Concordance Test","腳本一致性測驗","SCT"],"tags":["guideline","measurement","education","medicine","clinical_reasoning","臨床推理"],"title":"Script Concordance Test"}}
 ---
 
 

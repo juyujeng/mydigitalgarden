@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Digest_index/","title":"Digest index","tags":["blog"],"created":"2023-02-17","updated":"2024-04-09T23:32"}
+{"dg-publish":true,"permalink":"/Blog/Digest_index/","title":"Digest index","tags":["blog"],"created":"2023-02-17","updated":"2024-04-09T23:32","dg-note-properties":{"title":"Digest index","author":"Ju","tags":["blog"],"categories":["blog","site"],"date":"2023-02-17","lastmod":"2024-04-09T23:32"}}
 ---
 
 

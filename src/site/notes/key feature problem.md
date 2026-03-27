@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/key feature problem/","title":"key-feature problem (KFP)","tags":["臨床推理","guideline","measurement","education","clinical_reasoning","medicine"],"created":"2026-01-27T10:05","updated":"2026-01-27T10:05"}
+{"dg-publish":true,"permalink":"/key feature problem/","title":"key-feature problem (KFP)","tags":["臨床推理","guideline","measurement","education","clinical_reasoning","medicine"],"created":"2026-01-27T10:05","updated":"2026-01-27T10:05","dg-note-properties":{"title":"key-feature problem (KFP)","lastmod":"2026-01-27T10:05","date":"2026-01-27T10:05","tags":["臨床推理","guideline","measurement","education","clinical_reasoning","medicine"],"aliases":["KFP","key-feature problem"]}}
 ---
 
 

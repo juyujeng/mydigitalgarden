@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MDAgents/","title":"Medical Decision making Agents (MDAgents)","tags":["ai","chatgpt","LLMAI","medicine","education"],"created":"2025-07-14T09:36","updated":"2025-07-14T10:25"}
+{"dg-publish":true,"permalink":"/MDAgents/","title":"Medical Decision making Agents (MDAgents)","tags":["ai","chatgpt","LLMAI","medicine","education"],"created":"2025-07-14T09:36","updated":"2025-07-14T10:25","dg-note-properties":{"date":"2025-07-14T09:36","lastmod":"2025-07-14T10:25","title":"Medical Decision making Agents (MDAgents)","author":"Ju","tags":["ai","chatgpt","LLMAI","medicine","education"]}}
 ---
 
 

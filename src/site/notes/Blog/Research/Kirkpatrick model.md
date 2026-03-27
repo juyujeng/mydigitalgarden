@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/Kirkpatrick model/","title":"The Kirkpatrick Model","tags":["blog","intervention","terms","measurement","education"],"created":"2022-08-18T19:10","updated":"2026-03-11T16:46"}
+{"dg-publish":true,"permalink":"/Blog/Research/Kirkpatrick model/","title":"The Kirkpatrick Model","tags":["blog","intervention","terms","measurement","education"],"created":"2022-08-18T19:10","updated":"2026-03-11T16:46","dg-note-properties":{"title":"The Kirkpatrick Model","author":"Ju","tags":["blog","intervention","terms","measurement","education"],"category":null,"creation date":"2022-02-16 13:33","date":"2022-08-18T19:10","lastmod":"2026-03-11T16:46"}}
 ---
 
 

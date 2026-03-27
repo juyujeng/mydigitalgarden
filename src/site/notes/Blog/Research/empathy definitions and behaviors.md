@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/empathy definitions and behaviors/","title":"同理心的複雜定義以及同理行為","tags":["blog","empathy/model","terms"],"created":"2021-12-17","updated":"2023-02-22T12:34"}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy definitions and behaviors/","title":"同理心的複雜定義以及同理行為","tags":["blog","empathy/model","terms"],"created":"2021-12-17","updated":"2023-02-22T12:34","dg-note-properties":{"title":"同理心的複雜定義以及同理行為","author":"Ju","tags":["blog","empathy/model","terms"],"category":null,"date":"2021-12-17","date updated":"2021-12-17","lastmod":"2023-02-22T12:34"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/CommGPT/my gpt sp template new/","title":"最新版標準病人設定模板","tags":["chatgpt","ai","communication","prompt"],"created":"2024-02-29T09:56","updated":"2024-05-06T10:53"}
+{"dg-publish":true,"permalink":"/Projects/CommGPT/my gpt sp template new/","title":"最新版標準病人設定模板","tags":["chatgpt","ai","communication","prompt"],"created":"2024-02-29T09:56","updated":"2024-05-06T10:53","dg-note-properties":{"title":"最新版標準病人設定模板","author":"Ju","version":1,"date":"2024-02-29T09:56","lastmod":"2024-05-06T10:53","tags":["chatgpt","ai","communication","prompt"],"based":"[[My GPT SP template old versions]]","phase":"building"}}
 ---
 
 

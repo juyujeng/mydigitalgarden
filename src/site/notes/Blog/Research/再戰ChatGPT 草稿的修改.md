@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/再戰ChatGPT 草稿的修改/","title":"再戰ChatGPT：草稿的修改","tags":["blog","ai","chatgpt"],"created":"2023-02-21","updated":"2023-02-21T16:34"}
+{"dg-publish":true,"permalink":"/Blog/Research/再戰ChatGPT 草稿的修改/","title":"再戰ChatGPT：草稿的修改","tags":["blog","ai","chatgpt"],"created":"2023-02-21","updated":"2023-02-21T16:34","dg-note-properties":{"title":"再戰ChatGPT：草稿的修改","author":"Ju","tags":["blog","ai","chatgpt"],"categories":["blog","research"],"date":"2023-02-21","summary":null,"ShowToc":true,"TocOpen":true,"mathjax":false,"lastmod":"2023-02-21T16:34"}}
 ---
 
 

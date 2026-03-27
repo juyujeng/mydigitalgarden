@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Guidelines/TTS tools/","title":"文字轉語音工具","tags":["TTS","ai","guideline"],"created":"2025-05-22T22:05","updated":"2025-05-27T22:24"}
+{"dg-publish":true,"permalink":"/Guidelines/TTS tools/","title":"文字轉語音工具","tags":["TTS","ai","guideline"],"created":"2025-05-22T22:05","updated":"2025-05-27T22:24","dg-note-properties":{"date":"2025-05-22T22:05","lastmod":"2025-05-27T22:24","title":"文字轉語音工具","author":"Ju","tags":["TTS","ai","guideline"],"aliases":["TTS","文字轉語音"]}}
 ---
 
 比較並試用幾個常見的文字轉語音（text-to-speech，TTS）的線上服務或單機開源工具。

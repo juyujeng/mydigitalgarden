@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/The Empathy Cycle/","title":"The Empathy Cycle","tags":["blog","empathy"],"created":"2023-01-11","updated":"2023-02-16T22:36"}
+{"dg-publish":true,"permalink":"/Blog/Research/The Empathy Cycle/","title":"The Empathy Cycle","tags":["blog","empathy"],"created":"2023-01-11","updated":"2023-02-16T22:36","dg-note-properties":{"title":"The Empathy Cycle","author":"Ju","tags":["blog","empathy"],"categories":"blog","date":"2023-01-11","summary":null,"ShowToc":true,"TocOpen":true,"mathjax":false,"lastmod":"2023-02-16T22:36"}}
 ---
 
 

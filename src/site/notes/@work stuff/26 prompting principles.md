@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/@work stuff/26 prompting principles/","title":"26 prompting principles","tags":["blog","ai","chatgpt","prompt","guideline"],"created":"2024-01-09","updated":"2024-01-16T14:40"}
+{"dg-publish":true,"permalink":"/@work stuff/26 prompting principles/","title":"26 prompting principles","tags":["blog","ai","chatgpt","prompt","guideline"],"created":"2024-01-09","updated":"2024-01-16T14:40","dg-note-properties":{"title":"26 prompting principles","author":"Ju","aliases":null,"tags":["blog","ai","chatgpt","prompt","guideline"],"categories":["research","references","note"],"date":"2024-01-09","lastmod":"2024-01-16T14:40"}}
 ---
 
 

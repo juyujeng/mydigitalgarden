@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/Content Validity Index/","title":"Content Validity Index","tags":["blog","guideline","validity"],"created":"2023-08-24","updated":"2023-08-24T11:23"}
+{"dg-publish":true,"permalink":"/Blog/Document/Content Validity Index/","title":"Content Validity Index","tags":["blog","guideline","validity"],"created":"2023-08-24","updated":"2023-08-24T11:23","dg-note-properties":{"title":"Content Validity Index","author":"Ju","aliases":"CVI","tags":["blog","guideline","validity"],"categories":["blog","document"],"date":"2023-08-24","lastmod":"2023-08-24T11:23"}}
 ---
 
 

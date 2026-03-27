@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/untrained, pretrained, trained model of large language model/","title":"untrained, pretrained, trained model of large language model","tags":["chatgpt","LLMAI"],"created":"2025-02-17T10:11","updated":"2025-02-17T10:25"}
+{"dg-publish":true,"permalink":"/untrained, pretrained, trained model of large language model/","title":"untrained, pretrained, trained model of large language model","tags":["chatgpt","LLMAI"],"created":"2025-02-17T10:11","updated":"2025-02-17T10:25","dg-note-properties":{"date":"2025-02-17T10:11","lastmod":"2025-02-17T10:25","title":"untrained, pretrained, trained model of large language model","author":"Ju","tags":["chatgpt","LLMAI"],"categories":["note"]}}
 ---
 
 

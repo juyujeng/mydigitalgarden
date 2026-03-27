@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/self evaluated 8 core abilities/","title":"2024 8大能力自評","tags":["research","self-rated","隨筆"],"created":"2024-10-21T16:57","updated":"2024-10-29T14:13"}
+{"dg-publish":true,"permalink":"/self evaluated 8 core abilities/","title":"2024 8大能力自評","tags":["research","self-rated","隨筆"],"created":"2024-10-21T16:57","updated":"2024-10-29T14:13","dg-note-properties":{"date":"2024-10-21T16:57","lastmod":"2024-10-29T14:13","title":"2024 8大能力自評","author":"Ju","tags":["research","self-rated","隨筆"]}}
 ---
 
 

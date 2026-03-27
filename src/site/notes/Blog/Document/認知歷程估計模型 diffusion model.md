@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/認知歷程估計模型 diffusion model/","title":"認知歷程估計模型 diffusion model","tags":["blog","psychology","method","guideline"],"created":"2021-12-03","updated":"2023-02-16T22:24"}
+{"dg-publish":true,"permalink":"/Blog/Document/認知歷程估計模型 diffusion model/","title":"認知歷程估計模型 diffusion model","tags":["blog","psychology","method","guideline"],"created":"2021-12-03","updated":"2023-02-16T22:24","dg-note-properties":{"title":"認知歷程估計模型 diffusion model","author":"Ju","tags":["blog","psychology","method","guideline"],"categories":"document","date":"2021-12-03","mathjax":true,"lastmod":"2023-02-16T22:24"}}
 ---
 
 

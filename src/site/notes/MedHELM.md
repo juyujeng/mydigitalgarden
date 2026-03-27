@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MedHELM/","title":"Holistic Evaluation of Large Language Models for Medical Tasks (MedHELM)","tags":["terms","chatgpt","LLMAI","ai","guideline"],"created":"2025-06-20T16:11","updated":"2025-06-20T16:42"}
+{"dg-publish":true,"permalink":"/MedHELM/","title":"Holistic Evaluation of Large Language Models for Medical Tasks (MedHELM)","tags":["terms","chatgpt","LLMAI","ai","guideline"],"created":"2025-06-20T16:11","updated":"2025-06-20T16:42","dg-note-properties":{"date":"2025-06-20T16:11","lastmod":"2025-06-20T16:42","title":"Holistic Evaluation of Large Language Models for Medical Tasks (MedHELM)","author":"Ju","tags":["terms","chatgpt","LLMAI","ai","guideline"]}}
 ---
 
 

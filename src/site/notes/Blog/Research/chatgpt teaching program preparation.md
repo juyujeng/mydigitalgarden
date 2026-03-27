@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/chatgpt teaching program preparation/","title":"ChatGPT 核心功能操作教學準備分工","tags":["blog","work","chatgpt","teaching"],"created":"2023-09-07","updated":"2023-09-10T21:52"}
+{"dg-publish":true,"permalink":"/Blog/Research/chatgpt teaching program preparation/","title":"ChatGPT 核心功能操作教學準備分工","tags":["blog","work","chatgpt","teaching"],"created":"2023-09-07","updated":"2023-09-10T21:52","dg-note-properties":{"title":"ChatGPT 核心功能操作教學準備分工","author":"Ju","aliases":[],"tags":["blog","work","chatgpt","teaching"],"categories":["blog","research"],"date":"2023-09-07","lastmod":"2023-09-10T21:52"}}
 ---
 
 ChatGPT各核心功能操作教學準備分工，2週後討論，先準備4 ~ 10張投影片。需有操作之範例。

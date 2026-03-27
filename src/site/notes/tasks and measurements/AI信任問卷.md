@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tasks and measurements/AI信任問卷/","title":"Attitude Towards Artificial Intelligence","tags":["ai","measurement","實驗材料"],"created":"2023-09-14T15:06","updated":"2024-02-19T17:02"}
+{"dg-publish":true,"permalink":"/tasks and measurements/AI信任問卷/","title":"Attitude Towards Artificial Intelligence","tags":["ai","measurement","實驗材料"],"created":"2023-09-14T15:06","updated":"2024-02-19T17:02","dg-note-properties":{"date":"2023-09-14T15:06","lastmod":"2024-02-19T17:02","title":"Attitude Towards Artificial Intelligence","aliases":["ATAI","AI信任問卷"],"tags":["ai","measurement","實驗材料"],"categories":["research","note"]}}
 ---
 
 

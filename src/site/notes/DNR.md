@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DNR/","title":"不施予心肺復甦術（do not resuscitation，DNR）","tags":["ai","chatgpt","note","manuscript"],"created":"2024-04-02T15:44","updated":"2024-04-03T13:52"}
+{"dg-publish":true,"permalink":"/DNR/","title":"不施予心肺復甦術（do not resuscitation，DNR）","tags":["ai","chatgpt","note","manuscript"],"created":"2024-04-02T15:44","updated":"2024-04-03T13:52","dg-note-properties":{"date":"2024-04-02T15:44","lastmod":"2024-04-03T13:52","title":"不施予心肺復甦術（do not resuscitation，DNR）","aliases":["不施予心肺復甦術","DNR","do not resuscitation"],"author":"Ju","tags":["ai","chatgpt","note","manuscript"],"categories":["research"]}}
 ---
 
 

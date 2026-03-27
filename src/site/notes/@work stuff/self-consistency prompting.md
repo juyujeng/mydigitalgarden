@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/@work stuff/self-consistency prompting/","title":"self-consistency prompting","tags":["chatgpt","ai","prompt"],"created":"2024-02-01T10:52","updated":"2024-02-01T14:47"}
+{"dg-publish":true,"permalink":"/@work stuff/self-consistency prompting/","title":"self-consistency prompting","tags":["chatgpt","ai","prompt"],"created":"2024-02-01T10:52","updated":"2024-02-01T14:47","dg-note-properties":{"date":"2024-02-01T10:52","lastmod":"2024-02-01T14:47","title":"self-consistency prompting","author":"Ju","tags":["chatgpt","ai","prompt"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Life/bump red light/","title":"闖紅燈","tags":["blog"],"created":"2022-10-19","updated":"2023-02-16T22:30"}
+{"dg-publish":true,"permalink":"/Blog/Life/bump red light/","title":"闖紅燈","tags":["blog"],"created":"2022-10-19","updated":"2023-02-16T22:30","dg-note-properties":{"title":"闖紅燈","author":"Ju","tags":["blog"],"categories":["blog","life"],"date":"2022-10-19","summary":null,"ShowToc":true,"TocOpen":true,"mathjax":false,"lastmod":"2023-02-16T22:30"}}
 ---
 
 

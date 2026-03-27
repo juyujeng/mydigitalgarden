@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy/","title":"Bloom's Taxonomy","tags":["learning","training","course"],"created":"2024-12-25T15:34","updated":"2024-12-25T16:33"}
+{"dg-publish":true,"permalink":"/@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy/","title":"Bloom's Taxonomy","tags":["learning","training","course"],"created":"2024-12-25T15:34","updated":"2024-12-25T16:33","dg-note-properties":{"date":"2024-12-25T15:34","lastmod":"2024-12-25T16:33","title":"Bloom's Taxonomy","author":"Ju","tags":["learning","training","course"]}}
 ---
 
 

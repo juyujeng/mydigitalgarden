@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tasks and measurements/gkcsaf/","title":"Gap–Kalamazoo communication skills assessment form","tags":["communication","measurement","assessment"],"created":"2024-05-31T10:11","updated":"2024-05-31T14:55"}
+{"dg-publish":true,"permalink":"/tasks and measurements/gkcsaf/","title":"Gap–Kalamazoo communication skills assessment form","tags":["communication","measurement","assessment"],"created":"2024-05-31T10:11","updated":"2024-05-31T14:55","dg-note-properties":{"title":"Gap–Kalamazoo communication skills assessment form","author":"Ju","aliases":["GKCSAF"],"tags":["communication","measurement","assessment"],"date":"2024-05-31T10:11","lastmod":"2024-05-31T14:55"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/potential empathic opportunities/","title":"可能的同理情境","tags":["empathy/course","ideas"],"created":"2022-01-26","updated":"2023-02-22T12:33"}
+{"dg-publish":true,"permalink":"/Blog/Research/potential empathic opportunities/","title":"可能的同理情境","tags":["empathy/course","ideas"],"created":"2022-01-26","updated":"2023-02-22T12:33","dg-note-properties":{"title":"可能的同理情境","tags":["empathy/course","ideas"],"category":"note","date":"2022-01-26","lastmod":"2023-02-22T12:33"}}
 ---
 
 

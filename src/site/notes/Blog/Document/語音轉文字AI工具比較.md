@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/語音轉文字AI工具比較/","title":"雅婷逐字稿 vs. Whisper.cpp","tags":["blog","ai","text"],"created":"2023-03-28T00:00:00.000Z","updated":"2024-06-14T14:23"}
+{"dg-publish":true,"permalink":"/Blog/Document/語音轉文字AI工具比較/","title":"雅婷逐字稿 vs. Whisper.cpp","tags":["blog","ai","text"],"created":"2023-03-28T00:00:00.000Z","updated":"2024-06-14T14:23","dg-note-properties":{"title":"雅婷逐字稿 vs. Whisper.cpp","author":"Ju","aliases":null,"tags":["blog","ai","text"],"categories":["blog","document"],"date":"2023-03-28T00:00:00.000Z","lastmod":"2024-06-14T14:23"}}
 ---
 
 

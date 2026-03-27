@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/PEDro/PEDro ai instruction 9/","title":"使用chain of thought","created":"2024-06-24T10:18","updated":"2024-07-17T09:57"}
+{"dg-publish":true,"permalink":"/Projects/PEDro/PEDro ai instruction 9/","title":"使用chain of thought","created":"2024-06-24T10:18","updated":"2024-07-17T09:57","dg-note-properties":{"title":"使用chain of thought","date":"2024-06-24T10:18","lastmod":"2024-07-17T09:57","aliases":["使用CoT"]}}
 ---
 
 

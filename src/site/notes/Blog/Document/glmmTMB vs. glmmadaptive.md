@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/glmmTMB vs. glmmadaptive/","title":"glmmTMB vs. GLMMadaptive","tags":["blog","R/packages"],"created":"2022-08-31T00:00:00.000Z","updated":"2023-04-11T00:38"}
+{"dg-publish":true,"permalink":"/Blog/Document/glmmTMB vs. glmmadaptive/","title":"glmmTMB vs. GLMMadaptive","tags":["blog","R/packages"],"created":"2022-08-31T00:00:00.000Z","updated":"2023-04-11T00:38","dg-note-properties":{"title":"glmmTMB vs. GLMMadaptive","author":"Ju","tags":["blog","R/packages"],"category":"document","date":"2022-08-31T00:00:00.000Z","date updated":"2022-08-31 10:34","lastmod":"2023-04-11T00:38"}}
 ---
 
 

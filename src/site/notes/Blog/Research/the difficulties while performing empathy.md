@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/the difficulties while performing empathy/","title":"同理的困難","tags":["blog","empathy"],"created":"2022-09-14","updated":"2023-02-16T22:36"}
+{"dg-publish":true,"permalink":"/Blog/Research/the difficulties while performing empathy/","title":"同理的困難","tags":["blog","empathy"],"created":"2022-09-14","updated":"2023-02-16T22:36","dg-note-properties":{"title":"同理的困難","author":"Ju","tags":["blog","empathy"],"categories":"blog","date":"2022-09-14","lastmod":"2023-02-16T22:36"}}
 ---
 
 

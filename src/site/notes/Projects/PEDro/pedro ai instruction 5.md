@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/PEDro/pedro ai instruction 5/","title":"PEDro AI rater instruction (邏輯判斷式)","tags":["guideline","ai","chatgpt"],"created":"2024-06-14T23:06","updated":"2024-06-24T15:41"}
+{"dg-publish":true,"permalink":"/Projects/PEDro/pedro ai instruction 5/","title":"PEDro AI rater instruction (邏輯判斷式)","tags":["guideline","ai","chatgpt"],"created":"2024-06-14T23:06","updated":"2024-06-24T15:41","dg-note-properties":{"title":"PEDro AI rater instruction (邏輯判斷式)","author":"Ju","tags":["guideline","ai","chatgpt"],"date":"2024-06-14T23:06","lastmod":"2024-06-24T15:41"}}
 ---
 
 

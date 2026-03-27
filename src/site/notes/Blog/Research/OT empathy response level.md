@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/OT empathy response level/","title":"同理回應等級","created":"2022-11-16","updated":"2023-02-22T12:31"}
+{"dg-publish":true,"permalink":"/Blog/Research/OT empathy response level/","title":"同理回應等級","created":"2022-11-16","updated":"2023-02-22T12:31","dg-note-properties":{"title":"同理回應等級","author":"Ju","date":"2022-11-16","summary":null,"draft":false,"ShowToc":true,"TocOpen":true,"mathjax":false,"cover":{"image":"https://juyujeng.github.io/researchlife/blog/research/images/OTresponselevel.png"},"lastmod":"2023-02-22T12:31"}}
 ---
 
 

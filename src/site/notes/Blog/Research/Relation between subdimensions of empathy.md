@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/Relation between subdimensions of empathy/","title":"Relation between subdimensions of empathy","tags":["blog","empathy"],"created":"2022-09-23T00:00:00.000Z","updated":"2023-02-16T23:24"}
+{"dg-publish":true,"permalink":"/Blog/Research/Relation between subdimensions of empathy/","title":"Relation between subdimensions of empathy","tags":["blog","empathy"],"created":"2022-09-23T00:00:00.000Z","updated":"2023-02-16T23:24","dg-note-properties":{"title":"Relation between subdimensions of empathy","aliases":"同理心各次向度間的關係","author":"Ju","tags":["blog","empathy"],"categories":"blog","date":"2022-09-23T00:00:00.000Z","math":false,"lastmod":"2023-02-16T23:24"}}
 ---
 
 

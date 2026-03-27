@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Seo et al 2025/","title":"Large Language Models as Evaluators in Education: Verification of Feedback Consistency and Accuracy","tags":["LLMAI","guideline","education","virtual-teacher","chatgpt"],"created":"2026-03-16T10:56","updated":"2026-03-16T10:56"}
+{"dg-publish":true,"permalink":"/Seo et al 2025/","title":"Large Language Models as Evaluators in Education: Verification of Feedback Consistency and Accuracy","tags":["LLMAI","guideline","education","virtual-teacher","chatgpt"],"created":"2026-03-16T10:56","updated":"2026-03-16T10:56","dg-note-properties":{"date":"2026-03-16T10:56","lastmod":"2026-03-16T10:56","title":"Large Language Models as Evaluators in Education: Verification of Feedback Consistency and Accuracy","tags":["LLMAI","guideline","education","virtual-teacher","chatgpt"],"aliases":["Seo et al., 2025"]}}
 ---
 
    

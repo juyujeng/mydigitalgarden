@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/empathy definition for OT training/","title":"文獻中醫病關係中的同理心定義","tags":["blog","empathy/course","terms"],"created":"2023-01-10T00:00:00.000Z","updated":"2023-04-13T22:17"}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy definition for OT training/","title":"文獻中醫病關係中的同理心定義","tags":["blog","empathy/course","terms"],"created":"2023-01-10T00:00:00.000Z","updated":"2023-04-13T22:17","dg-note-properties":{"title":"文獻中醫病關係中的同理心定義","author":"Ju","tags":["blog","empathy/course","terms"],"categories":["blog","research"],"date":"2023-01-10T00:00:00.000Z","summary":null,"lastmod":"2023-04-13T22:17"}}
 ---
 
 

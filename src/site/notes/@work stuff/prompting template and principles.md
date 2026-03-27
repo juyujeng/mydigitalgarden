@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/@work stuff/prompting template and principles/","title":"prompting 模板與原則","tags":["ai","chatgpt","prompt","course","training"],"created":"2024-01-15T22:44","updated":"2024-02-20T14:58"}
+{"dg-publish":true,"permalink":"/@work stuff/prompting template and principles/","title":"prompting 模板與原則","tags":["ai","chatgpt","prompt","course","training"],"created":"2024-01-15T22:44","updated":"2024-02-20T14:58","dg-note-properties":{"title":"prompting 模板與原則","author":"Ju","date":"2024-01-15T22:44","lastmod":"2024-02-20T14:58","tags":["ai","chatgpt","prompt","course","training"],"categories":["note","research"]}}
 ---
 
 

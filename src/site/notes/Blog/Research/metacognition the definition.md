@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/metacognition the definition/","title":"metacognition: the definitions","tags":["blog","metacognition","ideas","terms"],"created":"2021-11-19","updated":"2023-02-16T22:36"}
+{"dg-publish":true,"permalink":"/Blog/Research/metacognition the definition/","title":"metacognition: the definitions","tags":["blog","metacognition","ideas","terms"],"created":"2021-11-19","updated":"2023-02-16T22:36","dg-note-properties":{"title":"metacognition: the definitions","tags":["blog","metacognition","ideas","terms"],"date":"2021-11-19","lastmod":"2023-02-16T22:36"}}
 ---
 
 

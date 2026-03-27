@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/使用AI進行會議紀錄/","title":"使用AI進行會議紀錄","tags":["blog","ai","chatgpt"],"created":"2023-03-06T00:00:00.000Z","updated":"2023-03-07T15:04"}
+{"dg-publish":true,"permalink":"/Blog/Research/使用AI進行會議紀錄/","title":"使用AI進行會議紀錄","tags":["blog","ai","chatgpt"],"created":"2023-03-06T00:00:00.000Z","updated":"2023-03-07T15:04","dg-note-properties":{"title":"使用AI進行會議紀錄","author":"Ju","tags":["blog","ai","chatgpt"],"categories":["blog","research"],"date":"2023-03-06T00:00:00.000Z","summary":null,"lastmod":"2023-03-07T15:04"}}
 ---
 
 

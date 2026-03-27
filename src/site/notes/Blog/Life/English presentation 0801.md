@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Life/English presentation 0801/","title":"英文口說練習迴饋紀錄與心得 0801","tags":["english","presentation","blog"],"created":"2022-08-01","updated":"2023-02-16T22:31"}
+{"dg-publish":true,"permalink":"/Blog/Life/English presentation 0801/","title":"英文口說練習迴饋紀錄與心得 0801","tags":["english","presentation","blog"],"created":"2022-08-01","updated":"2023-02-16T22:31","dg-note-properties":{"title":"英文口說練習迴饋紀錄與心得 0801","tags":["english","presentation","blog"],"categories":"life","date":"2022-08-01","date updated":"2022-08-01 15:08","lastmod":"2023-02-16T22:31"}}
 ---
 
 

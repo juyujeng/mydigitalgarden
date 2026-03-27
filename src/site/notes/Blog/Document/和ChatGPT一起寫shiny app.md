@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/和ChatGPT一起寫shiny app/","title":"和ChatGPT一起寫shiny app","tags":["chatgpt","note","blog","R","shiny","research"],"created":"2024-10-31T13:28","updated":"2024-10-31T16:35"}
+{"dg-publish":true,"permalink":"/Blog/Document/和ChatGPT一起寫shiny app/","title":"和ChatGPT一起寫shiny app","tags":["chatgpt","note","blog","R","shiny","research"],"created":"2024-10-31T13:28","updated":"2024-10-31T16:35","dg-note-properties":{"date":"2024-10-31T13:28","lastmod":"2024-10-31T16:35","title":"和ChatGPT一起寫shiny app","author":"Ju","tags":["chatgpt","note","blog","R","shiny","research"],"categories":["blog","document"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document_index/","title":"Document index","tags":["blog"],"created":"2023-02-17","updated":"2024-04-09T23:33"}
+{"dg-publish":true,"permalink":"/Blog/Document_index/","title":"Document index","tags":["blog"],"created":"2023-02-17","updated":"2024-04-09T23:33","dg-note-properties":{"title":"Document index","author":"Ju","tags":["blog"],"categories":"blog, site","date":"2023-02-17","summary":null,"ShowToc":true,"TocOpen":true,"mathjax":false,"lastmod":"2024-04-09T23:33"}}
 ---
 
 

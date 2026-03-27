@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/Whisper.cpp/","title":"Whisper.cpp操作心得","tags":["ai","guideline","research","method"],"created":"2024-06-14T14:20","updated":"2025-07-08T13:37"}
+{"dg-publish":true,"permalink":"/Blog/Document/Whisper.cpp/","title":"Whisper.cpp操作心得","tags":["ai","guideline","research","method"],"created":"2024-06-14T14:20","updated":"2025-07-08T13:37","dg-note-properties":{"title":"Whisper.cpp操作心得","date":"2024-06-14T14:20","lastmod":"2025-07-08T13:37","author":"Ju","tags":["ai","guideline","research","method"]}}
 ---
 
 

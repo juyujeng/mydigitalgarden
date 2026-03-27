@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture note_20231101/","title":"人工智慧時代的英語學習力","tags":["blog","ai","chatgpt","learning","reflective","english"],"created":"2023-11-02T00:00:00.000Z","updated":"2023-11-07T09:26"}
+{"dg-publish":true,"permalink":"/lecture note_20231101/","title":"人工智慧時代的英語學習力","tags":["blog","ai","chatgpt","learning","reflective","english"],"created":"2023-11-02T00:00:00.000Z","updated":"2023-11-07T09:26","dg-note-properties":{"title":"人工智慧時代的英語學習力","author":"Ju","aliases":null,"tags":["blog","ai","chatgpt","learning","reflective","english"],"categories":["blog","note"],"date":"2023-11-02T00:00:00.000Z","lastmod":"2023-11-07T09:26"}}
 ---
 
 

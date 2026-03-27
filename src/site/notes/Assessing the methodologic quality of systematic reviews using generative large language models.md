@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Assessing the methodologic quality of systematic reviews using generative large language models/","title":"Assessing the methodologic quality of systematic reviews using generative large language models","tags":["chatgpt","ai","LLMAI","scoring","evaluation","method","guideline"],"created":"2025-09-03T11:13","updated":"2025-09-03T11:13"}
+{"dg-publish":true,"permalink":"/Assessing the methodologic quality of systematic reviews using generative large language models/","title":"Assessing the methodologic quality of systematic reviews using generative large language models","tags":["chatgpt","ai","LLMAI","scoring","evaluation","method","guideline"],"created":"2025-09-03T11:13","updated":"2025-09-03T11:13","dg-note-properties":{"date":"2025-09-03T11:13","lastmod":"2025-09-03T11:13","aliases":null,"tags":["chatgpt","ai","LLMAI","scoring","evaluation","method","guideline"],"title":"Assessing the methodologic quality of systematic reviews using generative large language models"}}
 ---
 
 

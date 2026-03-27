@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/potential nonverbal cues/","title":"potential nonverbal cues","tags":["blog","empathy/course","nonverbal"],"created":"2022-10-25T00:00:00.000Z","updated":"2023-03-13T23:56"}
+{"dg-publish":true,"permalink":"/Blog/Research/potential nonverbal cues/","title":"potential nonverbal cues","tags":["blog","empathy/course","nonverbal"],"created":"2022-10-25T00:00:00.000Z","updated":"2023-03-13T23:56","dg-note-properties":{"title":"potential nonverbal cues","author":"Ju","tags":["blog","empathy/course","nonverbal"],"categories":"blog","date":"2022-10-25T00:00:00.000Z","summary":"list of potential nonverbal cues","ShowToc":false,"TocOpen":false,"mathjax":false,"lastmod":"2023-03-13T23:56"}}
 ---
 
 

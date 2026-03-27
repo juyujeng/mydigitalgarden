@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/The empathy steps 20230113/","title":"The empathy steps 20230113","tags":["blog","empathy/course"],"created":"2023-01-13","updated":"2023-02-16T22:36"}
+{"dg-publish":true,"permalink":"/Blog/Research/The empathy steps 20230113/","title":"The empathy steps 20230113","tags":["blog","empathy/course"],"created":"2023-01-13","updated":"2023-02-16T22:36","dg-note-properties":{"title":"The empathy steps 20230113","author":"Ju","tags":["blog","empathy/course"],"categories":"blog","date":"2023-01-13","summary":null,"ShowToc":true,"TocOpen":true,"mathjax":false,"lastmod":"2023-02-16T22:36"}}
 ---
 
 

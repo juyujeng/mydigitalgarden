@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/empathy assessment for ordinary people/","title":"測量一般人的同理心量表","tags":["blog","empathy","measurement","inventory"],"created":"2022-07-20","updated":"2023-02-27T23:12"}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy assessment for ordinary people/","title":"測量一般人的同理心量表","tags":["blog","empathy","measurement","inventory"],"created":"2022-07-20","updated":"2023-02-27T23:12","dg-note-properties":{"title":"測量一般人的同理心量表","author":"Ju","tags":["blog","empathy","measurement","inventory"],"target":"一般人","categories":["blog","research"],"date":"2022-07-20","lastmod":"2023-02-27T23:12"}}
 ---
 
 

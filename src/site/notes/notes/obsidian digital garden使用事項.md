@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/obsidian digital garden使用事項/","title":"digital garden使用注意事項","tags":["plugin","webpage"],"created":"2023-02-17T00:00:00.000Z","updated":"2023-03-20T22:28"}
+{"dg-publish":true,"permalink":"/notes/obsidian digital garden使用事項/","title":"digital garden使用注意事項","tags":["plugin","webpage"],"created":"2023-02-17T00:00:00.000Z","updated":"2023-03-20T22:28","dg-note-properties":{"title":"digital garden使用注意事項","tags":["plugin","webpage"],"categories":["note","document"],"date":"2023-02-17T00:00:00.000Z","lastmod":"2023-03-20T22:28"}}
 ---
 
 

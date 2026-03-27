@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/notes for preparing a discussion/","title":"如何準備與團隊討論研究結果的會議資料","tags":["blog","discussion","cooperation","communication"],"created":"2023-08-04","updated":"2023-08-04T22:51"}
+{"dg-publish":true,"permalink":"/Blog/Research/notes for preparing a discussion/","title":"如何準備與團隊討論研究結果的會議資料","tags":["blog","discussion","cooperation","communication"],"created":"2023-08-04","updated":"2023-08-04T22:51","dg-note-properties":{"title":"如何準備與團隊討論研究結果的會議資料","author":"Ju","aliases":null,"tags":["blog","discussion","cooperation","communication"],"categories":["blog","research","notes"],"date":"2023-08-04","lastmod":"2023-08-04T22:51"}}
 ---
 
 

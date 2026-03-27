@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/OSCE my point/","title":"OSCE測驗感想","tags":["blog"],"created":"2022-08-18T19:10","updated":"2023-02-16T22:37"}
+{"dg-publish":true,"permalink":"/Blog/Research/OSCE my point/","title":"OSCE測驗感想","tags":["blog"],"created":"2022-08-18T19:10","updated":"2023-02-16T22:37","dg-note-properties":{"title":"OSCE測驗感想","author":"Ju","tags":["blog"],"category":null,"creation date":"2022-01-24 17:08","date":"2022-08-18T19:10","lastmod":"2023-02-16T22:37"}}
 ---
 
 

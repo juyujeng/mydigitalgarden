@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Different types of Kappa values/","title":"Different types of Kappa values","tags":["guideline","kappa","reliability","validity","statistics"],"created":"2024-09-24T15:38","updated":"2024-10-25T14:56"}
+{"dg-publish":true,"permalink":"/Different types of Kappa values/","title":"Different types of Kappa values","tags":["guideline","kappa","reliability","validity","statistics"],"created":"2024-09-24T15:38","updated":"2024-10-25T14:56","dg-note-properties":{"date":"2024-09-24T15:38","lastmod":"2024-10-25T14:56","title":"Different types of Kappa values","author":"Ju","tags":["guideline","kappa","reliability","validity","statistics"],"categories":["note"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Guidelines/how to use assistant API in playground/","title":"如何使用assistant API (in playground)","tags":["chatgpt","ai","LLMAI","coding"],"created":"2024-08-14T22:26","updated":"2024-09-08T16:31"}
+{"dg-publish":true,"permalink":"/Guidelines/how to use assistant API in playground/","title":"如何使用assistant API (in playground)","tags":["chatgpt","ai","LLMAI","coding"],"created":"2024-08-14T22:26","updated":"2024-09-08T16:31","dg-note-properties":{"date":"2024-08-14T22:26","lastmod":"2024-09-08T16:31","title":"如何使用assistant API (in playground)","author":"Ju","tags":["chatgpt","ai","LLMAI","coding"],"categories":["research","blog"]}}
 ---
 
 

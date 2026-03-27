@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/ChatGPT operational competence test_preparation/","title":"ChatGPT操作能力測驗規畫","tags":["blog","chatgpt","ai","measurement"],"created":"2023-08-22","updated":"2023-08-22T23:07"}
+{"dg-publish":true,"permalink":"/Blog/Research/ChatGPT operational competence test_preparation/","title":"ChatGPT操作能力測驗規畫","tags":["blog","chatgpt","ai","measurement"],"created":"2023-08-22","updated":"2023-08-22T23:07","dg-note-properties":{"title":"ChatGPT操作能力測驗規畫","author":"Ju","aliases":null,"tags":["blog","chatgpt","ai","measurement"],"categories":["blog","research"],"date":"2023-08-22","lastmod":"2023-08-22T23:07"}}
 ---
 
 

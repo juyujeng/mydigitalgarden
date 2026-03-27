@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41"}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41","dg-note-properties":{"title":"Research & Life","Author":"Ju","tags":["blog","gardenEntry"],"categories":["site"],"date":"2023-02-16T00:00:00.000Z","lastmod":"2024-05-17T10:41","cssclasses":["cards"]}}
 ---
 
 
@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                                   | 最後修改              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Lord's paradox\|Lord's paradox]]                                                                                                                | 2026/03/27  09:53 |
 | [[Kıyak et al., 2026\|Applications and Outcomes of Large‑Language‑Model‑Generated Feedback in Undergraduate Medical Education: A Scoping Review]] | 2026/03/16  15:21 |
 | [[Seo et al 2025\|Large Language Models as Evaluators in Education: Verification of Feedback Consistency and Accuracy]]                           | 2026/03/16  10:56 |
 | [[Feigerlova et al 2025\|A systematic review of the impact of artificial intelligence on educational outcomes in health professions education]]   | 2026/03/12  11:49 |
@@ -23,7 +24,6 @@
 | [[回顧文章問題研究框架\|回顧文章問題研究框架]]                                                                                                                        | 2026/01/30  14:37 |
 | [[key feature problem\|key-feature problem (KFP)]]                                                                                                | 2026/01/27  10:05 |
 | [[台灣臨床心理師EPAs\|台灣臨床心理師EPAs]]                                                                                                                      | 2026/01/27  10:02 |
-| [[Script Concordance Test\|Script Concordance Test]]                                                                                              | 2026/01/21  11:18 |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/Overview of CAT/","title":"電腦適性測驗概述","tags":["blog","CAT","adaptive_testing"],"created":"2023-08-17T00:00:00.000Z","updated":"2024-03-19T22:52"}
+{"dg-publish":true,"permalink":"/Blog/Document/Overview of CAT/","title":"電腦適性測驗概述","tags":["blog","CAT","adaptive_testing"],"created":"2023-08-17T00:00:00.000Z","updated":"2024-03-19T22:52","dg-note-properties":{"title":"電腦適性測驗概述","author":"Ju","aliases":null,"tags":["blog","CAT","adaptive_testing"],"categories":["blog","document"],"date":"2023-08-17T00:00:00.000Z","lastmod":"2024-03-19T22:52"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/complex interventions MRC/","title":"Complex interventions: Medical Research Council guidance","tags":["review","guideline","manuscript"],"created":"2025-03-25T11:33","updated":"2025-03-25T11:34"}
+{"dg-publish":true,"permalink":"/complex interventions MRC/","title":"Complex interventions: Medical Research Council guidance","tags":["review","guideline","manuscript"],"created":"2025-03-25T11:33","updated":"2025-03-25T11:34","dg-note-properties":{"date":"2025-03-25T11:33","lastmod":"2025-03-25T11:34","title":"Complex interventions: Medical Research Council guidance","author":"Ju","tags":["review","guideline","manuscript"],"aliases":["MRC"]}}
 ---
 
 

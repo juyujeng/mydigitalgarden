@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/short term research goals/","title":"近期研究目標與方向","tags":["blog","ideas"],"created":"2021-11-26","updated":"2023-02-16T23:16"}
+{"dg-publish":true,"permalink":"/Blog/Research/short term research goals/","title":"近期研究目標與方向","tags":["blog","ideas"],"created":"2021-11-26","updated":"2023-02-16T23:16","dg-note-properties":{"title":"近期研究目標與方向","author":"Ju","tags":["blog","ideas"],"category":null,"date":"2021-11-26","lastmod":"2023-02-16T23:16"}}
 ---
 
 

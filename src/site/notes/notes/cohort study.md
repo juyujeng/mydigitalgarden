@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/cohort study/","title":"cohort study","tags":["terms","guideline"],"created":"2023-03-22","updated":"2024-05-16T23:51"}
+{"dg-publish":true,"permalink":"/notes/cohort study/","title":"cohort study","tags":["terms","guideline"],"created":"2023-03-22","updated":"2024-05-16T23:51","dg-note-properties":{"title":"cohort study","aliases":["世代研究","隊列研究"],"tags":["terms","guideline"],"categories":["note","research"],"date":"2023-03-22","lastmod":"2024-05-16T23:51"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Life/firefox concerns priviate/","title":"firefox真的比較隱密","tags":["blog","life"],"created":"2022-09-27T00:00:00.000Z","updated":"2023-02-16T22:30"}
+{"dg-publish":true,"permalink":"/Blog/Life/firefox concerns priviate/","title":"firefox真的比較隱密","tags":["blog","life"],"created":"2022-09-27T00:00:00.000Z","updated":"2023-02-16T22:30","dg-note-properties":{"title":"firefox真的比較隱密","author":"Ju","tags":["blog","life"],"categories":"life","date":"2022-09-27T00:00:00.000Z","ShowToc":true,"TocOpen":true,"mathjax":false,"lastmod":"2023-02-16T22:30"}}
 ---
 
 

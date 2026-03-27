@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Guidelines/classifier performance/","title":"Classifier performance","tags":["accuracy","sensitivity","precision","guideline","ROC"],"created":"2024-07-10T13:24","updated":"2024-08-06T11:35"}
+{"dg-publish":true,"permalink":"/Guidelines/classifier performance/","title":"Classifier performance","tags":["accuracy","sensitivity","precision","guideline","ROC"],"created":"2024-07-10T13:24","updated":"2024-08-06T11:35","dg-note-properties":{"title":"Classifier performance","aliases":["分類準確度","ROC curve","AUC"],"author":"Ju","tags":["accuracy","sensitivity","precision","guideline","ROC"],"date":"2024-07-10T13:24","lastmod":"2024-08-06T11:35"}}
 ---
 
 

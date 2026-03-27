@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/GPTs可以調整的參數/","title":"GPTs可以調整的參數","tags":["blog","ai","chatgpt"],"created":"2023-11-27T00:00:00.000Z","updated":"2024-08-15T14:49"}
+{"dg-publish":true,"permalink":"/GPTs可以調整的參數/","title":"GPTs可以調整的參數","tags":["blog","ai","chatgpt"],"created":"2023-11-27T00:00:00.000Z","updated":"2024-08-15T14:49","dg-note-properties":{"title":"GPTs可以調整的參數","author":"Ju","aliases":["controlling parameters of LLM"],"tags":["blog","ai","chatgpt"],"categories":["blog","research"],"date":"2023-11-27T00:00:00.000Z","lastmod":"2024-08-15T14:49"}}
 ---
 
 

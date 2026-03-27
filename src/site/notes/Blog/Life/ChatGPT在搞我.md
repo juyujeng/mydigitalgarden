@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Life/ChatGPT在搞我/","title":"ChatGPT在搞我","tags":["blog","ai","chatgpt"],"created":"2023-02-18","updated":"2023-02-21T16:30"}
+{"dg-publish":true,"permalink":"/Blog/Life/ChatGPT在搞我/","title":"ChatGPT在搞我","tags":["blog","ai","chatgpt"],"created":"2023-02-18","updated":"2023-02-21T16:30","dg-note-properties":{"title":"ChatGPT在搞我","author":"Ju","tags":["blog","ai","chatgpt"],"categories":["blog","research","life"],"date":"2023-02-18","summary":null,"ShowToc":true,"TocOpen":true,"mathjax":false,"lastmod":"2023-02-21T16:30"}}
 ---
 
 

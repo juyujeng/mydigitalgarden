@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/雅婷API測試/","title":"雅婷API測試","tags":["python","api","TTS","ai"],"created":"2025-05-26T22:00","updated":"2025-05-26T23:01"}
+{"dg-publish":true,"permalink":"/雅婷API測試/","title":"雅婷API測試","tags":["python","api","TTS","ai"],"created":"2025-05-26T22:00","updated":"2025-05-26T23:01","dg-note-properties":{"date":"2025-05-26T22:00","lastmod":"2025-05-26T23:01","title":"雅婷API測試","author":"Ju","tags":["python","api","TTS","ai"]}}
 ---
 
 ## 文字轉語音（text-to-speech，TTS）

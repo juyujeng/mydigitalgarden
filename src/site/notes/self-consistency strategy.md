@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/self-consistency strategy/","title":"self-consistency strategy","tags":["chatgpt","ai","LLMAI"],"created":"2025-05-02T15:23","updated":"2025-05-06T09:43"}
+{"dg-publish":true,"permalink":"/self-consistency strategy/","title":"self-consistency strategy","tags":["chatgpt","ai","LLMAI"],"created":"2025-05-02T15:23","updated":"2025-05-06T09:43","dg-note-properties":{"date":"2025-05-02T15:23","lastmod":"2025-05-06T09:43","title":"self-consistency strategy","author":"Ju","tags":["chatgpt","ai","LLMAI"],"categories":["research"]}}
 ---
 
 

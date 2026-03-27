@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Guidelines/teach-back/","title":"Teach-back","tags":["terms","education","communication"],"created":"2025-05-13T16:06","updated":"2025-05-13T16:23"}
+{"dg-publish":true,"permalink":"/Guidelines/teach-back/","title":"Teach-back","tags":["terms","education","communication"],"created":"2025-05-13T16:06","updated":"2025-05-13T16:23","dg-note-properties":{"date":"2025-05-13T16:06","lastmod":"2025-05-13T16:23","title":"Teach-back","author":"Ju","aliases":["teach back"],"tags":["terms","education","communication"]}}
 ---
 
 

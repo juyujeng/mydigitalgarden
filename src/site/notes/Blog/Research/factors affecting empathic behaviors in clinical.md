@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/factors affecting empathic behaviors in clinical/","title":"影響醫病情境同理行為的三大因素","tags":["blog","empathy/model"],"created":"2022-08-18T19:10","updated":"2023-02-16T23:24"}
+{"dg-publish":true,"permalink":"/Blog/Research/factors affecting empathic behaviors in clinical/","title":"影響醫病情境同理行為的三大因素","tags":["blog","empathy/model"],"created":"2022-08-18T19:10","updated":"2023-02-16T23:24","dg-note-properties":{"title":"影響醫病情境同理行為的三大因素","author":"Ju","tags":["blog","empathy/model"],"category":null,"creation date":"2021-12-29 17:03","date":"2022-08-18T19:10","lastmod":"2023-02-16T23:24"}}
 ---
 
 

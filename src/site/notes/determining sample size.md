@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/determining sample size/","title":"如何決定樣本數？","tags":["guideline","statistics"],"created":"2024-02-05T16:18","updated":"2024-02-21T15:15"}
+{"dg-publish":true,"permalink":"/determining sample size/","title":"如何決定樣本數？","tags":["guideline","statistics"],"created":"2024-02-05T16:18","updated":"2024-02-21T15:15","dg-note-properties":{"title":"如何決定樣本數？","author":"Ju","date":"2024-02-05T16:18","lastmod":"2024-02-21T15:15","aliases":["how to decide sample size","sample size"],"tags":["guideline","statistics"],"categories":["note","research"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/@work stuff/Chain-of-Thought Prompting/","title":"What is Chain-of-Thought Prompting?","tags":["chatgpt","ai","prompt"],"created":"2024-01-15T14:17","updated":"2024-02-01T10:52"}
+{"dg-publish":true,"permalink":"/@work stuff/Chain-of-Thought Prompting/","title":"What is Chain-of-Thought Prompting?","tags":["chatgpt","ai","prompt"],"created":"2024-01-15T14:17","updated":"2024-02-01T10:52","dg-note-properties":{"title":"What is Chain-of-Thought Prompting?","tags":["chatgpt","ai","prompt"],"date":"2024-01-15T14:17","lastmod":"2024-02-01T10:52"}}
 ---
 
 

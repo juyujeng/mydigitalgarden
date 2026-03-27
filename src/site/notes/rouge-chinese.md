@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rouge-chinese/","title":"rouge-chiese","tags":["python","nlp","guideline"],"created":"2025-10-22T10:56","updated":"2025-10-24T22:43"}
+{"dg-publish":true,"permalink":"/rouge-chinese/","title":"rouge-chiese","tags":["python","nlp","guideline"],"created":"2025-10-22T10:56","updated":"2025-10-24T22:43","dg-note-properties":{"date":"2025-10-22T10:56","lastmod":"2025-10-24T22:43","title":"rouge-chiese","tags":["python","nlp","guideline"],"author":"Ju"}}
 ---
 
 

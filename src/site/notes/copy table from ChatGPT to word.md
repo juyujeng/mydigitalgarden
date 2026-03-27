@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/copy table from ChatGPT to word/","title":"複製ChatGPT產生的表格到Word","tags":["chatgpt","ai","guideline"],"created":"2025-07-29T11:40","updated":"2025-08-01T00:21"}
+{"dg-publish":true,"permalink":"/copy table from ChatGPT to word/","title":"複製ChatGPT產生的表格到Word","tags":["chatgpt","ai","guideline"],"created":"2025-07-29T11:40","updated":"2025-08-01T00:21","dg-note-properties":{"date":"2025-07-29T11:40","lastmod":"2025-08-01T00:21","title":"複製ChatGPT產生的表格到Word","author":"Ju","tags":["chatgpt","ai","guideline"]}}
 ---
 
 
@@ -12,10 +12,10 @@
 
 #### 套用表格樣式成果範例
 
-| 未套用樣式    | ![[Pasted image 20250731161639.png\|400]] |
+| 未套用樣式    | ![Pasted image 20250731161639.png\|400](/img/user/Pasted%20image%2020250731161639.png) |
 | -------- | ----------------------------------------- |
-| 套用樣式（1）  | ![[Pasted image 20250731164630.png\|400]] |
-| 套用樣式 (2) | ![[Pasted image 20250731164745.png\|400]] |
+| 套用樣式（1）  | ![Pasted image 20250731164630.png\|400](/img/user/Pasted%20image%2020250731164630.png) |
+| 套用樣式 (2) | ![Pasted image 20250731164745.png\|400](/img/user/Pasted%20image%2020250731164745.png) |
 ※ 樣式設定有其限制，但設定好之後，可以快速地套用到每一次貼上的表格中，若有必要再進行微調，節省每次都要設定格式的時間。
 
 

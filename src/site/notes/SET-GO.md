@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SET-GO/","title":"SET-GO","tags":["feedback","education","communication"],"created":"2025-07-09T10:22","updated":"2025-07-09T10:29"}
+{"dg-publish":true,"permalink":"/SET-GO/","title":"SET-GO","tags":["feedback","education","communication"],"created":"2025-07-09T10:22","updated":"2025-07-09T10:29","dg-note-properties":{"date":"2025-07-09T10:22","lastmod":"2025-07-09T10:29","title":"SET-GO","author":"Ju","tags":["feedback","education","communication"]}}
 ---
 
 Calgary-Cambridge溝通技巧教學的回饋方法

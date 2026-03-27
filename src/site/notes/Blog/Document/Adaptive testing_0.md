@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Document/Adaptive testing_0/","title":"三類測驗型式","tags":["blog","CAT","adaptive_testing"],"created":"2023-08-17T00:00:00.000Z","updated":"2023-08-17T12:15"}
+{"dg-publish":true,"permalink":"/Blog/Document/Adaptive testing_0/","title":"三類測驗型式","tags":["blog","CAT","adaptive_testing"],"created":"2023-08-17T00:00:00.000Z","updated":"2023-08-17T12:15","dg-note-properties":{"title":"三類測驗型式","author":"Ju","aliases":null,"tags":["blog","CAT","adaptive_testing"],"categories":["blog","document"],"date":"2023-08-17T00:00:00.000Z","lastmod":"2023-08-17T12:15"}}
 ---
 
 

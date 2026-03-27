@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Milestones六大核心能力/","title":"六大核心能力","tags":["guideline","medicine","education","milestone"],"created":"2025-11-26T10:28","updated":"2025-11-26T10:36"}
+{"dg-publish":true,"permalink":"/Milestones六大核心能力/","title":"六大核心能力","tags":["guideline","medicine","education","milestone"],"created":"2025-11-26T10:28","updated":"2025-11-26T10:36","dg-note-properties":{"date":"2025-11-26T10:28","lastmod":"2025-11-26T10:36","title":"六大核心能力","aliases":["6 core competencies"],"tags":["guideline","medicine","education","milestone"]}}
 ---
 
 

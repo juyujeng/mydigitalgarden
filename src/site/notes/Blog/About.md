@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/About/","title":"About","created":"2022-09-13T12:59:08.000Z","updated":"2024-12-16T08:54"}
+{"dg-publish":true,"permalink":"/Blog/About/","title":"About","created":"2022-09-13T12:59:08.000Z","updated":"2024-12-16T08:54","dg-note-properties":{"title":"About","date":"2022-09-13T12:59:08.000Z","draft":false,"lastmod":"2024-12-16T08:54","categories":["site"]}}
 ---
 
 

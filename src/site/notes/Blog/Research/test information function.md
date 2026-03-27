@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/test information function/","title":"Test information function","tags":["blog","IRT"],"created":"2023-08-18","updated":"2024-03-11T14:09"}
+{"dg-publish":true,"permalink":"/Blog/Research/test information function/","title":"Test information function","tags":["blog","IRT"],"created":"2023-08-18","updated":"2024-03-11T14:09","dg-note-properties":{"title":"Test information function","author":"Ju","aliases":["TIF","特徵值"],"tags":["blog","IRT"],"categories":["blog","document"],"date":"2023-08-18","lastmod":"2024-03-11T14:09"}}
 ---
 
 

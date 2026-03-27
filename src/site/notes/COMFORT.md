@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/COMFORT/","title":"COMFORT","tags":["communication","project","BBN","guideline","medicine","education"],"created":"2025-11-24T23:34","updated":"2025-11-24T23:55"}
+{"dg-publish":true,"permalink":"/COMFORT/","title":"COMFORT","tags":["communication","project","BBN","guideline","medicine","education"],"created":"2025-11-24T23:34","updated":"2025-11-24T23:55","dg-note-properties":{"date":"2025-11-24T23:34","lastmod":"2025-11-24T23:55","tags":["communication","project","BBN","guideline","medicine","education"],"title":"COMFORT"}}
 ---
 
 COMFORT 模型是一個以溝通為基礎、以**動態調適**（Interaction Adaptation）為核心的溝通指引，專門用於協助臨床醫師向病患及其家屬傳達壞消息（Breaking Bad News, BBN）。

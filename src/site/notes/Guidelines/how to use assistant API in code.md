@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Guidelines/how to use assistant API in code/","title":"如何使用assistant API (in code)","tags":["chatgpt","ai","coding","LLMAI"],"created":"2024-09-08T16:28","updated":"2024-09-08T23:48"}
+{"dg-publish":true,"permalink":"/Guidelines/how to use assistant API in code/","title":"如何使用assistant API (in code)","tags":["chatgpt","ai","coding","LLMAI"],"created":"2024-09-08T16:28","updated":"2024-09-08T23:48","dg-note-properties":{"date":"2024-09-08T16:28","lastmod":"2024-09-08T23:48","title":"如何使用assistant API (in code)","author":"Ju","tags":["chatgpt","ai","coding","LLMAI"],"categories":["blog","research"]}}
 ---
 
 # 說明

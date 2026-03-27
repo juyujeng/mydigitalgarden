@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/statistics/Interater reliability/","title":"Interater reliability","tags":["docs","reliability","agreement","nominal","statistics"],"created":"2022-09-29","updated":"2025-08-01T22:13"}
+{"dg-publish":true,"permalink":"/statistics/Interater reliability/","title":"Interater reliability","tags":["docs","reliability","agreement","nominal","statistics"],"created":"2022-09-29","updated":"2025-08-01T22:13","dg-note-properties":{"title":"Interater reliability","author":"Ju","tags":["docs","reliability","agreement","nominal","statistics"],"categories":["document","note"],"date":"2022-09-29","lastmod":"2025-08-01T22:13"}}
 ---
 
 

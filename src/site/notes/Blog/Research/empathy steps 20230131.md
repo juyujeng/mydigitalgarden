@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/empathy steps 20230131/","title":"同理的層次與步驟 20230124","tags":["blog","empathy","empathy/course","manuscript"],"created":"2023-01-24T00:00:00.000Z","updated":"2023-02-16T22:36"}
+{"dg-publish":true,"permalink":"/Blog/Research/empathy steps 20230131/","title":"同理的層次與步驟 20230124","tags":["blog","empathy","empathy/course","manuscript"],"created":"2023-01-24T00:00:00.000Z","updated":"2023-02-16T22:36","dg-note-properties":{"title":"同理的層次與步驟 20230124","author":"Ju","aliases":["同理回應層次","同理層次","同理步驟","empathy response levels","empathy steps"],"tags":["blog","empathy","empathy/course","manuscript"],"categories":"blog","date":"2023-01-24T00:00:00.000Z","summary":null,"ShowToc":true,"TocOpen":true,"mathjax":false,"lastmod":"2023-02-16T22:36"}}
 ---
 
 

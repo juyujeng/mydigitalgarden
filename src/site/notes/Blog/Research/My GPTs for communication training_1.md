@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/My GPTs for communication training_1/","title":"利用ChatGPT作溝通訓練 初步設定","tags":["blog","ai","chatgpt","communication","training"],"created":"2023-11-21T00:00:00.000Z","updated":"2023-11-21T09:48"}
+{"dg-publish":true,"permalink":"/Blog/Research/My GPTs for communication training_1/","title":"利用ChatGPT作溝通訓練 初步設定","tags":["blog","ai","chatgpt","communication","training"],"created":"2023-11-21T00:00:00.000Z","updated":"2023-11-21T09:48","dg-note-properties":{"title":"利用ChatGPT作溝通訓練 初步設定","author":"Ju","aliases":null,"tags":["blog","ai","chatgpt","communication","training"],"categories":["blog","research"],"date":"2023-11-21T00:00:00.000Z","lastmod":"2023-11-21T09:48"}}
 ---
 
 

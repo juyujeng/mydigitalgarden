@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/@work stuff/least-to-most prompting/","title":"Least-to-most prompting","tags":["ai","chatgpt","prompt"],"created":"2024-01-15T14:42","updated":"2024-01-15T15:12"}
+{"dg-publish":true,"permalink":"/@work stuff/least-to-most prompting/","title":"Least-to-most prompting","tags":["ai","chatgpt","prompt"],"created":"2024-01-15T14:42","updated":"2024-01-15T15:12","dg-note-properties":{"title":"Least-to-most prompting","tags":["ai","chatgpt","prompt"],"date":"2024-01-15T14:42","lastmod":"2024-01-15T15:12"}}
 ---
 
 

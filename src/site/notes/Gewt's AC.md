@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Gewt's AC/","title":"Gewt's AC","tags":["agreement","reliability","guideline","statistics"],"created":"2025-03-10T23:05","updated":"2025-03-25T09:42"}
+{"dg-publish":true,"permalink":"/Gewt's AC/","title":"Gewt's AC","tags":["agreement","reliability","guideline","statistics"],"created":"2025-03-10T23:05","updated":"2025-03-25T09:42","dg-note-properties":{"date":"2025-03-10T23:05","lastmod":"2025-03-25T09:42","title":"Gewt's AC","author":"Ju","tags":["agreement","reliability","guideline","statistics"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Discourse analysis/","title":"Discourse analysis","tags":["communication","style","chatgpt","ai"],"created":"2024-05-16T13:52","updated":"2024-05-27T11:52"}
+{"dg-publish":true,"permalink":"/Discourse analysis/","title":"Discourse analysis","tags":["communication","style","chatgpt","ai"],"created":"2024-05-16T13:52","updated":"2024-05-27T11:52","dg-note-properties":{"title":"Discourse analysis","author":"Ju","aliases":["Discourse study","Discourse studies","論述分析","話語分析"],"tags":["communication","style","chatgpt","ai"],"date":"2024-05-16T13:52","lastmod":"2024-05-27T11:52","status":"完成","phase":"preparing"}}
 ---
 
 

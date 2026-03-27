@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/protocol for scoping review/","title":"protocol for scoping review","tags":["guideline","review","manuscript","materials"],"created":"2026-02-05T11:28","updated":"2026-02-28T23:08"}
+{"dg-publish":true,"permalink":"/protocol for scoping review/","title":"protocol for scoping review","tags":["guideline","review","manuscript","materials"],"created":"2026-02-05T11:28","updated":"2026-02-28T23:08","dg-note-properties":{"date":"2026-02-05T11:28","lastmod":"2026-02-28T23:08","tags":["guideline","review","manuscript","materials"],"title":"protocol for scoping review"}}
 ---
 
 

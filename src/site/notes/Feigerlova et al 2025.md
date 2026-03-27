@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Feigerlova et al 2025/","title":"A systematic review of the impact of artificial intelligence on educational outcomes in health professions education","tags":["LLMAI","education","medicine","review"],"created":"2026-03-12T11:44","updated":"2026-03-12T11:49"}
+{"dg-publish":true,"permalink":"/Feigerlova et al 2025/","title":"A systematic review of the impact of artificial intelligence on educational outcomes in health professions education","tags":["LLMAI","education","medicine","review"],"created":"2026-03-12T11:44","updated":"2026-03-12T11:49","dg-note-properties":{"date":"2026-03-12T11:44","lastmod":"2026-03-12T11:49","title":"A systematic review of the impact of artificial intelligence on educational outcomes in health professions education","tags":["LLMAI","education","medicine","review"]}}
 ---
 
 

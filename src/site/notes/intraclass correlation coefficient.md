@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intraclass correlation coefficient/","title":"intraclass correlation coefficient","tags":["terms","reliability","guideline","statistics"],"created":"2024-05-28T09:57","updated":"2024-05-28T23:33"}
+{"dg-publish":true,"permalink":"/intraclass correlation coefficient/","title":"intraclass correlation coefficient","tags":["terms","reliability","guideline","statistics"],"created":"2024-05-28T09:57","updated":"2024-05-28T23:33","dg-note-properties":{"title":"intraclass correlation coefficient","aliases":["ICC"],"tags":["terms","reliability","guideline","statistics"],"date":"2024-05-28T09:57","lastmod":"2024-05-28T23:33"}}
 ---
 
 
@@ -73,4 +73,4 @@ $MS_R$: mean square for rows; $MS_W$: mean square for residual sources of varian
 
 ### ICC選擇流程
 
-![Pasted image 20240528103949.png|來源：Koo & Li (2016)](/img/user/Pasted%20image%2020240528103949.png)
+![Pasted image 20240528103949.png\|來源：Koo & Li (2016)](/img/user/Pasted%20image%2020240528103949.png)

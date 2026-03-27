@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Research/Q-SNELL/","title":"Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)","tags":["chatgpt","LLMAI","psychometrics","validity","reliability","measurement"],"created":"2024-12-16T09:08","updated":"2024-12-16T15:09"}
+{"dg-publish":true,"permalink":"/Blog/Research/Q-SNELL/","title":"Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)","tags":["chatgpt","LLMAI","psychometrics","validity","reliability","measurement"],"created":"2024-12-16T09:08","updated":"2024-12-16T15:09","dg-note-properties":{"date":"2024-12-16T09:08","lastmod":"2024-12-16T15:09","title":"Introduction to Questionnaire of Self-Efficacy and Needs in Using Large-Language Model-Based AI Services (Q-SNELL)","author":"Ju","tags":["chatgpt","LLMAI","psychometrics","validity","reliability","measurement"],"categories":["research"]}}
 ---
 
 
