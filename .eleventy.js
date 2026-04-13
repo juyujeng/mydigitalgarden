@@ -755,12 +755,12 @@ module.exports = function(eleventyConfig) {
     return variable;
   });
 
-//  eleventyConfig.addPlugin(pluginRss, {
-//    posthtmlRenderOptions: {
-//      closingSingleTag: "slash",
-//      singleTags: ["link"],
-//    },
-//  });
+  eleventyConfig.addPlugin(pluginRss, {
+    posthtmlRenderOptions: {
+      closingSingleTag: "slash",
+      singleTags: ["link"],
+    },
+  });
 
   userEleventySetup(eleventyConfig);
 
