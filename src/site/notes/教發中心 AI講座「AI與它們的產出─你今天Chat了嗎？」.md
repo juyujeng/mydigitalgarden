@@ -48,8 +48,8 @@
 1. 確保資料被正確的讀取：`摘要「以上網頁」的內容`（「」中可置換為以下圖片、以下文字等）
 2. 整理摘要的結果，並輸出為特定的格式，為後續的視覺化或是其他格式輸出做準備：`將這篇文章的內容整理成心智圖的結構，用markdown顯示，h1是題目，h2是各個重點，內容用條列式`
 3. 輸出：在Chat Everywhere當中可以直接輸出為心智圖或是word（免費版有每天輸出的次數限制）
-	- ![Pasted image 20250915233404.png](/img/user/Pasted%20image%2020250915233404.png)
-	- ![Pasted image 20250915233433.png](/img/user/Pasted%20image%2020250915233433.png)
+	- ![Pasted image 20250915233404.png](/img/user/Attachments/Pasted%20image%2020250915233404.png)
+	- ![Pasted image 20250915233433.png](/img/user/Attachments/Pasted%20image%2020250915233433.png)
 
 ### 實例
 

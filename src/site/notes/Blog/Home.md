@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                                   | 最後修改              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[generaliability theory\|generaliability theory]]                                                                                                | 2026/05/05  16:17 |
 | [[measurement of written feedback for clinical skills assessment\|評估臨床技能考試的書面回饋資料品質]]                                                             | 2026/04/01  11:35 |
 | [[Lord's paradox\|Lord's paradox]]                                                                                                                | 2026/03/27  09:53 |
 | [[Kıyak et al., 2026\|Applications and Outcomes of Large‑Language‑Model‑Generated Feedback in Undergraduate Medical Education: A Scoping Review]] | 2026/03/16  15:21 |
@@ -23,7 +24,6 @@
 | [[Blog/Research/Kirkpatrick model\|The Kirkpatrick Model]]                                                                                        | 2026/03/11  16:46 |
 | [[protocol for scoping review\|protocol for scoping review]]                                                                                      | 2026/02/28  23:08 |
 | [[回顧文章問題研究框架\|回顧文章問題研究框架]]                                                                                                                        | 2026/01/30  14:37 |
-| [[key feature problem\|key-feature problem (KFP)]]                                                                                                | 2026/01/27  10:05 |
 
 { .block-language-dataview}
 

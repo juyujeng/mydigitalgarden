@@ -33,7 +33,7 @@
 
 每一個domain，這個手冊提供了決策樹，說明如何根據題目的結果來判斷該domain可能有bias的風險，包含Low / Some / High  三個等級的評分。
 決策樹範例如下：
-![Pasted image 20250630141725.png](/img/user/Pasted%20image%2020250630141725.png)
+![Pasted image 20250630141725.png](/img/user/Attachments/Pasted%20image%2020250630141725.png)
 
 ### overall risk of bias
 
