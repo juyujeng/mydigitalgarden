@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2024-05-17T10:41","dg-note-properties":{"title":"Research & Life","Author":"Ju","tags":["blog","gardenEntry"],"categories":["site"],"date":"2023-02-16T00:00:00.000Z","lastmod":"2024-05-17T10:41","cssclasses":["cards"]}}
+{"dg-publish":true,"permalink":"/Blog/Home/","title":"Research & Life","contentClasses":"cards","tags":["blog","gardenEntry"],"created":"2023-02-16T00:00:00.000Z","updated":"2026-08-18T14:20","dg-note-properties":{"title":"Research & Life","Author":"Ju","tags":["blog","gardenEntry"],"categories":["site"],"date":"2023-02-16T00:00:00.000Z","lastmod":"2026-08-18T14:20","cssclasses":["cards"]}}
 ---
 
 
@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                                   | 最後修改              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[可接續的 AI 專案工作流\|可接續的 AI 專案工作流]]                                                                                                                  | 2026/08/17  23:47 |
 | [[generaliability theory\|generaliability theory]]                                                                                                | 2026/05/05  16:17 |
 | [[measurement of written feedback for clinical skills assessment\|評估臨床技能考試的書面回饋資料品質]]                                                             | 2026/04/01  11:35 |
 | [[Lord's paradox\|Lord's paradox]]                                                                                                                | 2026/03/27  09:53 |
@@ -23,7 +24,6 @@
 | [[TAG framework of prompt engineering\|TAG framework of prompt engineering]]                                                                      | 2026/03/12  10:10 |
 | [[Blog/Research/Kirkpatrick model\|The Kirkpatrick Model]]                                                                                        | 2026/03/11  16:46 |
 | [[protocol for scoping review\|protocol for scoping review]]                                                                                      | 2026/02/28  23:08 |
-| [[回顧文章問題研究框架\|回顧文章問題研究框架]]                                                                                                                        | 2026/01/30  14:37 |
 
 { .block-language-dataview}
 
