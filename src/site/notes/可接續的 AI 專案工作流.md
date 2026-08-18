@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/可接續的 AI 專案工作流/","title":"可接續的 AI 專案工作流","tags":["LLMAI","ai"],"created":"2026-08-14T16:13","updated":"2026-08-17T23:47","dg-note-properties":{"date":"2026-08-14T16:13","lastmod":"2026-08-17T23:47","tags":["LLMAI","ai"],"title":"可接續的 AI 專案工作流","theme":"css/mida-theme.css","center":true,"height":1080,"width":1920}}
+{"dg-publish":true,"permalink":"/可接續的 AI 專案工作流/","title":"可接續的 AI 專案工作流","tags":["LLMAI","ai"],"created":"2026-08-14T16:13","updated":"2026-08-18T14:00","dg-note-properties":{"date":"2026-08-14T16:13","lastmod":"2026-08-18T14:00","tags":["LLMAI","ai"],"title":"可接續的 AI 專案工作流","theme":"css/mida-theme.css","center":true,"height":1080,"width":1920}}
 ---
 
-<!-- slide class="title-page" -->
+
 # 可接續的 AI 專案工作流
 
 換 Agent、換電腦，不必重零開始
@@ -70,7 +70,7 @@ Skill 是一組可重複使用的**工作流程**，可以包含：
 
 ## 3｜雲端硬碟：讓不同電腦看到同一個專案現況
 
-<split even gap="5">
+
 > [!NOTE] 可一起同步的資料：
 > - 來源資料、衍生資料與正式產物
 > - `AGENTS.md` 與外部化專案記憶
@@ -81,7 +81,7 @@ Skill 是一組可重複使用的**工作流程**，可以包含：
 > - 先前的對話記憶
 > - 只安裝在某台電腦上的個人 skills
 > - 該電腦特有的軟體、權限與環境設定
-</split>
+
 
 ---
 
@@ -99,7 +99,7 @@ Skill 是一組可重複使用的**工作流程**，可以包含：
 
 ---
 
-<!-- slide class="chapter-page" -->
+
 # 實例
 
 
@@ -122,57 +122,30 @@ Skill 是一組可重複使用的**工作流程**，可以包含：
 
 ### 全域skills
 
-<div class="card-container" style="grid-template-columns: repeat(2, 1fr); text-align: left;">
-
-<div class="card">
-
-### writing-for-agents
+#### writing-for-agents
 協助建立`AGENTS.md`
 
-</div>
-
-<div class="card">
-
-### grill-with-docs
+#### grill-with-docs
 協助釐清目的以及重要決策，並建立需要的外部記憶文件
 
-</div>
-
-</div>
 
 ### 自己建立的專案skills
 
-<div class="card-container" style="grid-template-columns: repeat(2, 1fr); text-align: left;">
-
-<div class="card">
-
-### 標準化逐字稿
+#### 標準化逐字稿
 將原始逐字稿`.docx`檔轉為方便回饋考官處理的`.md`檔
 
-</div>
 
-<div class="card">
-
-### GKCSAF虛擬回饋考官
+#### GKCSAF虛擬回饋考官
 根據評分/回饋規則，分析標準化逐字稿的內容並提供評分/回饋報告。
 
-</div>
 
-<div class="card">
-
-### 回饋品質審查
+#### 回饋品質審查
 根據審查規則評估「GKCSAF虛擬回饋考官」的回饋報告，並按照固定格式輸出審查報告。
 
-</div>
 
-<div class="card">
 
-### 進度報告產生器
+#### 進度報告產生器
 讀取目前的成果以及比對事先設定的進度規畫，按照固定的格式產生會議記錄（`.docx`）以及會議簡報（`.pptx`）。
-
-</div>
-
-</div>
 
 
 ---
@@ -293,7 +266,7 @@ _Avoid_: 回饋修訂版、評分平均
 
 ---
 
-<!-- slide class="chapter-page" -->
+
 # 會後自學
 
 以下頁面提供建立步驟、推薦 skills 與可直接修改的提示詞。
@@ -322,29 +295,17 @@ $find-skills 請幫我找可以協助＿＿＿＿的 skill。
 
 ## 我的入門推薦
 
-<div class="card-container" style="grid-template-columns: repeat(2, 1fr); text-align: left;">
-
-<div class="card">
-
 ### `$grill-me`
 
 - 一次只問一個需要人決定的問題。
 - 逐一釐清相依的選擇，直到形成共同理解。
 - 適合規劃研究流程、簡報、分析計畫或系統設計。
 
-</div>
-
-<div class="card">
-
 ### `$grill-with-docs`
 
 - 在同樣的訪談過程中加入 `domain-modeling`。
 - 釐清共同語言，並在必要時記錄重要決策。
 - 適合需要長期維護專案文件的工作。
-
-</div>
-
-<div class="card">
 
 ### `$writing-for-agents`
 
@@ -355,9 +316,6 @@ $find-skills 請幫我找可以協助＿＿＿＿的 skill。
 - 把共通知識維持在單一權威來源。
 - 移除重複、過時或不會改變行為的文字。
 
-</div>
-
-</div>
 
 ---
 
@@ -380,7 +338,7 @@ $find-skills 請幫我找可以協助＿＿＿＿的 skill。
 
 ## 一個最小起始結構
 
-<split left="6" right="4" gap="2">
+
 
 ```text
 my-research-project/
@@ -396,7 +354,6 @@ my-research-project/
         └── CURRENT.md
 ```
 
-<div>
 視需求再加入：
 
 - `CONTEXT.md`：需要固定專有名詞時。
@@ -405,8 +362,7 @@ my-research-project/
 - skill 的 `scripts/`、`references/`、`assets/`：流程確實需要時。
 
 **先從一項會重複的工作開始，不必先建立完整文件宇宙。**
-</div>
-</split>
+
 
 
 ---
