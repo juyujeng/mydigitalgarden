@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                                   | 最後修改              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Buddhist Method — a skill for Claude\|Buddhist Method — a skill for Claude]]                                                                    | 2026/08/27  16:36 |
 | [[可接續的 AI 專案工作流\|可接續的 AI 專案工作流]]                                                                                                                  | 2026/08/18  14:00 |
 | [[generaliability theory\|generaliability theory]]                                                                                                | 2026/05/05  16:17 |
 | [[measurement of written feedback for clinical skills assessment\|評估臨床技能考試的書面回饋資料品質]]                                                             | 2026/04/01  11:35 |
@@ -23,7 +24,6 @@
 | [[Feigerlova et al 2025\|A systematic review of the impact of artificial intelligence on educational outcomes in health professions education]]   | 2026/03/12  11:49 |
 | [[TAG framework of prompt engineering\|TAG framework of prompt engineering]]                                                                      | 2026/03/12  10:10 |
 | [[Blog/Research/Kirkpatrick model\|The Kirkpatrick Model]]                                                                                        | 2026/03/11  16:46 |
-| [[protocol for scoping review\|protocol for scoping review]]                                                                                      | 2026/02/28  23:08 |
 
 { .block-language-dataview}
 
