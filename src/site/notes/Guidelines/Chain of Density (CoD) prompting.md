@@ -22,7 +22,8 @@ You will generate increasingly concise, entity-dense summaries of the above arti
 Repeat the following 2 steps 5 times.
 Step 1. Identify 1-3 informative entities (";" delimited) from the article which are missing from the previously generated summary.
 Step 2. Write a new, denser summary of identical length which covers every entity and detail from the previous summary plus the missing entities.
-A missing entity is: - relevant to the main story,
+A missing entity is: ^037a05
+- relevant to the main story,
 - specific yet concise (5 words or fewer),
 - novel (not in the previous summary),
 - faithful (present in the article),

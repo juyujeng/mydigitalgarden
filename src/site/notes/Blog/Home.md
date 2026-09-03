@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                                   | 最後修改              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[constructive alignment\|建設性調準（constructive alignment）]]                                                                                         | 2026/09/02  16:47 |
 | [[Buddhist Method — a skill for Claude\|Buddhist Method — a skill for Claude]]                                                                    | 2026/08/27  16:36 |
 | [[可接續的 AI 專案工作流\|可接續的 AI 專案工作流]]                                                                                                                  | 2026/08/18  14:00 |
 | [[generaliability theory\|generaliability theory]]                                                                                                | 2026/05/05  16:17 |
@@ -23,7 +24,6 @@
 | [[Seo et al 2025\|Large Language Models as Evaluators in Education: Verification of Feedback Consistency and Accuracy]]                           | 2026/03/16  10:56 |
 | [[Feigerlova et al 2025\|A systematic review of the impact of artificial intelligence on educational outcomes in health professions education]]   | 2026/03/12  11:49 |
 | [[TAG framework of prompt engineering\|TAG framework of prompt engineering]]                                                                      | 2026/03/12  10:10 |
-| [[Blog/Research/Kirkpatrick model\|The Kirkpatrick Model]]                                                                                        | 2026/03/11  16:46 |
 
 { .block-language-dataview}
 
