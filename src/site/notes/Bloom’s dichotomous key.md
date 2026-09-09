@@ -3,7 +3,7 @@
 ---
 
 
-根據 Semsar 與 Casagrand（2017）的研究，BDK（Bloom’s Dichotomous Key）評估的標的同時包含「試題（考題）」與「課程材料（Course Materials）」
+根據 Semsar 與 Casagrand（2017）的研究，BDK（Bloom’s Dichotomous Key）是用來協助評估者（或教師）以系統化、高一致性的方式，分類與判定試題及各類課程材料到底在檢測或訓練學生的哪一個認知層次。評估的標的同時包含「試題（考題）」與「課程材料（Course Materials）」。
 
 ## 評分流程
 
