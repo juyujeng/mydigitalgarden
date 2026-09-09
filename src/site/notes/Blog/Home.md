@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                                   | 最後修改              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                                      | 2026/09/09  12:34 |
 | [[revised Bloom's taxonomy table\|revised Bloom's taxonomy table]]                                                                                | 2026/09/09  12:19 |
 | [[references/Education/@semsarBloomsDichotomousKey2017\|A systematic review of reciprocal peer observation in higher education]]                  | 2026/09/08  16:39 |
 | [[constructive alignment\|建設性調準（constructive alignment）]]                                                                                         | 2026/09/02  16:47 |
@@ -23,7 +24,6 @@
 | [[measurement of written feedback for clinical skills assessment\|評估臨床技能考試的書面回饋資料品質]]                                                             | 2026/04/01  11:35 |
 | [[Lord's paradox\|Lord's paradox]]                                                                                                                | 2026/03/27  09:53 |
 | [[Kıyak et al., 2026\|Applications and Outcomes of Large‑Language‑Model‑Generated Feedback in Undergraduate Medical Education: A Scoping Review]] | 2026/03/16  15:21 |
-| [[Seo et al 2025\|Large Language Models as Evaluators in Education: Verification of Feedback Consistency and Accuracy]]                           | 2026/03/16  10:56 |
 
 { .block-language-dataview}
 

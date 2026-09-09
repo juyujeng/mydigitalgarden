@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy/","title":"Bloom's Taxonomy","tags":["learning","training","course"],"created":"2024-12-25T15:34","updated":"2024-12-25T16:33","dg-note-properties":{"date":"2024-12-25T15:34","lastmod":"2024-12-25T16:33","title":"Bloom's Taxonomy","author":"Ju","tags":["learning","training","course"]}}
+{"dg-publish":true,"permalink":"/@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy/","title":"Bloom's Taxonomy","tags":["learning","training","course"],"created":"2024-12-25T15:34","updated":"2026-09-09T12:34","dg-note-properties":{"date":"2024-12-25T15:34","lastmod":"2026-09-09T12:34","title":"Bloom's Taxonomy","author":"Ju","tags":["learning","training","course"]}}
 ---
 
 
 # Bloom's Taxonomy 說明
 
-Bloom分類法（Bloom's Taxonomy） 由 Benjamin Bloom 及其合作者於 1956 年提出，是一套分層的教育目標分類框架，用於描述和評估學習目標。2001 年，該框架被修訂，從原來靜態的名詞改為動態的動詞，以更好地反映學習過程的動態性。
+Bloom分類法（Bloom's Taxonomy） 由 Benjamin Bloom 及其合作者於 1956 年提出，是一套分層的教育目標分類框架，用於描述和評估學習目標。2001 年，該框架被修訂（[[revised Bloom's taxonomy table\|revised Bloom's taxonomy table]]），從原來靜態的名詞改為動態的動詞，以更好地反映學習過程的動態性。
 
 ## 認知領域的六個層次
 
@@ -34,44 +34,44 @@ Bloom’s Taxonomy 提供了一個系統化的方法來定義學習目標、設�
 ## 1. 設定學習目標
 
 - 根據分類學的層次，清楚定義學生在不同階段應達成的目標。例如：
-    - 記憶（Remember）：能列出某概念的關鍵術語。
-    - 創造（Create）：能設計一個整合課程概念的研究計劃。
+	- 記憶（Remember）：能列出某概念的關鍵術語。
+	- 創造（Create）：能設計一個整合課程概念的研究計劃。
 
 ## 2. 設計教學活動
 
 - 活動應與目標對應的認知層次相符：
-    - 記憶（Remember）：能回憶臨床同理心的基本定義及相關概念。
-    - 理解（Understand）：能解釋同理心的理論基礎和其在臨床互動中的角色。
-    - 應用（Apply）：能在模擬情境中使用同理心技巧。
-    - 分析（Analyze）：能分析臨床同理心的有效性及相關影響因素。
-    - 評價（Evaluate）：能根據具體情境，評估同理心技巧的適切性及效果。
-    - 創造（Create）：能設計新的臨床同理心訓練模組或活動。
+	- 記憶（Remember）：能回憶臨床同理心的基本定義及相關概念。
+	- 理解（Understand）：能解釋同理心的理論基礎和其在臨床互動中的角色。
+	- 應用（Apply）：能在模擬情境中使用同理心技巧。
+	- 分析（Analyze）：能分析臨床同理心的有效性及相關影響因素。
+	- 評價（Evaluate）：能根據具體情境，評估同理心技巧的適切性及效果。
+	- 創造（Create）：能設計新的臨床同理心訓練模組或活動。
 
 ## 3. 評估方式符合學習目標與教學活動
 
 - 設計評估工具時，需確保其與課程的學習目標和教學活動一致：
-    - 記憶（Remember）：選擇題或填充題。
-    - 分析（Analyze）：分析模式或找出錯誤的任務。
-    - 創造（Create）：期末專案或研究報告。
+	- 記憶（Remember）：選擇題或填充題。
+	- 分析（Analyze）：分析模式或找出錯誤的任務。
+	- 創造（Create）：期末專案或研究報告。
 
 ## 4. 由淺到深的課程設計
 
 - 課程結構應由基礎知識逐漸過渡到高階思維：
-    - 初期單元聚焦於 記憶（Remember） 和 理解（Understand）。
-    - 高階單元挑戰學生進行 評價（Evaluate） 和 創造（Create）。
+	- 初期單元聚焦於 記憶（Remember） 和 理解（Understand）。
+	- 高階單元挑戰學生進行 評價（Evaluate） 和 創造（Create）。
 
 ## 5. 整合知識類型
 
 - 在課程中平衡四種類型的知識：
-    - 起初介紹 事實性知識（Factual Knowledge）。
-    - 透過模擬練習加強 程序性知識（Procedural Knowledge），並將其應用於 概念性知識（Conceptual Knowledge） 的理解。
+	- 起初介紹 事實性知識（Factual Knowledge）。
+	- 透過模擬練習加強 程序性知識（Procedural Knowledge），並將其應用於 概念性知識（Conceptual Knowledge） 的理解。
 
 ## 6. 強調反思
 
 - 透過後設認知策略提升學習深度：
-    - 鼓勵學生進行自我評估。
-    - 要求學生反思學習過程與成效。
+	- 鼓勵學生進行自我評估。
+	- 要求學生反思學習過程與成效。
 
 ---
 
-Armstrong, P. (2010). Bloom’s Taxonomy. Vanderbilt University Center for Teaching. Retrieved [2024-12-25] from https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/.
+Armstrong, P. (2010). Bloom’s Taxonomy. Vanderbilt University Center for Teaching. Retrieved [2024-12-25] from <https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/>.
