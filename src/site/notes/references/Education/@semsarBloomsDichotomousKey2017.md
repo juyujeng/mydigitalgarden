@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/Education/@semsarBloomsDichotomousKey2017/","title":"A systematic review of reciprocal peer observation in higher education","tags":["references","summary","education"],"created":"2026-09-07T10:43","updated":"2026-09-08T15:43","dg-note-properties":{"date":"2026-09-07T10:43","lastmod":"2026-09-08T15:43","citekey":"semsarBloomsDichotomousKey2017","title":"A systematic review of reciprocal peer observation in higher education","tags":["references","summary","education"],"author":"Corcelles-Seuba等人"}}
+{"dg-publish":true,"permalink":"/references/Education/@semsarBloomsDichotomousKey2017/","title":"A systematic review of reciprocal peer observation in higher education","tags":["references","summary","education"],"created":"2026-09-07T10:43","updated":"2026-09-08T16:39","dg-note-properties":{"date":"2026-09-07T10:43","lastmod":"2026-09-08T16:39","citekey":"semsarBloomsDichotomousKey2017","title":"A systematic review of reciprocal peer observation in higher education","tags":["references","summary","education"],"author":"Corcelles-Seuba等人"}}
 ---
 
 
@@ -9,20 +9,20 @@
 
 RPO 是指兩位或一組教師在**平等夥伴關係**的基礎上，同意互相觀察彼此的教學實踐，並在觀課前後進行專業對話與共同反思。RPO的重要性體現在以下四個層面：
 
-1. **促進更深層的教師專業發展（TPD）** 傳統的教師培訓（如外部研討會或工作坊）往往流於形式，而 RPO 則強調教師之間的**主動學習**。它讓教師能依據自身教室的具體情境，在嘗試新教學策略的同時，獲得具體的反思與深度學習機會。
-2. **破解大學教師的「教學孤立（Pedagogical Solitude）」** 高等教育的環境中，教師往往缺乏協同教學或共同規劃課程的機會，容易面臨孤立教學的困境（教學孤立）。RPO 提供了一個高度互賴的合作框架，讓教師不再需要獨自摸索教學難題。
-3. **引導「以學生為中心」的教學法與自我反思** 研究顯示，透過觀察同儕的課堂、接受互惠的回饋以及共同對話，能顯著提升教師的**批判性自我反思能力（增加 13%）**以及採用**以學生為中心教學法（增加 22.9%）**的意願與信心。
-4. **建立校園的「同儕情誼（Collegiality）」與協作文化** 在超過半數的研究中，教師指出 RPO 最大的制度性收穫是強化了同事關係、連結了跨學科或資深與新進教師、降低了彼此對「被評鑑」的焦慮和抗拒，進而在系所內建立起共同探討卓越教學的專業學習社群。
+1. **促進更深層的教師專業發展（teacher professional development）** 。傳統的教師培訓（如外部研討會或工作坊）往往流於形式，而 RPO 則強調教師之間的**主動學習**。它讓教師能依據自身教室的具體情境，在嘗試新教學策略的同時，獲得具體的反思與深度學習機會。
+2. **突破大學教師的「教學孤立（Pedagogical Solitude）」** 。高等教育的環境中，教師往往缺乏協同教學或共同規劃課程的機會，容易面臨孤立教學的困境。RPO 提供了一個高度互賴的合作框架，讓教師不再需要獨自摸索教學難題。
+3. **引導「以學生為中心」的教學法與自我反思** 。研究顯示，透過觀察同儕的課堂、接受互惠的回饋以及共同對話，能顯著提升教師的**批判性自我反思能力（增加 13%）** 以及採用**以學生為中心教學法**的意願與信心（增加 22.9%）。
+4. **建立校園的「同儕情誼（Collegiality）」與協作文化** 。過去研究中，教師指出 RPO 最大的制度性收穫是強化了同事關係、連結了跨學科或資深與新進教師、降低了彼此對「被評鑑」的焦慮和抗拒，進而在系所內建立起共同探討卓越教學的專業學習社群。
 
 # 這項系統性文獻回顧（Systematic Review）為什麼要做？
 
-雖然同儕觀課（PO）近年來受到越來越多重視，但作者指出，在開展這項研究前，既有文獻存在著以下三大主要問題與研究缺口，這也是此研究進行的關鍵原因：
+雖然同儕觀課（PO）近年來受到越來越多重視，但作者指出，既有文獻存在著以下三大主要問題與研究缺口，這也是此研究進行的關鍵原因：
 
 1. **專有名詞繁多且定義混亂（Terminology Confusion）** 學術界在描述同儕觀課時，常與同儕指導（Peer Coaching）、同儕諮商（Peer Mentoring）、同儕督導（Peer Supervision）等名詞混用。由於缺乏共識，許多名詞可能同時指涉了評鑑型、發展型或協同型等截然不同的觀課活動，造成實務應用與研究上的混淆。
-2. **過去的文獻回顧「混淆了觀課目的」並忽略了「互惠平等性」** 過去雖有關於同儕觀課的文獻探討（如 Thomas et al. 2014; Zeng 2020），但這些回顧在分析時，將「評鑑型/階層式（Evaluative/Hierarchical）」與「協同/平等對等式（Collaborative/Democratic）」的觀課機制混為一談。它們未能探討「角色互惠性（Reciprocity of roles）」與「同儕平等關係（Equality）」這兩個對教師學習至關重要的變項。
+2. **過去的文獻回顧「混淆了觀課目的」並忽略了「互惠平等性」** 過去雖有關於同儕觀課的文獻探討，但這些回顧在分析時，將「評鑑型/階層式（Evaluative/Hierarchical）」與「協同/平等對等式（Collaborative/Democratic）」的觀課機制混為一談。它們未能探討「角色互惠性（Reciprocity of roles）」與「同儕平等關係（Equality）」這兩個對教師學習至關重要的變項。
 3. **缺乏高等教育脈絡下的專門整合性證據** 過去針對協同式 RPO 的研究規模通常較小（研究對象少於 10 人或 10-50 人之間）且多為質性的個案研究。學術界缺乏系統性、全面性的文獻回顧，來為高等教育行政管理者與教學中心提供一份關於 **RPO 對教師、學生以及學校機構實質效益與面臨挑戰**的完整證據地圖。
 
-因此，本研究的開展目的，即是透過 PRISMA 系統性回顧協定，篩選出 57 篇專注於高等教育、非階層式、具備角色互惠（同時擔任觀察者與被觀察者）的實證研究。藉由分析這些文獻，研究團隊成功為高等教育機構在推動 RPO 方案時，提供了具體的實施藍圖、挑戰因應策略以及未來的研究方向。
+本研究的目的是透過 PRISMA 系統性回顧架構，篩選出 57 篇專注於高等教育、非階層式、具備角色互惠（同時擔任觀察者與被觀察者）的實證研究。藉由分析這些文獻，研究團隊成功為高等教育機構在推動 RPO 方案時，提供了具體的實施藍圖、挑戰因應策略以及未來的研究方向。
 
 # 系統性文獻回顧結果
 
@@ -72,3 +72,9 @@ RPO 是指兩位或一組教師在**平等夥伴關係**的基礎上，同意互
     - **對行政目的缺乏信任**：教師往往對管理階層存有疑慮，擔憂教學影片或觀課紀錄會被用於評鑑（Summative assessment）、威脅工作穩定或影響升等考核。
     - **流於行政形式（Externally Imposed Agenda）**：若 RPO 被視為由上至下強制執行的任務，教師將失去自主權與所有權（Ownership），僅會進行「表面性的配合」來滿足行政指標，而非實質參與。
     - **缺乏後續支持與制度性獎勵**：學校往往未能將 RPO 產出的成果或優秀教學方法在學校層面擴大推廣，且教師為此付出的教學精進努力普遍缺乏對應的正式承認或獎勵。
+
+---
+
+## Reference
+
+Corcelles-Seuba, M., Ortiz, M., O’Leary, M., & Duran, D. (2025). A systematic review of reciprocal peer observation in higher education. _Professional Development in Education_, _51_(7), 1573–1590. [https://doi.org/10.1080/19415257.2025.2480768](https://doi.org/10.1080/19415257.2025.2480768)
