@@ -12,18 +12,18 @@
 
 ## 最近更新
 
-| 標題                                                                                                                                                   | 最後修改              |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                                      | 2026/09/09  12:34 |
-| [[revised Bloom's taxonomy table\|revised Bloom's taxonomy table]]                                                                                | 2026/09/09  12:19 |
-| [[references/Education/@corcelles-seubaSystematicReviewReciprocal2025\|A systematic review of reciprocal peer observation in higher education]]   | 2026/09/09  11:53 |
-| [[constructive alignment\|建設性調準（constructive alignment）]]                                                                                         | 2026/09/02  16:47 |
-| [[Buddhist Method — a skill for Claude\|Buddhist Method — a skill for Claude]]                                                                    | 2026/08/27  16:36 |
-| [[可接續的 AI 專案工作流\|可接續的 AI 專案工作流]]                                                                                                                  | 2026/08/18  14:00 |
-| [[generaliability theory\|generaliability theory]]                                                                                                | 2026/05/05  16:17 |
-| [[measurement of written feedback for clinical skills assessment\|評估臨床技能考試的書面回饋資料品質]]                                                             | 2026/04/01  11:35 |
-| [[Lord's paradox\|Lord's paradox]]                                                                                                                | 2026/03/27  09:53 |
-| [[Kıyak et al., 2026\|Applications and Outcomes of Large‑Language‑Model‑Generated Feedback in Undergraduate Medical Education: A Scoping Review]] | 2026/03/16  15:21 |
+| 標題                                                                                                                                                 | 最後修改              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Bloom’s dichotomous key\|Bloom’s dichotomous key]]                                                                                            | 2026/09/09  14:29 |
+| [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                                    | 2026/09/09  12:34 |
+| [[revised Bloom's taxonomy table\|revised Bloom's taxonomy table]]                                                                              | 2026/09/09  12:19 |
+| [[references/Education/@corcelles-seubaSystematicReviewReciprocal2025\|A systematic review of reciprocal peer observation in higher education]] | 2026/09/09  11:53 |
+| [[constructive alignment\|建設性調準（constructive alignment）]]                                                                                       | 2026/09/02  16:47 |
+| [[Buddhist Method — a skill for Claude\|Buddhist Method — a skill for Claude]]                                                                  | 2026/08/27  16:36 |
+| [[可接續的 AI 專案工作流\|可接續的 AI 專案工作流]]                                                                                                                | 2026/08/18  14:00 |
+| [[generaliability theory\|generaliability theory]]                                                                                              | 2026/05/05  16:17 |
+| [[measurement of written feedback for clinical skills assessment\|評估臨床技能考試的書面回饋資料品質]]                                                           | 2026/04/01  11:35 |
+| [[Lord's paradox\|Lord's paradox]]                                                                                                              | 2026/03/27  09:53 |
 
 { .block-language-dataview}
 
