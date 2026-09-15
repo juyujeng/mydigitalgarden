@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                                 | 最後修改              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Porter's Index\|Porter's Index]]                                                                                                              | 2026/09/15  11:29 |
 | [[Bloom’s dichotomous key\|Bloom’s dichotomous key]]                                                                                            | 2026/09/09  14:29 |
 | [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                                    | 2026/09/09  12:34 |
 | [[revised Bloom's taxonomy table\|revised Bloom's taxonomy table]]                                                                              | 2026/09/09  12:19 |
@@ -23,7 +24,6 @@
 | [[可接續的 AI 專案工作流\|可接續的 AI 專案工作流]]                                                                                                                | 2026/08/18  14:00 |
 | [[generaliability theory\|generaliability theory]]                                                                                              | 2026/05/05  16:17 |
 | [[measurement of written feedback for clinical skills assessment\|評估臨床技能考試的書面回饋資料品質]]                                                           | 2026/04/01  11:35 |
-| [[Lord's paradox\|Lord's paradox]]                                                                                                              | 2026/03/27  09:53 |
 
 { .block-language-dataview}
 
