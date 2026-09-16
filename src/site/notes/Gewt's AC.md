@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Gewt's AC/","title":"Gewt's AC","tags":["agreement","reliability","guideline","statistics"],"created":"2025-03-10T23:05","updated":"2026-09-16T16:22","dg-note-properties":{"date":"2025-03-10T23:05","lastmod":"2026-09-16T16:22","title":"Gewt's AC","author":"Ju","tags":["agreement","reliability","guideline","statistics"],"aliases":null}}
+{"dg-publish":true,"permalink":"/Gewt's AC/","title":"Gewt's AC","tags":["agreement","reliability","guideline","statistics"],"created":"2025-03-10T23:05","updated":"2026-09-16T17:04","dg-note-properties":{"date":"2025-03-10T23:05","lastmod":"2026-09-16T17:04","title":"Gewt's AC","author":"Ju","tags":["agreement","reliability","guideline","statistics"],"aliases":null}}
 ---
 
 
@@ -15,7 +15,7 @@ Kappa paradox 指 Cohen's kappa 在某些情況下，可能發生兩位評分者
 </div></div>
 
 
-### 可能情境一：邊際總數不平衡
+### 可能情境一：邊際總數不平衡（資料集中某些分類結果）
 
 當列聯表 (contingency table) 的邊緣總數（即行總和或列總和）存在嚴重不平衡時，即使觀察到高 agreement，Kappa 值也可能大幅降低。這種情況在實際研究中經常發生，特別是在某個（或某些）分類結果觀察到的次數遠高於其他分類結果觀察到的次數時。
 
@@ -30,7 +30,7 @@ Kappa paradox 指 Cohen's kappa 在某些情況下，可能發生兩位評分者
 | 2                 | 0 | 1  | 0 | 1      |
 | **總計**            | 0 | 30 | 0 | 30     |
 
-### 可能情境二：邊際分佈呈不對稱
+### 可能情境二：邊際分佈呈不對稱（評分偏誤或極端盛行率）
 
 指列聯表對角線以外的數值分佈不均勻。這可能跟評分者的評分能力有偏誤（bias），或是某個分類結果的盛行率（prevalence）很高（或很低）有關。
 

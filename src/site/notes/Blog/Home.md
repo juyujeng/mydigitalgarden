@@ -14,7 +14,7 @@
 
 | 標題                                                                                                                                                 | 最後修改              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| [[Gewt's AC\|Gewt's AC]]                                                                                                                        | 2026/09/16  16:22 |
+| [[Gewt's AC\|Gewt's AC]]                                                                                                                        | 2026/09/16  17:04 |
 | [[Porter's alignment index\|Porter's alignment index]]                                                                                          | 2026/09/15  11:39 |
 | [[Bloom’s dichotomous key\|Bloom’s dichotomous key]]                                                                                            | 2026/09/09  14:29 |
 | [[@work stuff/manual scripts stuff/empathy intervention/Bloom's Taxonomy\|Bloom's Taxonomy]]                                                    | 2026/09/09  12:34 |
