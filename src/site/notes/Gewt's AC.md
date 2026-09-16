@@ -1,11 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/Gewt's AC/","title":"Gewt's AC","tags":["agreement","reliability","guideline","statistics"],"created":"2025-03-10T23:05","updated":"2025-03-25T09:42","dg-note-properties":{"date":"2025-03-10T23:05","lastmod":"2025-03-25T09:42","title":"Gewt's AC","author":"Ju","tags":["agreement","reliability","guideline","statistics"]}}
+{"dg-publish":true,"permalink":"/Gewt's AC/","title":"Gewt's AC","tags":["agreement","reliability","guideline","statistics"],"created":"2025-03-10T23:05","updated":"2025-03-25T09:42","dg-note-properties":{"date":"2025-03-10T23:05","lastmod":"2025-03-25T09:42","title":"Gewt's AC","author":"Ju","tags":["agreement","reliability","guideline","statistics"],"aliases":null}}
 ---
 
 
-## 計算評分者間信度可能遇到的矛盾：Kappa paradox
+## 計算評分者間信度可能遇到的矛盾：[[Kappa paradox\|Kappa paradox]]
 
-Kappa paradox 指 Cohen's kappa 在某些情況下，可能發生兩位評分者的評分一致百分比（percentage of agreement）和 Cohen's kappa 結果差異很大的情況。例如一致百分比高，但是 Cohen's kappa低；或是一致百分比低而 Cohen's kappa 高。
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Kappa paradox/#f5e387" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+Kappa paradox 指 Cohen's kappa 在某些情況下，可能發生兩位評分者的評分一致百分比（percentage of agreement）和 Cohen's kappa 結果差異很大的情況。例如一致百分比高，但是 Cohen's kappa低；或是一致百分比低而 Cohen's kappa 高。 
+
+</div></div>
+
 
 ### 可能情境一：邊際總數不平衡
 
