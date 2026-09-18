@@ -20,4 +20,4 @@
 
 Coltman, T., Devinney, T. M., Midgley, D. F., & Venaik, S. (2008). Formative versus reflective measurement models: Two applications of formative measurement. *Journal of Business Research*, 13. <https://doi.org/10.1016/j.jbusres.2008.01.013>
 
-[[zotero note/coltmanFormativeReflectiveMeasurement2008\|coltmanFormativeReflectiveMeasurement2008]]
+[[coltmanFormativeReflectiveMeasurement2008\|coltmanFormativeReflectiveMeasurement2008]]
