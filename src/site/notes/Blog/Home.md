@@ -14,6 +14,7 @@
 
 | 標題                                                                                                                                                                                                           | 最後修改              | 建立日期              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ----------------- |
+| [[missing data\|遺漏值的類型]]                                                                                                                                                                                  | 2026/10/06  10:30 | 2026/10/06  09:45 |
 | [[Aptitude-Treatment Interaction\|Aptitude-Treatment Interaction]]                                                                                                                                        | 2026/10/02  15:46 | 2026/10/02  15:24 |
 | [[references/zotero note/@alubthaneAmplifierSubstituteSystematic2026\|Amplifier or substitute? A systematic review of generative AI’s impact on higher-order cognitive skills among university students]] | 2026/09/18  14:48 | 2026/09/18  10:25 |
 | [[Gewt's AC\|Gewt's AC]]                                                                                                                                                                                  | 2026/09/16  17:04 | 2025/03/10  23:05 |
@@ -23,7 +24,6 @@
 | [[revised Bloom's taxonomy table\|revised Bloom's taxonomy table]]                                                                                                                                        | 2026/09/09  12:19 | 2026/09/09  12:15 |
 | [[references/Education/@corcelles-seubaSystematicReviewReciprocal2025\|A systematic review of reciprocal peer observation in higher education]]                                                           | 2026/09/09  11:53 | 2026/09/07  10:43 |
 | [[constructive alignment\|建設性調準（constructive alignment）]]                                                                                                                                                 | 2026/09/02  16:47 | 2026/08/28  11:21 |
-| [[Buddhist Method — a skill for Claude\|Buddhist Method — a skill for Claude]]                                                                                                                            | 2026/08/27  16:36 | 2026/08/27  16:36 |
 
 { .block-language-dataview}
 
