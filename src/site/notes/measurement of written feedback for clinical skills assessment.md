@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/measurement of written feedback for clinical skills assessment/","title":"評估臨床技能考試的書面回饋資料品質","tags":["measurement","evaluation","feedback","education","OSCE"],"created":"2026-04-01T11:30","updated":"2026-04-01T11:35","dg-note-properties":{"date":"2026-04-01T11:30","lastmod":"2026-04-01T11:35","title":"評估臨床技能考試的書面回饋資料品質","tags":["measurement","evaluation","feedback","education","OSCE"]}}
+{"dg-publish":true,"permalink":"/measurement of written feedback for clinical skills assessment/","title":"評估臨床技能考試的書面回饋資料品質","tags":["measurement","evaluation","feedback","education","OSCE"],"created":"2026-04-01T11:30","updated":"2026-04-01T11:48","dg-note-properties":{"date":"2026-04-01T11:30","lastmod":"2026-04-01T11:48","title":"評估臨床技能考試的書面回饋資料品質","tags":["measurement","evaluation","feedback","education","OSCE"]}}
 ---
 
 

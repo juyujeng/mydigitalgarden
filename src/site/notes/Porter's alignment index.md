@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Porter's alignment index/","title":"Porter's alignment index","tags":["agreement","education","measurement"],"created":"2026-09-15T11:29","updated":"2026-09-15T11:39","dg-note-properties":{"date":"2026-09-15T11:29","lastmod":"2026-09-15T11:39","aliases":null,"tags":["agreement","education","measurement"],"title":"Porter's alignment index"}}
+{"dg-publish":true,"permalink":"/Porter's alignment index/","title":"Porter's alignment index","tags":["agreement","education","measurement"],"created":"2026-09-15T11:29","updated":"2026-09-16T11:12","dg-note-properties":{"date":"2026-09-15T11:29","lastmod":"2026-09-16T11:12","aliases":null,"tags":["agreement","education","measurement"],"title":"Porter's alignment index"}}
 ---
 
 

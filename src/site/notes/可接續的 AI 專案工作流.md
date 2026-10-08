@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/可接續的 AI 專案工作流/","title":"可接續的 AI 專案工作流","tags":["LLMAI","ai"],"created":"2026-08-14T16:13","updated":"2026-08-18T14:00","dg-note-properties":{"date":"2026-08-14T16:13","lastmod":"2026-08-18T14:00","tags":["LLMAI","ai"],"title":"可接續的 AI 專案工作流","theme":"css/mida-theme.css","center":true,"height":1080,"width":1920}}
+{"dg-publish":true,"permalink":"/可接續的 AI 專案工作流/","title":"可接續的 AI 專案工作流","tags":["LLMAI","ai"],"created":"2026-08-14T16:13","updated":"2026-08-18T14:27","dg-note-properties":{"date":"2026-08-14T16:13","lastmod":"2026-08-18T14:27","tags":["LLMAI","ai"],"title":"可接續的 AI 專案工作流","theme":"css/mida-theme.css","center":true,"height":1080,"width":1920}}
 ---
 
 

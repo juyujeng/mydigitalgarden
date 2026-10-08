@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/copy table from ChatGPT to word/","title":"複製ChatGPT產生的表格到Word","tags":["chatgpt","ai","guideline"],"created":"2025-07-29T11:40","updated":"2025-08-01T00:21","dg-note-properties":{"date":"2025-07-29T11:40","lastmod":"2025-08-01T00:21","title":"複製ChatGPT產生的表格到Word","author":"Ju","tags":["chatgpt","ai","guideline"]}}
+{"dg-publish":true,"permalink":"/copy table from ChatGPT to word/","title":"複製ChatGPT產生的表格到Word","tags":["chatgpt","ai","guideline"],"created":"2025-07-29T11:40","updated":"2025-07-31T10:39","dg-note-properties":{"date":"2025-07-29T11:40","lastmod":"2025-07-31T10:39","title":"複製ChatGPT產生的表格到Word","author":"Ju","tags":["chatgpt","ai","guideline"]}}
 ---
 
 

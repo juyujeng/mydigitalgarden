@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/constructive alignment/","title":"建設性調準（constructive alignment）","tags":["education","guideline"],"created":"2026-08-28T11:21","updated":"2026-09-02T16:47","dg-note-properties":{"date":"2026-08-28T11:21","lastmod":"2026-09-02T16:47","tags":["education","guideline"],"aliases":["CA"],"title":"建設性調準（constructive alignment）","vc-id":"cfdc443d-8f0e-42e9-a0ef-11a6dc7ed12c","citekey":"@biggsTeachingQualityLearning2009"}}
+{"dg-publish":true,"permalink":"/constructive alignment/","title":"建設性調準（constructive alignment）","tags":["education","guideline"],"created":"2026-08-28T11:21","updated":"2026-09-03T11:57","dg-note-properties":{"date":"2026-08-28T11:21","lastmod":"2026-09-03T11:57","tags":["education","guideline"],"aliases":["CA"],"title":"建設性調準（constructive alignment）","vc-id":"cfdc443d-8f0e-42e9-a0ef-11a6dc7ed12c","citekey":"@biggsTeachingQualityLearning2009"}}
 ---
 
 建設性調準（Constructive Alignment）是由教育學者 John Biggs 提出（並由 Biggs & Tang 延伸發展）的核心教學設計理論與系統性思考架構。

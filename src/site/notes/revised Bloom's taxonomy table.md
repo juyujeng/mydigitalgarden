@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/revised Bloom's taxonomy table/","title":"revised Bloom's taxonomy table","tags":["education","guideline"],"created":"2026-09-09T12:15","updated":"2026-09-09T12:19","dg-note-properties":{"date":"2026-09-09T12:15","lastmod":"2026-09-09T12:19","aliases":["Bloom's taxonomy"],"tags":["education","guideline"],"title":"revised Bloom's taxonomy table"}}
+{"dg-publish":true,"permalink":"/revised Bloom's taxonomy table/","title":"revised Bloom's taxonomy table","tags":["education","guideline"],"created":"2026-09-09T12:15","updated":"2026-09-09T12:24","dg-note-properties":{"date":"2026-09-09T12:15","lastmod":"2026-09-09T12:24","aliases":["Bloom's taxonomy"],"tags":["education","guideline"],"title":"revised Bloom's taxonomy table"}}
 ---
 
 

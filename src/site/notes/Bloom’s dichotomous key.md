@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Bloom’s dichotomous key/","title":"Bloom’s dichotomous key","created":"2026-09-09T14:28","updated":"2026-09-09T14:29","dg-note-properties":{"date":"2026-09-09T14:28","lastmod":"2026-09-09T14:29","tags":null,"aliases":["BDK"],"title":"Bloom’s dichotomous key"}}
+{"dg-publish":true,"permalink":"/Bloom’s dichotomous key/","title":"Bloom’s dichotomous key","created":"2026-09-09T14:28","updated":"2026-09-09T15:40","dg-note-properties":{"date":"2026-09-09T14:28","lastmod":"2026-09-09T15:40","tags":null,"aliases":["BDK"],"title":"Bloom’s dichotomous key"}}
 ---
 
 

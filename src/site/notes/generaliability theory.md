@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/generaliability theory/","title":"generaliability theory","tags":["reliability","guideline","statistics"],"created":"2026-05-05T11:20","updated":"2026-05-05T16:17","dg-note-properties":{"date":"2026-05-05T11:20","lastmod":"2026-05-05T16:17","title":"generaliability theory","tags":["reliability","guideline","statistics"],"vc-id":"fbd175fc-bae2-4458-a7e7-bfd57655fdad"}}
+{"dg-publish":true,"permalink":"/generaliability theory/","title":"generaliability theory","tags":["reliability","guideline","statistics"],"created":"2026-05-05T11:20","updated":"2026-05-05T16:27","dg-note-properties":{"date":"2026-05-05T11:20","lastmod":"2026-05-05T16:27","title":"generaliability theory","tags":["reliability","guideline","statistics"],"vc-id":"fbd175fc-bae2-4458-a7e7-bfd57655fdad"}}
 ---
 
 

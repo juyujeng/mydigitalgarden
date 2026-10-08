@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lord's paradox/","title":"Lord's paradox","tags":["statistics","terms"],"created":"2026-03-27T09:51","updated":"2026-03-27T09:53","dg-note-properties":{"date":"2026-03-27T09:51","lastmod":"2026-03-27T09:53","title":"Lord's paradox","tags":["statistics","terms"]}}
+{"dg-publish":true,"permalink":"/Lord's paradox/","title":"Lord's paradox","tags":["statistics","terms"],"created":"2026-03-27T09:51","updated":"2026-03-27T09:59","dg-note-properties":{"date":"2026-03-27T09:51","lastmod":"2026-03-27T09:59","title":"Lord's paradox","tags":["statistics","terms"]}}
 ---
 
 
